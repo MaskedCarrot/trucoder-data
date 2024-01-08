@@ -97,6 +97,14 @@
             "endTime": 1707323400000
         },
         {
+            "id": 3,
+            "name": "AtCoder Regular Contest 171",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc171",
+            "startTime": 1707048000000,
+            "endTime": 1707055200000
+        },
+        {
             "id": 2,
             "name": "Starters 119",
             "platform": "Codechef",
@@ -874,6 +882,14 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round 905 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1883",
+            "startTime": 1697972700000,
+            "endTime": 1697979900000
+        },
+        {
+            "id": 1,
             "name": "Codeforces Round 905 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1888",
@@ -885,14 +901,6 @@
             "name": "Codeforces Round 905 (Div. 1)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1887",
-            "startTime": 1697972700000,
-            "endTime": 1697979900000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 905 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1883",
             "startTime": 1697972700000,
             "endTime": 1697979900000
         },
@@ -1338,17 +1346,17 @@
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day2",
+            "name": "AGC: World Tour Finals 2022 Day2\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day2",
+            "link": "https://atcoder.jp/contests/wtf22-day2-open",
             "startTime": 1694232000000,
             "endTime": 1694250000000
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day2\uff08Open Contest\uff09",
+            "name": "AGC: World Tour Finals 2022 Day2",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day2-open",
+            "link": "https://atcoder.jp/contests/wtf22-day2",
             "startTime": 1694232000000,
             "endTime": 1694250000000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1826",
             "startTime": 1683297300000,
             "endTime": 1683304500000
-        },
-        {
-            "id": 2,
-            "name": "Starters 88 (Rated till 6 Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START88",
-            "startTime": 1683124200000,
-            "endTime": 1683131400000
         }
     ]
 }
