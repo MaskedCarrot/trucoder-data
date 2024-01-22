@@ -45,8 +45,8 @@
             "name": "MC Digital Programming Contest 2024\uff08AtCoder Heuristic Contest 031\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc031",
-            "startTime": 1711162800000,
-            "endTime": 1711879200000
+            "startTime": 1711101600000,
+            "endTime": 1711965600000
         },
         {
             "id": 2,
@@ -202,17 +202,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1924",
+            "link": "https://codeforces.com/contests/1925",
             "startTime": 1706366100000,
             "endTime": 1706373300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1925",
+            "link": "https://codeforces.com/contests/1924",
             "startTime": 1706366100000,
             "endTime": 1706373300000
         },
