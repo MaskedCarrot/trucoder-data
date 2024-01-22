@@ -1,9 +1,9 @@
-# trucoder-data
+# TruCoder Data
 
-TruCoder keeps you in the know about various upcoming competitive coding contests. TruCoder also keeps track of your performance in competitions held on CodeChef and Codeforces.
+TruCoder keeps you informed about various upcoming competitive coding contests. It also helps you track your performance in competitions hosted on platforms like CodeChef and Codeforces.
 
-*contest_scheduler.py* fetches the data of upcoming contests.
+## Contest Scheduler
 
-This script is run periodically using github-actions bot.
+The `contest_scheduler.py` script is responsible for fetching the data of upcoming contests. This script is run periodically using GitHub Actions.
 
-The fetched data is stored in a json file in the *data* folder.
+The fetched data is stored in a JSON file located in the `data` folder.
