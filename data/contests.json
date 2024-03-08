@@ -314,17 +314,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 1)",
+            "name": "Codeforces Round 930 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1936",
+            "link": "https://codeforces.com/contests/1937",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 2)",
+            "name": "Codeforces Round 930 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1937",
+            "link": "https://codeforces.com/contests/1936",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
@@ -1386,6 +1386,14 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round 905 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1887",
+            "startTime": 1697972700000,
+            "endTime": 1697979900000
+        },
+        {
+            "id": 1,
             "name": "Codeforces Round 905 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1888",
@@ -1397,14 +1405,6 @@
             "name": "Codeforces Round 905 (Div. 3)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1883",
-            "startTime": 1697972700000,
-            "endTime": 1697979900000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 905 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1887",
             "startTime": 1697972700000,
             "endTime": 1697979900000
         },
@@ -1762,17 +1762,17 @@
         },
         {
             "id": 2,
-            "name": "CodeRush",
+            "name": "KrackTheCode - 1",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/CDRS2023",
+            "link": "https://www.codechef.com/KRC12023",
             "startTime": 1694788200000,
             "endTime": 1694799000000
         },
         {
             "id": 2,
-            "name": "KrackTheCode - 1",
+            "name": "CodeRush",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/KRC12023",
+            "link": "https://www.codechef.com/CDRS2023",
             "startTime": 1694788200000,
             "endTime": 1694799000000
         },
@@ -1850,17 +1850,17 @@
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day2\uff08Open Contest\uff09",
+            "name": "AGC: World Tour Finals 2022 Day2",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day2-open",
+            "link": "https://atcoder.jp/contests/wtf22-day2",
             "startTime": 1694232000000,
             "endTime": 1694250000000
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day2",
+            "name": "AGC: World Tour Finals 2022 Day2\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day2",
+            "link": "https://atcoder.jp/contests/wtf22-day2-open",
             "startTime": 1694232000000,
             "endTime": 1694250000000
         },
