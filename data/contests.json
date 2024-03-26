@@ -205,8 +205,8 @@
             "name": "\u30d1\u7814\u5408\u5bbf2023 \u7b2c1\u65e5\u300cSpeedRun\u300d",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/pakencamp-2023-day1",
-            "startTime": 1711429200000,
-            "endTime": 1711438200000
+            "startTime": 1711431000000,
+            "endTime": 1711440000000
         },
         {
             "id": 3,
@@ -466,17 +466,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 2)",
+            "name": "Codeforces Round 930 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1937",
+            "link": "https://codeforces.com/contests/1936",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 1)",
+            "name": "Codeforces Round 930 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1936",
+            "link": "https://codeforces.com/contests/1937",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
@@ -1538,6 +1538,14 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round 905 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1883",
+            "startTime": 1697972700000,
+            "endTime": 1697979900000
+        },
+        {
+            "id": 1,
             "name": "Codeforces Round 905 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1888",
@@ -1549,14 +1557,6 @@
             "name": "Codeforces Round 905 (Div. 1)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1887",
-            "startTime": 1697972700000,
-            "endTime": 1697979900000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 905 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1883",
             "startTime": 1697972700000,
             "endTime": 1697979900000
         },
