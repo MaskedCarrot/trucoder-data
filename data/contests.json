@@ -138,7 +138,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 135",
+            "name": "Starters 135 (Rated till 5-Stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START135",
             "startTime": 1716388200000,
@@ -346,17 +346,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 941 (Div. 1)",
+            "name": "Codeforces Round 941 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1965",
+            "link": "https://codeforces.com/contests/1966",
             "startTime": 1714228500000,
             "endTime": 1714235700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 941 (Div. 2)",
+            "name": "Codeforces Round 941 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1966",
+            "link": "https://codeforces.com/contests/1965",
             "startTime": 1714228500000,
             "endTime": 1714235700000
         },
@@ -1170,17 +1170,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 921 (Div. 1)",
+            "name": "Codeforces Round 921 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1924",
+            "link": "https://codeforces.com/contests/1925",
             "startTime": 1706366700000,
             "endTime": 1706373900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 921 (Div. 2)",
+            "name": "Codeforces Round 921 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1925",
+            "link": "https://codeforces.com/contests/1924",
             "startTime": 1706366700000,
             "endTime": 1706373900000
         },
