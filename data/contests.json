@@ -98,6 +98,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 360",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc360",
+            "startTime": 1719748800000,
+            "endTime": 1719754800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest 180",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc180",
@@ -586,17 +594,17 @@
         },
         {
             "id": 6,
-            "name": "ICPC 2022 World Finals",
+            "name": "ICPC 2023 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
         {
             "id": 6,
-            "name": "ICPC 2023 World Finals",
+            "name": "ICPC 2022 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
@@ -898,17 +906,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 934 (Div. 1)",
+            "name": "Codeforces Round 934 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1943",
+            "link": "https://codeforces.com/contests/1944",
             "startTime": 1710599700000,
             "endTime": 1710608400000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 934 (Div. 2)",
+            "name": "Codeforces Round 934 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1944",
+            "link": "https://codeforces.com/contests/1943",
             "startTime": 1710599700000,
             "endTime": 1710608400000
         },
@@ -1322,17 +1330,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 921 (Div. 2)",
+            "name": "Codeforces Round 921 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1925",
+            "link": "https://codeforces.com/contests/1924",
             "startTime": 1706366700000,
             "endTime": 1706373900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 921 (Div. 1)",
+            "name": "Codeforces Round 921 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1924",
+            "link": "https://codeforces.com/contests/1925",
             "startTime": 1706366700000,
             "endTime": 1706373900000
         },
@@ -2146,17 +2154,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 905 (Div. 1)",
+            "name": "Codeforces Round 905 (Div. 3)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1887",
+            "link": "https://codeforces.com/contests/1883",
             "startTime": 1697972700000,
             "endTime": 1697979900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 905 (Div. 3)",
+            "name": "Codeforces Round 905 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1883",
+            "link": "https://codeforces.com/contests/1887",
             "startTime": 1697972700000,
             "endTime": 1697979900000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START102",
             "startTime": 1695825000000,
             "endTime": 1695832200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 900 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1878",
-            "startTime": 1695738900000,
-            "endTime": 1695747000000
         }
     ]
 }
