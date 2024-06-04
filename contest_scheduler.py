@@ -30,37 +30,29 @@ leetcode: 102
 google: 35
 atcoder: 93
 '''
+clistId_to_platform_id = {
+    1: 1,
+    2: 2,
+    93: 3,
+    102: 4,
+    35: 5,
+    133: 6
+}
+clistId_to_platform_name = {
+    1: 'Codeforces',
+    2: 'Codechef',
+    93: 'Atcoder',
+    102: 'Leetcode',
+    35: 'Google',
+    133: 'Meta'
+}
+
 def getPlatformIdFromResourceId(clistId):
-    if (clistId == 1):
-        return 1
-    elif (clistId == 2):
-        return 2
-    elif (clistId == 93):
-        return 3
-    elif (clistId == 102):
-        return 4
-    elif (clistId == 35):
-        return 5
-    elif (clistId == 133):
-        return 6
-    else:
-        return -1
-    
+    return clistId_to_platform_id.get(clistId, -1)
+
 def getPlatformNameFromResourceId(clistId):
-    if (clistId == 1):
-        return 'Codeforces'
-    elif (clistId == 2):
-        return 'Codechef'
-    elif (clistId == 93):
-        return 'Atcoder'
-    elif (clistId == 102):
-        return 'Leetcode'
-    elif (clistId == 35):
-        return 'Google'
-    elif (clistId == 133):
-        return 'Meta'
-    else:
-        return 'Platform not supported'
+    return clistId_to_platform_name.get(clistId, 'Platform not supported')
+
     
 URL = "https://clist.by:443/api/v2/contest/?limit=300&start_time__during=8640000&resource_id__in=1%2C2%2C93%2C102%2C133%2C35&filtered=false&order_by=-start&username=MaskedCarrot&api_key=3756ead7ff87d60d0029be2c4d3b6847ad6aa1b5"
 
