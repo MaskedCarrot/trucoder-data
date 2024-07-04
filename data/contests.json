@@ -162,17 +162,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720755000000,
             "endTime": 1720773000000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720755000000,
             "endTime": 1720773000000
         },
@@ -842,17 +842,17 @@
         },
         {
             "id": 6,
-            "name": "ICPC 2022 World Finals",
+            "name": "ICPC 2023 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
         {
             "id": 6,
-            "name": "ICPC 2023 World Finals",
+            "name": "ICPC 2022 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
