@@ -162,6 +162,14 @@
         },
         {
             "id": 3,
+            "name": "World Tour Finals 2024",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2024",
+            "startTime": 1720755000000,
+            "endTime": 1720773000000
+        },
+        {
+            "id": 3,
             "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awtf2024-open",
@@ -169,12 +177,12 @@
             "endTime": 1720773000000
         },
         {
-            "id": 3,
-            "name": "World Tour Finals 2024",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
-            "startTime": 1720755000000,
-            "endTime": 1720773000000
+            "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1992",
+            "startTime": 1720708500000,
+            "endTime": 1720716600000
         },
         {
             "id": 2,
@@ -186,7 +194,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 956 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1983",
             "startTime": 1720362900000,
@@ -826,17 +834,17 @@
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
+            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2024-final",
+            "link": "https://atcoder.jp/contests/masters2024-final-open",
             "startTime": 1713579000000,
             "endTime": 1713600600000
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
+            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2024-final-open",
+            "link": "https://atcoder.jp/contests/masters2024-final",
             "startTime": 1713579000000,
             "endTime": 1713600600000
         },
@@ -1322,17 +1330,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 2)",
+            "name": "Codeforces Round 930 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1937",
+            "link": "https://codeforces.com/contests/1936",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 1)",
+            "name": "Codeforces Round 930 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1936",
+            "link": "https://codeforces.com/contests/1937",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
@@ -1578,17 +1586,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 921 (Div. 1)",
+            "name": "Codeforces Round 921 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1924",
+            "link": "https://codeforces.com/contests/1925",
             "startTime": 1706366700000,
             "endTime": 1706373900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 921 (Div. 2)",
+            "name": "Codeforces Round 921 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1925",
+            "link": "https://codeforces.com/contests/1924",
             "startTime": 1706366700000,
             "endTime": 1706373900000
         },
@@ -2242,17 +2250,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 908 (Div. 1)",
+            "name": "Codeforces Round 908 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1893",
+            "link": "https://codeforces.com/contests/1894",
             "startTime": 1699367700000,
             "endTime": 1699374900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 908 (Div. 2)",
+            "name": "Codeforces Round 908 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1894",
+            "link": "https://codeforces.com/contests/1893",
             "startTime": 1699367700000,
             "endTime": 1699374900000
         },
@@ -2346,17 +2354,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 906 (Div. 1)",
+            "name": "Codeforces Round 906 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1889",
+            "link": "https://codeforces.com/contests/1890",
             "startTime": 1698503700000,
             "endTime": 1698512700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 906 (Div. 2)",
+            "name": "Codeforces Round 906 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1890",
+            "link": "https://codeforces.com/contests/1889",
             "startTime": 1698503700000,
             "endTime": 1698512700000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START105",
             "startTime": 1698244200000,
             "endTime": 1698251400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 905 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1887",
-            "startTime": 1697972700000,
-            "endTime": 1697979900000
         }
     ]
 }
