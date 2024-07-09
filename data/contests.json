@@ -186,17 +186,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720755000000,
             "endTime": 1720773000000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720755000000,
             "endTime": 1720773000000
         },
@@ -210,7 +210,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 142",
+            "name": "Starters 142 (Rated till 5-Stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START142",
             "startTime": 1720621800000,
