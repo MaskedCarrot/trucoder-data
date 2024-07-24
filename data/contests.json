@@ -130,17 +130,17 @@
         },
         {
             "id": 2,
-            "name": "Starters 146 Division 1",
+            "name": "Starters 146 Division 2",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START146A",
+            "link": "https://www.codechef.com/START146B",
             "startTime": 1723041000000,
             "endTime": 1723048200000
         },
         {
             "id": 2,
-            "name": "Starters 146 Division 2",
+            "name": "Starters 146 Division 1",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START146B",
+            "link": "https://www.codechef.com/START146A",
             "startTime": 1723041000000,
             "endTime": 1723048200000
         },
