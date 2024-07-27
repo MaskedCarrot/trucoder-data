@@ -130,17 +130,17 @@
         },
         {
             "id": 2,
-            "name": "Starters 146 Division 1",
+            "name": "Starters 146",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START146A",
+            "link": "https://www.codechef.com/START146",
             "startTime": 1723041000000,
             "endTime": 1723048200000
         },
         {
             "id": 2,
-            "name": "Starters 146",
+            "name": "Starters 146 Division 1",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START146",
+            "link": "https://www.codechef.com/START146A",
             "startTime": 1723041000000,
             "endTime": 1723048200000
         },
@@ -1026,17 +1026,17 @@
         },
         {
             "id": 6,
-            "name": "ICPC 2023 World Finals",
+            "name": "ICPC 2022 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
         {
             "id": 6,
-            "name": "ICPC 2022 World Finals",
+            "name": "ICPC 2023 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
