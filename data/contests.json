@@ -130,17 +130,17 @@
         },
         {
             "id": 2,
-            "name": "Starters 146",
+            "name": "Starters 146 Division 1",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START146",
+            "link": "https://www.codechef.com/START146A",
             "startTime": 1723041000000,
             "endTime": 1723048200000
         },
         {
             "id": 2,
-            "name": "Starters 146 Division 1",
+            "name": "Starters 146",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START146A",
+            "link": "https://www.codechef.com/START146",
             "startTime": 1723041000000,
             "endTime": 1723048200000
         },
@@ -159,6 +159,14 @@
             "link": "https://atcoder.jp/contests/arc181",
             "startTime": 1722772800000,
             "endTime": 1722780000000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 409",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-409",
+            "startTime": 1722738600000,
+            "endTime": 1722744000000
         },
         {
             "id": 4,
@@ -330,17 +338,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
@@ -1506,17 +1514,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 2)",
+            "name": "Codeforces Round 930 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1937",
+            "link": "https://codeforces.com/contests/1936",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 1)",
+            "name": "Codeforces Round 930 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1936",
+            "link": "https://codeforces.com/contests/1937",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START108",
             "startTime": 1700061000000,
             "endTime": 1700069100000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 371",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-371",
-            "startTime": 1699756200000,
-            "endTime": 1699761600000
         }
     ]
 }
