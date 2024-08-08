@@ -149,8 +149,8 @@
             "name": "Codeforces Round (Div. 3)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2000",
-            "startTime": 1723473300000,
-            "endTime": 1723481400000
+            "startTime": 1723559700000,
+            "endTime": 1723567800000
         },
         {
             "id": 1,
@@ -402,17 +402,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
