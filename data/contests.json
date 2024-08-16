@@ -1034,17 +1034,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 941 (Div. 2)",
+            "name": "Codeforces Round 941 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1966",
+            "link": "https://codeforces.com/contests/1965",
             "startTime": 1714228500000,
             "endTime": 1714235700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 941 (Div. 1)",
+            "name": "Codeforces Round 941 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1965",
+            "link": "https://codeforces.com/contests/1966",
             "startTime": 1714228500000,
             "endTime": 1714235700000
         },
@@ -1122,17 +1122,17 @@
         },
         {
             "id": 6,
-            "name": "ICPC 2023 World Finals",
+            "name": "ICPC 2022 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
         {
             "id": 6,
-            "name": "ICPC 2022 World Finals",
+            "name": "ICPC 2023 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
