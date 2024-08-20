@@ -2,6 +2,22 @@
     "contests": [
         {
             "id": 2,
+            "name": "Starters 155",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START155",
+            "startTime": 1728484200000,
+            "endTime": 1728491400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 154",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START154",
+            "startTime": 1727879400000,
+            "endTime": 1727886600000
+        },
+        {
+            "id": 2,
             "name": "Starters 153",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START153",
@@ -42,7 +58,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 151",
+            "name": "Starters 150",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START151",
             "startTime": 1726065000000,
@@ -79,6 +95,30 @@
             "link": "https://atcoder.jp/contests/abc369",
             "startTime": 1725105600000,
             "endTime": 1725111600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 149",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START149A",
+            "startTime": 1724855400000,
+            "endTime": 1724862600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 149",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START149C",
+            "startTime": 1724855400000,
+            "endTime": 1724862600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 149",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START149B",
+            "startTime": 1724855400000,
+            "endTime": 1724862600000
         },
         {
             "id": 2,
@@ -138,7 +178,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 148",
+            "name": "Starters 148 (Rated till 6 stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START148",
             "startTime": 1724250600000,
@@ -458,17 +498,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
@@ -1138,14 +1178,6 @@
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2024-final",
-            "startTime": 1713579000000,
-            "endTime": 1713600600000
-        },
-        {
-            "id": 3,
             "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/masters2024-final-open",
@@ -1153,18 +1185,26 @@
             "endTime": 1713600600000
         },
         {
-            "id": 6,
-            "name": "ICPC 2022 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
-            "startTime": 1713398400000,
-            "endTime": 1713398400000
+            "id": 3,
+            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2024-final",
+            "startTime": 1713579000000,
+            "endTime": 1713600600000
         },
         {
             "id": 6,
             "name": "ICPC 2023 World Finals",
             "platform": "Meta",
             "link": "https://cphof.org/standings/icpc/2023",
+            "startTime": 1713398400000,
+            "endTime": 1713398400000
+        },
+        {
+            "id": 6,
+            "name": "ICPC 2022 World Finals",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
@@ -2359,46 +2399,6 @@
             "link": "https://atcoder.jp/contests/DEGwer2023",
             "startTime": 1701489600000,
             "endTime": 1701507600000
-        },
-        {
-            "id": 6,
-            "name": "Yandex Cup 2023 Algorithm",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/ya_algo/2023",
-            "startTime": 1701475200000,
-            "endTime": 1701475200000
-        },
-        {
-            "id": 1,
-            "name": "Kotlin Heroes: Practice 9 (release 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1911",
-            "startTime": 1701440700000,
-            "endTime": 1702304700000
-        },
-        {
-            "id": 3,
-            "name": "HACK TO THE FUTURE 2024 (AtCoder Heuristic Contest 027)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc027",
-            "startTime": 1701424800000,
-            "endTime": 1702202400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 912 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1903",
-            "startTime": 1701362100000,
-            "endTime": 1701370200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 110 (Rated till 5-stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START110",
-            "startTime": 1701268200000,
-            "endTime": 1701275400000
         }
     ]
 }
