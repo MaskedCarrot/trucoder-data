@@ -25,6 +25,14 @@
             "endTime": 1727886600000
         },
         {
+            "id": 1,
+            "name": "Kotlin Heroes: Episode 11",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2011",
+            "startTime": 1727706900000,
+            "endTime": 1727715900000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 373",
             "platform": "Atcoder",
@@ -39,6 +47,14 @@
             "link": "https://www.codechef.com/START153",
             "startTime": 1727274600000,
             "endTime": 1727281800000
+        },
+        {
+            "id": 1,
+            "name": "Kotlin Heroes: Practice 11",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2012",
+            "startTime": 1727098500000,
+            "endTime": 1727703300000
         },
         {
             "id": 3,
@@ -162,17 +178,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -562,17 +578,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
@@ -1138,17 +1154,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 942 (Div. 1)",
+            "name": "Codeforces Round 942 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1967",
+            "link": "https://codeforces.com/contests/1972",
             "startTime": 1714487700000,
             "endTime": 1714496700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 942 (Div. 2)",
+            "name": "Codeforces Round 942 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1972",
+            "link": "https://codeforces.com/contests/1967",
             "startTime": 1714487700000,
             "endTime": 1714496700000
         },
@@ -1258,17 +1274,17 @@
         },
         {
             "id": 6,
-            "name": "ICPC 2023 World Finals",
+            "name": "ICPC 2022 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
         {
             "id": 6,
-            "name": "ICPC 2022 World Finals",
+            "name": "ICPC 2023 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
@@ -1738,17 +1754,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 1)",
+            "name": "Codeforces Round 930 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1936",
+            "link": "https://codeforces.com/contests/1937",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 2)",
+            "name": "Codeforces Round 930 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1937",
+            "link": "https://codeforces.com/contests/1936",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
@@ -1994,17 +2010,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 921 (Div. 2)",
+            "name": "Codeforces Round 921 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1925",
+            "link": "https://codeforces.com/contests/1924",
             "startTime": 1706366700000,
             "endTime": 1706373900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 921 (Div. 1)",
+            "name": "Codeforces Round 921 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1924",
+            "link": "https://codeforces.com/contests/1925",
             "startTime": 1706366700000,
             "endTime": 1706373900000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/1904",
             "startTime": 1702137900000,
             "endTime": 1702145100000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 119",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-119",
-            "startTime": 1702132200000,
-            "endTime": 1702137600000
-        },
-        {
-            "id": 3,
-            "name": "estie Programming Contest 2023 (AtCoder Regular Contest 169)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc169",
-            "startTime": 1702123200000,
-            "endTime": 1702130400000
         }
     ]
 }
