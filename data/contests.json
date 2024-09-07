@@ -145,6 +145,14 @@
             "endTime": 1725716400000
         },
         {
+            "id": 6,
+            "name": "IOI 2024",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/ioi/2024",
+            "startTime": 1725580800000,
+            "endTime": 1725580800000
+        },
+        {
             "id": 2,
             "name": "Starters 150 (Rated till 6 stars)",
             "platform": "Codechef",
@@ -194,17 +202,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -1170,17 +1178,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 942 (Div. 2)",
+            "name": "Codeforces Round 942 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1972",
+            "link": "https://codeforces.com/contests/1967",
             "startTime": 1714487700000,
             "endTime": 1714496700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 942 (Div. 1)",
+            "name": "Codeforces Round 942 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1967",
+            "link": "https://codeforces.com/contests/1972",
             "startTime": 1714487700000,
             "endTime": 1714496700000
         },
@@ -1202,17 +1210,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 941 (Div. 1)",
+            "name": "Codeforces Round 941 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1965",
+            "link": "https://codeforces.com/contests/1966",
             "startTime": 1714228500000,
             "endTime": 1714235700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 941 (Div. 2)",
+            "name": "Codeforces Round 941 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1966",
+            "link": "https://codeforces.com/contests/1965",
             "startTime": 1714228500000,
             "endTime": 1714235700000
         },
@@ -1274,14 +1282,6 @@
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2024-final",
-            "startTime": 1713579000000,
-            "endTime": 1713600600000
-        },
-        {
-            "id": 3,
             "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/masters2024-final-open",
@@ -1289,18 +1289,26 @@
             "endTime": 1713600600000
         },
         {
-            "id": 6,
-            "name": "ICPC 2023 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
-            "startTime": 1713398400000,
-            "endTime": 1713398400000
+            "id": 3,
+            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2024-final",
+            "startTime": 1713579000000,
+            "endTime": 1713600600000
         },
         {
             "id": 6,
             "name": "ICPC 2022 World Finals",
             "platform": "Meta",
             "link": "https://cphof.org/standings/icpc/2022",
+            "startTime": 1713398400000,
+            "endTime": 1713398400000
+        },
+        {
+            "id": 6,
+            "name": "ICPC 2023 World Finals",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
@@ -1602,17 +1610,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 934 (Div. 1)",
+            "name": "Codeforces Round 934 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1943",
+            "link": "https://codeforces.com/contests/1944",
             "startTime": 1710599700000,
             "endTime": 1710608400000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 934 (Div. 2)",
+            "name": "Codeforces Round 934 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1944",
+            "link": "https://codeforces.com/contests/1943",
             "startTime": 1710599700000,
             "endTime": 1710608400000
         },
@@ -1770,17 +1778,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 1)",
+            "name": "Codeforces Round 930 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1936",
+            "link": "https://codeforces.com/contests/1937",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 930 (Div. 2)",
+            "name": "Codeforces Round 930 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1937",
+            "link": "https://codeforces.com/contests/1936",
             "startTime": 1709217300000,
             "endTime": 1709224500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc332",
             "startTime": 1702209600000,
             "endTime": 1702215600000
-        },
-        {
-            "id": 3,
-            "name": "JOI 2023/2024 \u4e8c\u6b21\u4e88\u9078  \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joi2024yo2",
-            "startTime": 1702180800000,
-            "endTime": 1702191600000
         }
     ]
 }
