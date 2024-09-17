@@ -122,7 +122,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 152",
+            "name": "Starters 152 (Rated till 6 stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START152",
             "startTime": 1726669800000,
@@ -183,6 +183,14 @@
             "link": "https://atcoder.jp/contests/abc371",
             "startTime": 1726315200000,
             "endTime": 1726321200000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2024/2025 \u4e00\u6b21\u4e88\u9078 (\u7b2c1\u56de) \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2025yo1a",
+            "startTime": 1726290000000,
+            "endTime": 1726294800000
         },
         {
             "id": 2,
@@ -266,17 +274,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -666,17 +674,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1914",
             "startTime": 1702996500000,
             "endTime": 1703005500000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 160 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1913",
-            "startTime": 1702910100000,
-            "endTime": 1702917300000
         }
     ]
 }
