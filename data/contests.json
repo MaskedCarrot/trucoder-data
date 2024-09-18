@@ -1,12 +1,60 @@
 {
     "contests": [
         {
+            "id": 2,
+            "name": "Starters 161",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START161",
+            "startTime": 1732113000000,
+            "endTime": 1732120200000
+        },
+        {
+            "id": 2,
+            "name": "Starter 160",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START160",
+            "startTime": 1731508200000,
+            "endTime": 1731515400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 159",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START159",
+            "startTime": 1730903400000,
+            "endTime": 1730910600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 158",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START158",
+            "startTime": 1730298600000,
+            "endTime": 1730305800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 157",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START157",
+            "startTime": 1729693800000,
+            "endTime": 1729701000000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 376",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc376",
             "startTime": 1729339200000,
             "endTime": 1729345200000
+        },
+        {
+            "id": 2,
+            "name": "Starters 156",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START156",
+            "startTime": 1729089000000,
+            "endTime": 1729096200000
         },
         {
             "id": 3,
@@ -282,17 +330,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -682,17 +730,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
@@ -2351,54 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-377",
             "startTime": 1703385000000,
             "endTime": 1703390400000
-        },
-        {
-            "id": 1,
-            "name": "Pinely Round 3 (Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1909",
-            "startTime": 1703342100000,
-            "endTime": 1703352900000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 120",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-120",
-            "startTime": 1703341800000,
-            "endTime": 1703347200000
-        },
-        {
-            "id": 3,
-            "name": "UNIQUE VISION Programming Contest 2023 Christmas (AtCoder Beginner Contest 334)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc334",
-            "startTime": 1703332800000,
-            "endTime": 1703338800000
-        },
-        {
-            "id": 3,
-            "name": "RECRUIT Nihonbashi Half Marathon 2024 Winter\uff08AtCoder Heuristic Contest 029\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc029",
-            "startTime": 1703214000000,
-            "endTime": 1703592000000
-        },
-        {
-            "id": 2,
-            "name": "Code Sprint II",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/COSR2023",
-            "startTime": 1703165400000,
-            "endTime": 1703172600000
-        },
-        {
-            "id": 2,
-            "name": "Starters 113 (Rated for All)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START113",
-            "startTime": 1703082600000,
-            "endTime": 1703091600000
         }
     ]
 }
