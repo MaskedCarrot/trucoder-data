@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 376",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc376",
+            "startTime": 1729339200000,
+            "endTime": 1729345200000
+        },
+        {
+            "id": 3,
             "name": "Panasonic Programming Contest 2024\uff08AtCoder Beginner Contest 375\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc375",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START113",
             "startTime": 1703082600000,
             "endTime": 1703091600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 916 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1914",
-            "startTime": 1702996500000,
-            "endTime": 1703005500000
         }
     ]
 }
