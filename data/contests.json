@@ -122,6 +122,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 417",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-417",
+            "startTime": 1727577000000,
+            "endTime": 1727582400000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 140",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-140",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START114",
             "startTime": 1703687400000,
             "endTime": 1703695500000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 917 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1917",
-            "startTime": 1703428500000,
-            "endTime": 1703435700000
         }
     ]
 }
