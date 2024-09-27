@@ -34,6 +34,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 186",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc186",
+            "startTime": 1730030400000,
+            "endTime": 1730037600000
+        },
+        {
+            "id": 3,
             "name": "TOYOTA SYSTEMS Programming Contest 2024\uff08AtCoder Beginner Contest 377)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc377",
@@ -154,17 +162,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -378,17 +386,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START115",
             "startTime": 1704292200000,
             "endTime": 1704301200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 378",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-378",
-            "startTime": 1703989800000,
-            "endTime": 1703995200000
         }
     ]
 }
