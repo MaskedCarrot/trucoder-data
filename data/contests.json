@@ -73,6 +73,14 @@
             "endTime": 1729096200000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 141",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-141",
+            "startTime": 1728743400000,
+            "endTime": 1728748800000
+        },
+        {
             "id": 3,
             "name": "Panasonic Programming Contest 2024\uff08AtCoder Beginner Contest 375\uff09",
             "platform": "Atcoder",
@@ -386,17 +394,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/oupc2023-day1",
             "startTime": 1704513600000,
             "endTime": 1704531600000
-        },
-        {
-            "id": 2,
-            "name": "Starters 115 (Rated for All)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START115",
-            "startTime": 1704292200000,
-            "endTime": 1704301200000
         }
     ]
 }
