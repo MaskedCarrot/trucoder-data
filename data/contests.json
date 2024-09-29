@@ -97,6 +97,14 @@
             "endTime": 1728491400000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 418",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-418",
+            "startTime": 1728181800000,
+            "endTime": 1728187200000
+        },
+        {
             "id": 3,
             "name": "KEYENCE Programming Contest 2024\uff08AtCoder Beginner Contest 374\uff09",
             "platform": "Atcoder",
@@ -170,17 +178,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc335",
             "startTime": 1704542400000,
             "endTime": 1704548400000
-        },
-        {
-            "id": 3,
-            "name": "OUPC 2023 Day1 : \u5927\u962a\u5927\u5b66\u30bb\u30c3\u30c8",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/oupc2023-day1",
-            "startTime": 1704513600000,
-            "endTime": 1704531600000
         }
     ]
 }
