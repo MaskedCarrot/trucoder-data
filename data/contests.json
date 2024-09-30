@@ -57,6 +57,22 @@
             "endTime": 1729701000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2024",
+            "startTime": 1729415100000,
+            "endTime": 1729422300000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2023",
+            "startTime": 1729415100000,
+            "endTime": 1729422300000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 376",
             "platform": "Atcoder",
@@ -178,17 +194,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/1919",
             "startTime": 1704551700000,
             "endTime": 1704560700000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 121",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-121",
-            "startTime": 1704551400000,
-            "endTime": 1704556800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 335 (Sponsored by Mynavi)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc335",
-            "startTime": 1704542400000,
-            "endTime": 1704548400000
         }
     ]
 }
