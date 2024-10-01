@@ -33,6 +33,14 @@
             "endTime": 1730305800000
         },
         {
+            "id": 1,
+            "name": "Educational Codeforces Round 171 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2026",
+            "startTime": 1730126100000,
+            "endTime": 1730133300000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest 186",
             "platform": "Atcoder",
@@ -87,6 +95,14 @@
             "link": "https://www.codechef.com/START156",
             "startTime": 1729089000000,
             "endTime": 1729096200000
+        },
+        {
+            "id": 1,
+            "name": "Educational Codeforces Round 170 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2025",
+            "startTime": 1728916500000,
+            "endTime": 1728923700000
         },
         {
             "id": 4,
@@ -818,17 +834,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/START116",
             "startTime": 1704897000000,
             "endTime": 1704905100000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 379",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-379",
-            "startTime": 1704594600000,
-            "endTime": 1704600000000
-        },
-        {
-            "id": 1,
-            "name": "Hello 2024",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1919",
-            "startTime": 1704551700000,
-            "endTime": 1704560700000
         }
     ]
 }
