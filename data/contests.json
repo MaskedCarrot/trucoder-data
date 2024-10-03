@@ -66,17 +66,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -105,6 +105,14 @@
             "endTime": 1728923700000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2022",
+            "startTime": 1728837300000,
+            "endTime": 1728844500000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 141",
             "platform": "Leetcode",
@@ -130,7 +138,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 976 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2021",
             "startTime": 1728194700000,
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1920",
             "startTime": 1705156500000,
             "endTime": 1705163700000
-        },
-        {
-            "id": 3,
-            "name": "ALGO ARTIS Programming Contest 2023 Winter\uff08AtCoder Heuristic Contest 028\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc028",
-            "startTime": 1705125600000,
-            "endTime": 1705140000000
         }
     ]
 }
