@@ -1,6 +1,14 @@
 {
     "contests": [
         {
+            "id": 3,
+            "name": "Daiwa Securities Co. Ltd. Programming Contest 2024\uff08AtCoder Beginner Contest 383\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc383",
+            "startTime": 1733572800000,
+            "endTime": 1733578800000
+        },
+        {
             "id": 2,
             "name": "Starters 161",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc336",
             "startTime": 1705233600000,
             "endTime": 1705239600000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 380",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-380",
-            "startTime": 1705199400000,
-            "endTime": 1705204800000
         }
     ]
 }
