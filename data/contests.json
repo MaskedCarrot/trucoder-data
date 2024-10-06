@@ -162,6 +162,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 419",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-419",
+            "startTime": 1728786600000,
+            "endTime": 1728792000000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 141",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-141",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-122",
             "startTime": 1705761000000,
             "endTime": 1705766400000
-        },
-        {
-            "id": 3,
-            "name": "Toyota Programming Contest 2024#1\uff08AtCoder Beginner Contest 337\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc337",
-            "startTime": 1705752000000,
-            "endTime": 1705758000000
         }
     ]
 }
