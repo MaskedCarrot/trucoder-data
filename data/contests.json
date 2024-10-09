@@ -49,6 +49,14 @@
             "endTime": 1731260100000
         },
         {
+            "id": 3,
+            "name": "THIRD PROGRAMMING CONTEST 2024\uff08AtCoder Heuristic Contest 039\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc039",
+            "startTime": 1731218400000,
+            "endTime": 1731232800000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -314,17 +322,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc338",
             "startTime": 1706356800000,
             "endTime": 1706362800000
-        },
-        {
-            "id": 2,
-            "name": "Starters 118 (Rated till 5-Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START118",
-            "startTime": 1706106600000,
-            "endTime": 1706113800000
         }
     ]
 }
