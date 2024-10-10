@@ -197,8 +197,8 @@
             "name": "Codeforces Round 978 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2022",
-            "startTime": 1728864300000,
-            "endTime": 1728871500000
+            "startTime": 1728848100000,
+            "endTime": 1728855300000
         },
         {
             "id": 3,
@@ -330,17 +330,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
