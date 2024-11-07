@@ -145,6 +145,14 @@
             "endTime": 1731681300000
         },
         {
+            "id": 1,
+            "name": "2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2038",
+            "startTime": 1731580500000,
+            "endTime": 1731598500000
+        },
+        {
             "id": 2,
             "name": "Starters 160",
             "platform": "Codechef",
@@ -322,17 +330,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -746,17 +754,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1926",
             "startTime": 1708353300000,
             "endTime": 1708361400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 927 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1932",
-            "startTime": 1708257900000,
-            "endTime": 1708266000000
         }
     ]
 }
