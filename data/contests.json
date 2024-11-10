@@ -145,6 +145,14 @@
             "endTime": 1731852000000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 424",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-424",
+            "startTime": 1731810600000,
+            "endTime": 1731816000000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 380",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc342",
             "startTime": 1708776000000,
             "endTime": 1708782000000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 162 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1923",
-            "startTime": 1708698900000,
-            "endTime": 1708706100000
         }
     ]
 }
