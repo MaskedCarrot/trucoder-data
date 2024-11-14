@@ -1,20 +1,20 @@
 {
     "contests": [
         {
+            "id": 3,
+            "name": "AtCoder Grand Contest 070",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc070",
+            "startTime": 1735473600000,
+            "endTime": 1735484400000
+        },
+        {
             "id": 2,
             "name": "Starters 166",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START166",
             "startTime": 1735137000000,
             "endTime": 1735144200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Grand Contest 070",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/agc070",
-            "startTime": 1734868800000,
-            "endTime": 1734879600000
         },
         {
             "id": 2,
@@ -26,17 +26,17 @@
         },
         {
             "id": 3,
-            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 1)",
+            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 2)",
+            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -578,17 +578,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -1882,14 +1882,6 @@
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2024-final",
-            "startTime": 1713579000000,
-            "endTime": 1713600600000
-        },
-        {
-            "id": 3,
             "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/masters2024-final-open",
@@ -1897,18 +1889,26 @@
             "endTime": 1713600600000
         },
         {
-            "id": 6,
-            "name": "ICPC 2023 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
-            "startTime": 1713398400000,
-            "endTime": 1713398400000
+            "id": 3,
+            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2024-final",
+            "startTime": 1713579000000,
+            "endTime": 1713600600000
         },
         {
             "id": 6,
             "name": "ICPC 2022 World Finals",
             "platform": "Meta",
             "link": "https://cphof.org/standings/icpc/2022",
+            "startTime": 1713398400000,
+            "endTime": 1713398400000
+        },
+        {
+            "id": 6,
+            "name": "ICPC 2023 World Finals",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
@@ -2210,17 +2210,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 934 (Div. 1)",
+            "name": "Codeforces Round 934 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1943",
+            "link": "https://codeforces.com/contests/1944",
             "startTime": 1710599700000,
             "endTime": 1710608400000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 934 (Div. 2)",
+            "name": "Codeforces Round 934 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1944",
+            "link": "https://codeforces.com/contests/1943",
             "startTime": 1710599700000,
             "endTime": 1710608400000
         },
