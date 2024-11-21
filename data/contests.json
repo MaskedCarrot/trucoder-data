@@ -1,6 +1,14 @@
 {
     "contests": [
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 387",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc387",
+            "startTime": 1735992000000,
+            "endTime": 1735998000000
+        },
+        {
             "id": 2,
             "name": "Starters 167",
             "platform": "Codechef",
@@ -15,6 +23,14 @@
             "link": "https://atcoder.jp/contests/agc070",
             "startTime": 1735473600000,
             "endTime": 1735484400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 386",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc386",
+            "startTime": 1735387200000,
+            "endTime": 1735393200000
         },
         {
             "id": 2,
@@ -34,17 +50,17 @@
         },
         {
             "id": 3,
-            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 1)",
+            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 2)",
+            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -834,17 +850,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-125",
             "startTime": 1709389800000,
             "endTime": 1709395200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 343",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc343",
-            "startTime": 1709380800000,
-            "endTime": 1709386800000
-        },
-        {
-            "id": 1,
-            "name": "2024 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1938",
-            "startTime": 1709346900000,
-            "endTime": 1709364900000
         }
     ]
 }
