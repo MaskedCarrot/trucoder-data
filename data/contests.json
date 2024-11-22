@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "The 2nd Masters Championship-qual-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2025-qual",
+            "startTime": 1740888000000,
+            "endTime": 1740909600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 387",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc387",
@@ -50,17 +58,17 @@
         },
         {
             "id": 3,
-            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 1)",
+            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 2)",
+            "name": "\u6771\u4eac\u5de5\u696d\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/masters-qual",
             "startTime": 1709438400000,
             "endTime": 1709460000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 387",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-387",
-            "startTime": 1709433000000,
-            "endTime": 1709438400000
         }
     ]
 }
