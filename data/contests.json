@@ -97,6 +97,14 @@
             "endTime": 1733675700000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 145",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-145",
+            "startTime": 1733581800000,
+            "endTime": 1733587200000
+        },
+        {
             "id": 3,
             "name": "Daiwa Securities Co. Ltd. Programming Contest 2024\uff08AtCoder Beginner Contest 383\uff09",
             "platform": "Atcoder",
@@ -442,17 +450,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -642,17 +650,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1935",
             "startTime": 1709649300000,
             "endTime": 1709656500000
-        },
-        {
-            "id": 3,
-            "name": "The 1st Masters Championship-qual-",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters-qual",
-            "startTime": 1709438400000,
-            "endTime": 1709460000000
         }
     ]
 }
