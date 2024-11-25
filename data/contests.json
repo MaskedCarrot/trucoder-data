@@ -9,6 +9,14 @@
             "endTime": 1740909600000
         },
         {
+            "id": 2,
+            "name": "Starters 168",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START168",
+            "startTime": 1736346600000,
+            "endTime": 1736353800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 387",
             "platform": "Atcoder",
@@ -674,17 +682,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -898,17 +906,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1940",
             "startTime": 1709975100000,
             "endTime": 1709993100000
-        },
-        {
-            "id": 3,
-            "name": "\u6771\u5317\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c8 2023",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/tupc2023",
-            "startTime": 1709956800000,
-            "endTime": 1709974800000
         }
     ]
 }
