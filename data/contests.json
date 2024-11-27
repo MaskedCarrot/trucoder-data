@@ -10,6 +10,22 @@
         },
         {
             "id": 2,
+            "name": "Starters 170",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START170",
+            "startTime": 1737556200000,
+            "endTime": 1737563400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 169",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START169",
+            "startTime": 1736951400000,
+            "endTime": 1736958600000
+        },
+        {
+            "id": 2,
             "name": "Starters 168",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START168",
@@ -63,6 +79,14 @@
             "link": "https://codeforces.com/contests/2043",
             "startTime": 1734878100000,
             "endTime": 1734885300000
+        },
+        {
+            "id": 3,
+            "name": "UNIQUE VISION Programming Contest 2024 Christmas (AtCoder Beginner Contest 385)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc385",
+            "startTime": 1734782400000,
+            "endTime": 1734788400000
         },
         {
             "id": 2,
@@ -210,7 +234,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 162",
+            "name": "Starters 162 (Rated till 5 stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START162",
             "startTime": 1732717800000,
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc345",
             "startTime": 1710590400000,
             "endTime": 1710596400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 163 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1948",
-            "startTime": 1710513300000,
-            "endTime": 1710520500000
-        },
-        {
-            "id": 2,
-            "name": "Starters 125 (Rated till 6-Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START125",
-            "startTime": 1710340200000,
-            "endTime": 1710347400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 933 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1941",
-            "startTime": 1710167700000,
-            "endTime": 1710175800000
         }
     ]
 }
