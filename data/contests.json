@@ -177,6 +177,14 @@
             "endTime": 1733578800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2050",
+            "startTime": 1733409300000,
+            "endTime": 1733417400000
+        },
+        {
             "id": 2,
             "name": "Starters 163",
             "platform": "Codechef",
@@ -978,17 +986,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2389,14 +2397,6 @@
             "name": "Codeforces Round 934 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1944",
-            "startTime": 1710599700000,
-            "endTime": 1710608400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 934 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1943",
             "startTime": 1710599700000,
             "endTime": 1710608400000
         }
