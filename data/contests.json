@@ -130,17 +130,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -175,6 +175,14 @@
             "link": "https://codeforces.com/contests/2040",
             "startTime": 1733668500000,
             "endTime": 1733675700000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 189 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc189",
+            "startTime": 1733659200000,
+            "endTime": 1733666400000
         },
         {
             "id": 4,
@@ -218,19 +226,19 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
-            "startTime": 1733205900000,
-            "endTime": 1733213100000
-        },
-        {
-            "id": 1,
             "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2047",
-            "startTime": 1733205900000,
-            "endTime": 1733213100000
+            "startTime": 1733207100000,
+            "endTime": 1733214300000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 990 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2046",
+            "startTime": 1733207100000,
+            "endTime": 1733214300000
         },
         {
             "id": 1,
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1945",
             "startTime": 1710835500000,
             "endTime": 1710843600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 174",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc174",
-            "startTime": 1710676800000,
-            "endTime": 1710684000000
         }
     ]
 }
