@@ -153,6 +153,14 @@
             "endTime": 1734253200000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 428",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-428",
+            "startTime": 1734229800000,
+            "endTime": 1734235200000
+        },
+        {
             "id": 3,
             "name": "Toyota Programming Contest 2024#12\uff08AtCoder Beginner Contest 384\uff09",
             "platform": "Atcoder",
@@ -818,17 +826,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -1042,17 +1050,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2138,17 +2146,17 @@
         },
         {
             "id": 6,
-            "name": "ICPC 2023 World Finals",
+            "name": "ICPC 2022 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
         {
             "id": 6,
-            "name": "ICPC 2022 World Finals",
+            "name": "ICPC 2023 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc031",
             "startTime": 1711101600000,
             "endTime": 1711965600000
-        },
-        {
-            "id": 3,
-            "name": "JOIG 2023/2024 \u6625\u5b63\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0 \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joigsp2024",
-            "startTime": 1711065600000,
-            "endTime": 1711083600000
         }
     ]
 }
