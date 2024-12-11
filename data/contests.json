@@ -25,6 +25,14 @@
             "endTime": 1737563400000
         },
         {
+            "id": 3,
+            "name": "Toyota Programming Contest 2025\uff08AtCoder Beginner Contest 389)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc389",
+            "startTime": 1737201600000,
+            "endTime": 1737207600000
+        },
+        {
             "id": 2,
             "name": "Starters 169",
             "platform": "Codechef",
@@ -194,7 +202,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 164",
+            "name": "Starters 164 (Rated till 5 stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START164",
             "startTime": 1733927400000,
@@ -274,17 +282,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -1074,17 +1082,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1949",
             "startTime": 1711274400000,
             "endTime": 1711292400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 390",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-390",
-            "startTime": 1711247400000,
-            "endTime": 1711252800000
         }
     ]
 }
