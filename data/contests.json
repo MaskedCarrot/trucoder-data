@@ -41,6 +41,14 @@
             "endTime": 1736958600000
         },
         {
+            "id": 3,
+            "name": "HHKB Programming Contest 2025(AtCoder Beginner Contest 388)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc388",
+            "startTime": 1736596800000,
+            "endTime": 1736602800000
+        },
+        {
             "id": 2,
             "name": "Starters 168",
             "platform": "Codechef",
@@ -290,17 +298,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/pakencamp-2023-day1",
             "startTime": 1711431000000,
             "endTime": 1711440000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 175",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc175",
-            "startTime": 1711281600000,
-            "endTime": 1711288800000
         }
     ]
 }
