@@ -129,6 +129,22 @@
             "endTime": 1735058100000
         },
         {
+            "id": 3,
+            "name": "Xmas Contest 2024",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/xmascon24",
+            "startTime": 1735034400000,
+            "endTime": 1735048800000
+        },
+        {
+            "id": 1,
+            "name": "MaraTON 1",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2054",
+            "startTime": 1734951600000,
+            "endTime": 1736766000000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 3)",
             "platform": "Codeforces",
@@ -202,17 +218,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc347",
             "startTime": 1711800000000,
             "endTime": 1711806000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 937 (Div. 4)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1950",
-            "startTime": 1711637100000,
-            "endTime": 1711645200000
-        },
-        {
-            "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2023 \u7b2c3\u65e5\u300cTeamwork\u300d",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2023-day3",
-            "startTime": 1711600200000,
-            "endTime": 1711611000000
         }
     ]
 }
