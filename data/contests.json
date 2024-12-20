@@ -41,6 +41,14 @@
             "endTime": 1737207600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2056",
+            "startTime": 1737124500000,
+            "endTime": 1737131700000
+        },
+        {
             "id": 2,
             "name": "Starters 169",
             "platform": "Codechef",
@@ -149,8 +157,8 @@
             "name": "MaraTON Challenge 1",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2054",
-            "startTime": 1734951600000,
-            "endTime": 1736766000000
+            "startTime": 1734960900000,
+            "endTime": 1736775300000
         },
         {
             "id": 1,
@@ -346,17 +354,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -922,17 +930,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1942",
             "startTime": 1711809300000,
             "endTime": 1711820100000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 127",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-127",
-            "startTime": 1711809000000,
-            "endTime": 1711814400000
         }
     ]
 }
