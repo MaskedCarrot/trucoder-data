@@ -121,6 +121,14 @@
             "endTime": 1735484400000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 430",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-430",
+            "startTime": 1735439400000,
+            "endTime": 1735444800000
+        },
+        {
             "id": 1,
             "name": "Good Bye 2024",
             "platform": "Codeforces",
@@ -362,17 +370,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/agc066",
             "startTime": 1711886400000,
             "endTime": 1711897200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 391",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-391",
-            "startTime": 1711852200000,
-            "endTime": 1711857600000
         }
     ]
 }
