@@ -9,6 +9,14 @@
             "endTime": 1740909600000
         },
         {
+            "id": 3,
+            "name": "Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder Beginner Contest 392)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc392",
+            "startTime": 1739016000000,
+            "endTime": 1739022000000
+        },
+        {
             "id": 2,
             "name": "Starters 172",
             "platform": "Codechef",
@@ -2274,17 +2282,17 @@
         },
         {
             "id": 6,
-            "name": "ICPC 2023 World Finals",
+            "name": "ICPC 2022 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
         {
             "id": 6,
-            "name": "ICPC 2022 World Finals",
+            "name": "ICPC 2023 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START128",
             "startTime": 1712154600000,
             "endTime": 1712161800000
-        },
-        {
-            "id": 1,
-            "name": "April Fools Day Contest 2024",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1952",
-            "startTime": 1711982100000,
-            "endTime": 1711989300000
         }
     ]
 }
