@@ -25,12 +25,28 @@
             "endTime": 1738773000000
         },
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 391",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc391",
+            "startTime": 1738411200000,
+            "endTime": 1738417200000
+        },
+        {
             "id": 2,
             "name": "Starters 171",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START171",
             "startTime": 1738161000000,
             "endTime": 1738168200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 390",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc390",
+            "startTime": 1737806400000,
+            "endTime": 1737812400000
         },
         {
             "id": 2,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/1951",
             "startTime": 1712414100000,
             "endTime": 1712424900000
-        },
-        {
-            "id": 3,
-            "name": "Toyota Programming Contest 2024#4\uff08AtCoder Beginner Contest 348\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc348",
-            "startTime": 1712404800000,
-            "endTime": 1712410800000
-        },
-        {
-            "id": 2,
-            "name": "Starters 128 (Rated till 6-Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START128",
-            "startTime": 1712154600000,
-            "endTime": 1712161800000
         }
     ]
 }
