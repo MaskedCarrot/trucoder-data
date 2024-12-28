@@ -129,6 +129,14 @@
             "endTime": 1736067600000
         },
         {
+            "id": 1,
+            "name": "Hello 2025",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2057",
+            "startTime": 1736001300000,
+            "endTime": 1736010300000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 147",
             "platform": "Leetcode",
@@ -290,17 +298,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -1210,17 +1218,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc032",
             "startTime": 1712484000000,
             "endTime": 1712498400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 392",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-392",
-            "startTime": 1712457000000,
-            "endTime": 1712462400000
         }
     ]
 }
