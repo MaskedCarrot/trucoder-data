@@ -9,6 +9,14 @@
             "endTime": 1740909600000
         },
         {
+            "id": 2,
+            "name": "Starters 173",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START173",
+            "startTime": 1739370600000,
+            "endTime": 1739377800000
+        },
+        {
             "id": 3,
             "name": "Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder Beginner Contest 392)",
             "platform": "Atcoder",
@@ -306,17 +314,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -426,17 +434,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START129",
             "startTime": 1712759400000,
             "endTime": 1712766600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 938 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1955",
-            "startTime": 1712586900000,
-            "endTime": 1712595000000
         }
     ]
 }
