@@ -173,8 +173,8 @@
             "name": "Starters 168 (Rated till 6 stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START168",
-            "startTime": 1736346600000,
-            "endTime": 1736353800000
+            "startTime": 1736348400000,
+            "endTime": 1736355600000
         },
         {
             "id": 3,
@@ -482,17 +482,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -858,17 +858,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -1282,17 +1282,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2378,17 +2378,17 @@
         },
         {
             "id": 6,
-            "name": "ICPC 2023 World Finals",
+            "name": "ICPC 2022 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
+            "link": "https://cphof.org/standings/icpc/2022",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
         {
             "id": 6,
-            "name": "ICPC 2022 World Finals",
+            "name": "ICPC 2023 World Finals",
             "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
+            "link": "https://cphof.org/standings/icpc/2023",
             "startTime": 1713398400000,
             "endTime": 1713398400000
         },
