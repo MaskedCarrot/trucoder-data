@@ -81,6 +81,14 @@
             "endTime": 1737909300000
         },
         {
+            "id": 1,
+            "name": "Ethflow Round (Codeforces Round, Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2062",
+            "startTime": 1737902100000,
+            "endTime": 1737909300000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 390",
             "platform": "Atcoder",
@@ -95,6 +103,14 @@
             "link": "https://www.codechef.com/START170",
             "startTime": 1737556200000,
             "endTime": 1737563400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2061",
+            "startTime": 1737383700000,
+            "endTime": 1737394500000
         },
         {
             "id": 1,
@@ -866,17 +882,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/masters2024-final-open",
             "startTime": 1713579000000,
             "endTime": 1713600600000
-        },
-        {
-            "id": 6,
-            "name": "ICPC 2022 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
-            "startTime": 1713398400000,
-            "endTime": 1713398400000
-        },
-        {
-            "id": 6,
-            "name": "ICPC 2023 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2023",
-            "startTime": 1713398400000,
-            "endTime": 1713398400000
         }
     ]
 }
