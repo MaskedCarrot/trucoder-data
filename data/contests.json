@@ -122,6 +122,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 433",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-433",
+            "startTime": 1737253800000,
+            "endTime": 1737259200000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 148",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-148",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/masters2024-final-open",
             "startTime": 1713579000000,
             "endTime": 1713600600000
-        },
-        {
-            "id": 6,
-            "name": "ICPC 2022 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2022",
-            "startTime": 1713398400000,
-            "endTime": 1713398400000
         }
     ]
 }
