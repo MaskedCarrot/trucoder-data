@@ -57,6 +57,14 @@
             "endTime": 1738773000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2059",
+            "startTime": 1738506900000,
+            "endTime": 1738514100000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 391",
             "platform": "Atcoder",
@@ -506,17 +514,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -1082,17 +1090,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -2389,14 +2397,6 @@
             "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/masters2024-final",
-            "startTime": 1713579000000,
-            "endTime": 1713600600000
-        },
-        {
-            "id": 3,
-            "name": "\u7b2c\u4e00\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2024-final-open",
             "startTime": 1713579000000,
             "endTime": 1713600600000
         }
