@@ -193,6 +193,14 @@
             "endTime": 1736690400000
         },
         {
+            "id": 3,
+            "name": "JOIG 2024/2025 \u672c\u9078 \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joig2025-open",
+            "startTime": 1736654400000,
+            "endTime": 1736668800000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 432",
             "platform": "Leetcode",
@@ -402,17 +410,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-394",
             "startTime": 1713666600000,
             "endTime": 1713672000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 350",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc350",
-            "startTime": 1713614400000,
-            "endTime": 1713620400000
         }
     ]
 }
