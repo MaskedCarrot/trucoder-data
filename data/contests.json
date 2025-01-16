@@ -1,6 +1,14 @@
 {
     "contests": [
         {
+            "id": 2,
+            "name": "Starters 176",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START176",
+            "startTime": 1741185000000,
+            "endTime": 1741192200000
+        },
+        {
             "id": 3,
             "name": "The 2nd Masters Championship-qual-",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-129",
             "startTime": 1714228200000,
             "endTime": 1714233600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 351",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc351",
-            "startTime": 1714219200000,
-            "endTime": 1714225200000
         }
     ]
 }
