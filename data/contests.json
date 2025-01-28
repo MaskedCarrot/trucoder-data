@@ -57,6 +57,14 @@
             "endTime": 1739982600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2064",
+            "startTime": 1739716500000,
+            "endTime": 1739723700000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 393",
             "platform": "Atcoder",
@@ -1194,17 +1202,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 1)",
+            "name": "Codeforces Round 975 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2018",
+            "link": "https://codeforces.com/contests/2019",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 975 (Div. 2)",
+            "name": "Codeforces Round 975 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2019",
+            "link": "https://codeforces.com/contests/2018",
             "startTime": 1727444100000,
             "endTime": 1727453100000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START132",
             "startTime": 1714573800000,
             "endTime": 1714581000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 942 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1967",
-            "startTime": 1714487700000,
-            "endTime": 1714496700000
         }
     ]
 }
