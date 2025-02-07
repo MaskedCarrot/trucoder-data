@@ -57,6 +57,14 @@
             "endTime": 1740909600000
         },
         {
+            "id": 1,
+            "name": "Educational Codeforces Round 175 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2070",
+            "startTime": 1740666900000,
+            "endTime": 1740674100000
+        },
+        {
             "id": 2,
             "name": "Starters 175",
             "platform": "Codechef",
@@ -79,6 +87,14 @@
             "link": "https://www.codechef.com/START174",
             "startTime": 1739975400000,
             "endTime": 1739982600000
+        },
+        {
+            "id": 1,
+            "name": "Educational Codeforces Round 174 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2069",
+            "startTime": 1739889300000,
+            "endTime": 1739896500000
         },
         {
             "id": 1,
@@ -138,7 +154,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 4)",
+            "name": "Codeforces Round 1003 (Div. 4)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2065",
             "startTime": 1739111700000,
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-397",
             "startTime": 1715481000000,
             "endTime": 1715486400000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 130",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-130",
-            "startTime": 1715437800000,
-            "endTime": 1715443200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 353",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc353",
-            "startTime": 1715428800000,
-            "endTime": 1715434800000
         }
     ]
 }
