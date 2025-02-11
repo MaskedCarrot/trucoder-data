@@ -1,12 +1,60 @@
 {
     "contests": [
         {
+            "id": 2,
+            "name": "Starters 184",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START184",
+            "startTime": 1746023400000,
+            "endTime": 1746030600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 183",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START183",
+            "startTime": 1745418600000,
+            "endTime": 1745425800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 182",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START182",
+            "startTime": 1744813800000,
+            "endTime": 1744821000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 181",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START181",
+            "startTime": 1744209000000,
+            "endTime": 1744216200000
+        },
+        {
+            "id": 2,
+            "name": "Starters 180",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START180",
+            "startTime": 1743604200000,
+            "endTime": 1743611400000
+        },
+        {
             "id": 3,
             "name": "NUPC 2024",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/nupc2024",
             "startTime": 1743220800000,
             "endTime": 1743238800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 179",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START179",
+            "startTime": 1742999400000,
+            "endTime": 1743006600000
         },
         {
             "id": 3,
@@ -154,17 +202,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -610,17 +658,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -1106,17 +1154,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -2351,54 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc178",
             "startTime": 1716120000000,
             "endTime": 1716127200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 398",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-398",
-            "startTime": 1716085800000,
-            "endTime": 1716091200000
-        },
-        {
-            "id": 3,
-            "name": "Panasonic Programming Contest 2024\uff08AtCoder Beginner Contest 354\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc354",
-            "startTime": 1716033600000,
-            "endTime": 1716039600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 945 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1973",
-            "startTime": 1715956500000,
-            "endTime": 1715963700000
-        },
-        {
-            "id": 3,
-            "name": "Toyota Programming Contest 2024#5\uff08AtCoder Heuristic Contest 033\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc033",
-            "startTime": 1715940000000,
-            "endTime": 1716804000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 134 (Rated till 6-Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START134",
-            "startTime": 1715783400000,
-            "endTime": 1715790600000
-        },
-        {
-            "id": 1,
-            "name": "Kotlin Heroes: Episode 10",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1958",
-            "startTime": 1715610900000,
-            "endTime": 1715619900000
         }
     ]
 }
