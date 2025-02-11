@@ -106,6 +106,14 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2071",
+            "startTime": 1740753300000,
+            "endTime": 1740760500000
+        },
+        {
+            "id": 1,
             "name": "Educational Codeforces Round 175 (Rated for Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2070",
@@ -202,17 +210,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1974",
             "startTime": 1716215700000,
             "endTime": 1716223800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 178",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc178",
-            "startTime": 1716120000000,
-            "endTime": 1716127200000
         }
     ]
 }
