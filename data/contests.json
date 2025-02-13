@@ -42,6 +42,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Grand Contest 071",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc071",
+            "startTime": 1743336000000,
+            "endTime": 1743346800000
+        },
+        {
+            "id": 3,
             "name": "NUPC 2024",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/nupc2024",
@@ -226,17 +234,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-131",
             "startTime": 1716647400000,
             "endTime": 1716652800000
-        },
-        {
-            "id": 3,
-            "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2024\uff08AtCoder Beginner Contest 355)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc355",
-            "startTime": 1716638400000,
-            "endTime": 1716644400000
         }
     ]
 }
