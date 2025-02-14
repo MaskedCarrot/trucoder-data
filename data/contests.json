@@ -66,6 +66,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 195 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc195",
+            "startTime": 1742731200000,
+            "endTime": 1742738400000
+        },
+        {
+            "id": 3,
             "name": "\u6771\u5317\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c8 2024",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/tupc2024",
@@ -95,6 +103,14 @@
             "link": "https://www.codechef.com/START177",
             "startTime": 1741789800000,
             "endTime": 1741797000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 194 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc194",
+            "startTime": 1741521600000,
+            "endTime": 1741528800000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/1977",
             "startTime": 1716734100000,
             "endTime": 1716741300000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 399",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-399",
-            "startTime": 1716690600000,
-            "endTime": 1716696000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1975",
-            "startTime": 1716647700000,
-            "endTime": 1716658500000
         }
     ]
 }
