@@ -81,6 +81,14 @@
             "endTime": 1742401800000
         },
         {
+            "id": 3,
+            "name": "OMRON Corporation Programming Contest 2025 (AtCoder Beginner Contest 397)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc397",
+            "startTime": 1742040000000,
+            "endTime": 1742046000000
+        },
+        {
             "id": 2,
             "name": "Starters 177",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1975",
             "startTime": 1716647700000,
             "endTime": 1716658500000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 131",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-131",
-            "startTime": 1716647400000,
-            "endTime": 1716652800000
         }
     ]
 }
