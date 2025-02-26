@@ -89,6 +89,14 @@
             "endTime": 1742713200000
         },
         {
+            "id": 3,
+            "name": "UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Contest 398)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc398",
+            "startTime": 1742644800000,
+            "endTime": 1742650800000
+        },
+        {
             "id": 2,
             "name": "Starters 178",
             "platform": "Codechef",
@@ -1274,17 +1282,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1979",
             "startTime": 1717684500000,
             "endTime": 1717691700000
-        },
-        {
-            "id": 2,
-            "name": "Starters 137 (Rated till 5-Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START137",
-            "startTime": 1717599600000,
-            "endTime": 1717606800000
         }
     ]
 }
