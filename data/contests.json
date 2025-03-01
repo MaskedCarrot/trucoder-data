@@ -273,6 +273,14 @@
             "endTime": 1740231600000
         },
         {
+            "id": 6,
+            "name": "Universal Cup 2025",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/ucup/2025",
+            "startTime": 1740182400000,
+            "endTime": 1740182400000
+        },
+        {
             "id": 2,
             "name": "Starters 174 (Rated upto 2700)",
             "platform": "Codechef",
@@ -914,17 +922,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -1290,17 +1298,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-132",
             "startTime": 1717857000000,
             "endTime": 1717862400000
-        },
-        {
-            "id": 3,
-            "name": "SuntoryProgrammingContest2024\uff08AtCoder Beginner Contest 357\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc357",
-            "startTime": 1717848000000,
-            "endTime": 1717854000000
         }
     ]
 }
