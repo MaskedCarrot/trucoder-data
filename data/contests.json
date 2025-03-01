@@ -121,6 +121,14 @@
             "endTime": 1742133600000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 152",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-152",
+            "startTime": 1742049000000,
+            "endTime": 1742054400000
+        },
+        {
             "id": 3,
             "name": "OMRON Corporation Programming Contest 2025 (AtCoder Beginner Contest 397)",
             "platform": "Atcoder",
@@ -1298,17 +1306,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2023",
+            "link": "https://codeforces.com/contests/2024",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 980 (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2024",
+            "link": "https://codeforces.com/contests/2023",
             "startTime": 1729415100000,
             "endTime": 1729422300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-401",
             "startTime": 1717900200000,
             "endTime": 1717905600000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 132",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-132",
-            "startTime": 1717857000000,
-            "endTime": 1717862400000
         }
     ]
 }
