@@ -121,6 +121,14 @@
             "endTime": 1742401800000
         },
         {
+            "id": 1,
+            "name": "Educational Codeforces Round 176 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2075",
+            "startTime": 1742222100000,
+            "endTime": 1742229300000
+        },
+        {
             "id": 3,
             "name": "AtCoder Heuristic Contest 044",
             "platform": "Atcoder",
@@ -954,17 +962,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START138",
             "startTime": 1718202600000,
             "endTime": 1718209800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder \u5275\u7acb12\u5468\u5e74\u8a18\u5ff5 \u4f01\u696d\u5bfe\u6297 Team Battle",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/atcoder12live",
-            "startTime": 1718192400000,
-            "endTime": 1718199600000
         }
     ]
 }
