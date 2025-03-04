@@ -185,6 +185,14 @@
             "endTime": 1741624500000
         },
         {
+            "id": 1,
+            "name": "XIX Open Olympiad in Informatics - Final Stage, Day 2 (Unrated, Online Mirror, IOI rules)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2080",
+            "startTime": 1741593900000,
+            "endTime": 1741611900000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest 194 (Div. 2)",
             "platform": "Atcoder",
@@ -215,6 +223,14 @@
             "link": "https://atcoder.jp/contests/utpc2024",
             "startTime": 1741406400000,
             "endTime": 1741424400000
+        },
+        {
+            "id": 1,
+            "name": "XIX Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2079",
+            "startTime": 1741334700000,
+            "endTime": 1741352700000
         },
         {
             "id": 2,
@@ -402,17 +418,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc034",
             "startTime": 1718517600000,
             "endTime": 1718532000000
-        },
-        {
-            "id": 3,
-            "name": "JOI Open Contest 2024 \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joiopen2024",
-            "startTime": 1718510400000,
-            "endTime": 1718528400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 402",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-402",
-            "startTime": 1718505000000,
-            "endTime": 1718510400000
         }
     ]
 }
