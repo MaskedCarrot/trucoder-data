@@ -162,17 +162,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
@@ -194,17 +194,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 2)",
+            "name": "Codeforces Round 1008 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2078",
+            "link": "https://codeforces.com/contests/2077",
             "startTime": 1741617300000,
             "endTime": 1741624500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
+            "link": "https://codeforces.com/contests/2078",
             "startTime": 1741617300000,
             "endTime": 1741624500000
         },
@@ -434,17 +434,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -1010,17 +1010,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -2210,17 +2210,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
