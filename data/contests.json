@@ -194,17 +194,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 2)",
+            "name": "Codeforces Round 1008 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2078",
+            "link": "https://codeforces.com/contests/2077",
             "startTime": 1741617300000,
             "endTime": 1741626300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
+            "link": "https://codeforces.com/contests/2078",
             "startTime": 1741617300000,
             "endTime": 1741626300000
         },
@@ -239,6 +239,14 @@
             "link": "https://atcoder.jp/contests/abc396",
             "startTime": 1741435200000,
             "endTime": 1741441200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Blitz Cup 2025",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/blog/entry/140425",
+            "startTime": 1741428000000,
+            "endTime": 1741543200000
         },
         {
             "id": 3,
@@ -1810,17 +1818,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://cphof.org/standings/ucup_summit/2024",
             "startTime": 1719014400000,
             "endTime": 1719014400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 139 (Rated till 5-Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START139",
-            "startTime": 1718807400000,
-            "endTime": 1718814600000
         }
     ]
 }
