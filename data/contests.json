@@ -26,6 +26,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Grand Contest 072",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc072",
+            "startTime": 1745150400000,
+            "endTime": 1745161200000
+        },
+        {
+            "id": 3,
             "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/masters2025-final",
@@ -58,11 +66,43 @@
         },
         {
             "id": 3,
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
+            "startTime": 1743481800000,
+            "endTime": 1743492600000
+        },
+        {
+            "id": 3,
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
+            "startTime": 1743481800000,
+            "endTime": 1743492600000
+        },
+        {
+            "id": 3,
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c2\u65e5\u300c\u30d1\u7814\u676f\u300d",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day2",
+            "startTime": 1743391800000,
+            "endTime": 1743406200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Grand Contest 071",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/agc071",
             "startTime": 1743336000000,
             "endTime": 1743346800000
+        },
+        {
+            "id": 3,
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c1\u65e5\u300cSpeedRun\u300d",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day1",
+            "startTime": 1743310800000,
+            "endTime": 1743319800000
         },
         {
             "id": 3,
@@ -202,17 +242,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 2)",
+            "name": "Codeforces Round 1008 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2078",
+            "link": "https://codeforces.com/contests/2077",
             "startTime": 1741617300000,
             "endTime": 1741626300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
+            "link": "https://codeforces.com/contests/2078",
             "startTime": 1741617300000,
             "endTime": 1741626300000
         },
@@ -1034,17 +1074,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -1834,17 +1874,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
@@ -2234,17 +2274,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2024",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024-open",
+            "link": "https://atcoder.jp/contests/awtf2024",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2024",
+            "name": "World Tour Finals 2024\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2024",
+            "link": "https://atcoder.jp/contests/awtf2024-open",
             "startTime": 1720759500000,
             "endTime": 1720777500000
         },
@@ -2359,46 +2399,6 @@
             "link": "https://www.codechef.com/START140",
             "startTime": 1719412200000,
             "endTime": 1719419400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 955 (Div. 2, with prizes from NEAR!)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1982",
-            "startTime": 1719326100000,
-            "endTime": 1719333300000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 954 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1986",
-            "startTime": 1719154200000,
-            "endTime": 1719162300000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 403",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-403",
-            "startTime": 1719109800000,
-            "endTime": 1719115200000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 133",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-133",
-            "startTime": 1719066600000,
-            "endTime": 1719072000000
-        },
-        {
-            "id": 3,
-            "name": "UNIQUE VISION Programming Contest 2024 Summer (AtCoder Beginner Contest 359)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc359",
-            "startTime": 1719057600000,
-            "endTime": 1719063600000
         }
     ]
 }
