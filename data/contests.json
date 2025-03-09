@@ -146,6 +146,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 441",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-441",
+            "startTime": 1742092200000,
+            "endTime": 1742097600000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 152",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-152",
@@ -194,17 +202,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 2)",
+            "name": "Codeforces Round 1008 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2078",
+            "link": "https://codeforces.com/contests/2077",
             "startTime": 1741617300000,
             "endTime": 1741626300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
+            "link": "https://codeforces.com/contests/2078",
             "startTime": 1741617300000,
             "endTime": 1741626300000
         },
@@ -255,6 +263,14 @@
             "link": "https://atcoder.jp/contests/utpc2024",
             "startTime": 1741406400000,
             "endTime": 1741424400000
+        },
+        {
+            "id": 1,
+            "name": "XIX Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2079",
+            "startTime": 1741334700000,
+            "endTime": 1741352700000
         },
         {
             "id": 2,
@@ -442,17 +458,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc359",
             "startTime": 1719057600000,
             "endTime": 1719063600000
-        },
-        {
-            "id": 3,
-            "name": "NPCAPC 2024",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/npcapc_2024",
-            "startTime": 1719028800000,
-            "endTime": 1719046800000
-        },
-        {
-            "id": 6,
-            "name": "Universal Cup Summer Summit 2024",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/ucup_summit/2024",
-            "startTime": 1719014400000,
-            "endTime": 1719014400000
         }
     ]
 }
