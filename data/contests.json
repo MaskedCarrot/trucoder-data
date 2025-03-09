@@ -170,17 +170,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
@@ -263,14 +263,6 @@
             "link": "https://atcoder.jp/contests/utpc2024",
             "startTime": 1741406400000,
             "endTime": 1741424400000
-        },
-        {
-            "id": 1,
-            "name": "XIX Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2079",
-            "startTime": 1741334700000,
-            "endTime": 1741352700000
         },
         {
             "id": 2,
@@ -458,17 +450,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -914,17 +906,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -2399,6 +2391,14 @@
             "link": "https://atcoder.jp/contests/abc359",
             "startTime": 1719057600000,
             "endTime": 1719063600000
+        },
+        {
+            "id": 3,
+            "name": "NPCAPC 2024",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/npcapc_2024",
+            "startTime": 1719028800000,
+            "endTime": 1719046800000
         }
     ]
 }
