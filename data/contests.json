@@ -66,17 +66,17 @@
         },
         {
             "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
             "startTime": 1743481800000,
             "endTime": 1743492600000
         },
         {
             "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
             "startTime": 1743481800000,
             "endTime": 1743492600000
         },
@@ -210,17 +210,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
@@ -490,17 +490,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -1066,17 +1066,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 2)",
+            "name": "Codeforces Round 990 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2047",
+            "link": "https://codeforces.com/contests/2046",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 990 (Div. 1)",
+            "name": "Codeforces Round 990 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2046",
+            "link": "https://codeforces.com/contests/2047",
             "startTime": 1733207100000,
             "endTime": 1733214300000
         },
@@ -1866,17 +1866,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 2)",
+            "name": "Codeforces Round 969 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2007",
+            "link": "https://codeforces.com/contests/2006",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 969 (Div. 1)",
+            "name": "Codeforces Round 969 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2006",
+            "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
         },
