@@ -218,17 +218,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 1)",
+            "name": "Codeforces Round 1010 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2)",
+            "name": "Codeforces Round 1010 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
@@ -250,6 +250,14 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round 1008 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2077",
+            "startTime": 1741617900000,
+            "endTime": 1741626900000
+        },
+        {
+            "id": 1,
             "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2078",
@@ -258,11 +266,11 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "XIX Open Olympiad in Informatics - Final Stage, Day 2 (Unrated, Online Mirror, IOI rules)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
-            "startTime": 1741617900000,
-            "endTime": 1741626900000
+            "link": "https://codeforces.com/contests/2080",
+            "startTime": 1741593900000,
+            "endTime": 1741611900000
         },
         {
             "id": 3,
@@ -498,17 +506,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1989",
             "startTime": 1719498900000,
             "endTime": 1719506100000
-        },
-        {
-            "id": 2,
-            "name": "Starters 140 (Rated till 5-Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START140",
-            "startTime": 1719412200000,
-            "endTime": 1719419400000
         }
     ]
 }
