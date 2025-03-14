@@ -85,16 +85,16 @@
             "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
-            "startTime": 1743481800000,
-            "endTime": 1743492600000
+            "startTime": 1743480000000,
+            "endTime": 1743494400000
         },
         {
             "id": 3,
             "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
-            "startTime": 1743481800000,
-            "endTime": 1743492600000
+            "startTime": 1743480000000,
+            "endTime": 1743494400000
         },
         {
             "id": 3,
@@ -226,17 +226,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 1)",
+            "name": "Codeforces Round 1010 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2)",
+            "name": "Codeforces Round 1010 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742016900000,
             "endTime": 1742027700000
         },
