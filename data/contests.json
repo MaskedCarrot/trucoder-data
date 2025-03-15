@@ -209,6 +209,22 @@
             "endTime": 1742097600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round 1010 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2081",
+            "startTime": 1742049300000,
+            "endTime": 1742060100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1010 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2082",
+            "startTime": 1742049300000,
+            "endTime": 1742060100000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 152",
             "platform": "Leetcode",
@@ -223,22 +239,6 @@
             "link": "https://atcoder.jp/contests/abc397",
             "startTime": 1742040000000,
             "endTime": 1742046000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1010 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
-            "startTime": 1742018700000,
-            "endTime": 1742029500000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
-            "startTime": 1742018700000,
-            "endTime": 1742029500000
         },
         {
             "id": 2,
@@ -514,17 +514,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
