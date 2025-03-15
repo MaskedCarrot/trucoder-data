@@ -121,6 +121,14 @@
             "endTime": 1743319800000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 153",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-153",
+            "startTime": 1743258600000,
+            "endTime": 1743264000000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 399",
             "platform": "Atcoder",
@@ -258,17 +266,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 2)",
+            "name": "Codeforces Round 1008 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2078",
+            "link": "https://codeforces.com/contests/2077",
             "startTime": 1741617900000,
             "endTime": 1741626900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
+            "link": "https://codeforces.com/contests/2078",
             "startTime": 1741617900000,
             "endTime": 1741626900000
         },
@@ -970,17 +978,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-404",
             "startTime": 1719714600000,
             "endTime": 1719720000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 180",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc180",
-            "startTime": 1719662400000,
-            "endTime": 1719669600000
         }
     ]
 }
