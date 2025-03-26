@@ -17,6 +17,14 @@
             "endTime": 1746030600000
         },
         {
+            "id": 3,
+            "name": "BrainPad Programming Contest 2025 \uff08AtCoder Heuristic Contest 046\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc046",
+            "startTime": 1745647200000,
+            "endTime": 1745661600000
+        },
+        {
             "id": 2,
             "name": "Starters 183",
             "platform": "Codechef",
@@ -47,6 +55,14 @@
             "link": "https://www.codechef.com/START182",
             "startTime": 1744813800000,
             "endTime": 1744821000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 401",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc401",
+            "startTime": 1744459200000,
+            "endTime": 1744465200000
         },
         {
             "id": 2,
@@ -234,17 +250,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 2)",
+            "name": "Codeforces Round 1012 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2090",
+            "link": "https://codeforces.com/contests/2089",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 1)",
+            "name": "Codeforces Round 1012 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2089",
+            "link": "https://codeforces.com/contests/2090",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
@@ -322,17 +338,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/1988",
             "startTime": 1721054100000,
             "endTime": 1721061300000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 406",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-406",
-            "startTime": 1720924200000,
-            "endTime": 1720929600000
-        },
-        {
-            "id": 3,
-            "name": "Toyota Programming Contest 2024#7\uff08AtCoder Beginner Contest 362\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc362",
-            "startTime": 1720872000000,
-            "endTime": 1720878000000
         }
     ]
 }
