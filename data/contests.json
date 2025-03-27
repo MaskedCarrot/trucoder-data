@@ -42,6 +42,14 @@
         },
         {
             "id": 3,
+            "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2025 (AtCoder Beginner Contest 355)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc402",
+            "startTime": 1745064000000,
+            "endTime": 1745070000000
+        },
+        {
+            "id": 3,
             "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/masters2025-final",
@@ -130,17 +138,17 @@
         },
         {
             "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
             "startTime": 1743480000000,
             "endTime": 1743494400000
         },
         {
             "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
             "startTime": 1743480000000,
             "endTime": 1743494400000
         },
@@ -650,17 +658,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1994",
             "startTime": 1721313300000,
             "endTime": 1721320500000
-        },
-        {
-            "id": 2,
-            "name": "Starters 143 (Rated till 5-Stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START143",
-            "startTime": 1721226600000,
-            "endTime": 1721233800000
         }
     ]
 }
