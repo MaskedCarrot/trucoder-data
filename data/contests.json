@@ -58,6 +58,14 @@
         },
         {
             "id": 3,
+            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2025-final-open",
+            "startTime": 1745028600000,
+            "endTime": 1745050200000
+        },
+        {
+            "id": 3,
             "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/masters2025-final",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/1995",
             "startTime": 1721745300000,
             "endTime": 1721752500000
-        },
-        {
-            "id": 3,
-            "name": "ALGO ARTIS Programming Contest 2024 Summer\uff08AtCoder Heuristic Contest 035\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc035",
-            "startTime": 1721541600000,
-            "endTime": 1721556000000
         }
     ]
 }
