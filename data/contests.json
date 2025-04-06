@@ -90,6 +90,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 445",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-445",
+            "startTime": 1744511400000,
+            "endTime": 1744516800000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 154",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-154",
@@ -306,17 +314,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 2)",
+            "name": "Codeforces Round 1012 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2090",
+            "link": "https://codeforces.com/contests/2089",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 1)",
+            "name": "Codeforces Round 1012 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2089",
+            "link": "https://codeforces.com/contests/2090",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
@@ -450,17 +458,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
+            "link": "https://codeforces.com/contests/2078",
             "startTime": 1741617900000,
             "endTime": 1741626900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 2)",
+            "name": "Codeforces Round 1008 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2078",
+            "link": "https://codeforces.com/contests/2077",
             "startTime": 1741617900000,
             "endTime": 1741626900000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START144",
             "startTime": 1721831400000,
             "endTime": 1721838600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 961 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1995",
-            "startTime": 1721745300000,
-            "endTime": 1721752500000
         }
     ]
 }
