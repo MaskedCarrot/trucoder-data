@@ -49,6 +49,14 @@
             "endTime": 1749463200000
         },
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 407",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc407",
+            "startTime": 1748088000000,
+            "endTime": 1748094000000
+        },
+        {
             "id": 2,
             "name": "Starters 187",
             "platform": "Codechef",
@@ -202,17 +210,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2097",
+            "link": "https://codeforces.com/contests/2098",
             "startTime": 1745656500000,
             "endTime": 1745665500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2098",
+            "link": "https://codeforces.com/contests/2097",
             "startTime": 1745656500000,
             "endTime": 1745665500000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/jsc2024-final",
             "startTime": 1724476200000,
             "endTime": 1724487000000
-        },
-        {
-            "id": 3,
-            "name": "RECRUIT Nihonbashi Half Marathon 2024 Summer\uff08AtCoder Heuristic Contest 036\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc036",
-            "startTime": 1724407200000,
-            "endTime": 1725271200000
         }
     ]
 }
