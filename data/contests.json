@@ -2,17 +2,17 @@
     "contests": [
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -47,6 +47,14 @@
             "link": "https://atcoder.jp/contests/ahc048",
             "startTime": 1748599200000,
             "endTime": 1749463200000
+        },
+        {
+            "id": 2,
+            "name": "Starters 188",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START188",
+            "startTime": 1748442600000,
+            "endTime": 1748449800000
         },
         {
             "id": 3,
@@ -118,21 +126,21 @@
             "platform": "Codechef",
             "link": "https://www.codechef.com/START186",
             "startTime": 1747233000000,
-            "endTime": 1747240200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1024 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2101",
-            "startTime": 1746974100000,
-            "endTime": 1746983100000
+            "endTime": 1747242000000
         },
         {
             "id": 1,
             "name": "Codeforces Round 1024 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2102",
+            "startTime": 1746974100000,
+            "endTime": 1746983100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1024 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2101",
             "startTime": 1746974100000,
             "endTime": 1746983100000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2007",
             "startTime": 1725028500000,
             "endTime": 1725037500000
-        },
-        {
-            "id": 1,
-            "name": "Testing Round 19 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2010",
-            "startTime": 1724877300000,
-            "endTime": 1724880000000
         }
     ]
 }
