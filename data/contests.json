@@ -58,6 +58,14 @@
         },
         {
             "id": 3,
+            "name": "UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Contest 411)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc411",
+            "startTime": 1750507200000,
+            "endTime": 1750513200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder \u5275\u7acb13\u5468\u5e74\u8a18\u5ff5 \u4f01\u696d\u5bfe\u6297 Team Battle",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/atcoder13live",
@@ -786,17 +794,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 1)",
+            "name": "Codeforces Round 1012 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2089",
+            "link": "https://codeforces.com/contests/2090",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 2)",
+            "name": "Codeforces Round 1012 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2090",
+            "link": "https://codeforces.com/contests/2089",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
@@ -882,17 +890,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
@@ -930,17 +938,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
+            "link": "https://codeforces.com/contests/2078",
             "startTime": 1741617900000,
             "endTime": 1741626900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 2)",
+            "name": "Codeforces Round 1008 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2078",
+            "link": "https://codeforces.com/contests/2077",
             "startTime": 1741617900000,
             "endTime": 1741626900000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc372",
             "startTime": 1726920000000,
             "endTime": 1726926000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 973 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2013",
-            "startTime": 1726842900000,
-            "endTime": 1726850100000
         }
     ]
 }
