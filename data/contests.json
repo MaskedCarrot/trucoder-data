@@ -193,6 +193,14 @@
             "endTime": 1749908400000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 02",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND02",
+            "startTime": 1749839400000,
+            "endTime": 1749925800000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1030 (Div. 2)",
             "platform": "Codeforces",
@@ -290,17 +298,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-418",
             "startTime": 1728181800000,
             "endTime": 1728187200000
-        },
-        {
-            "id": 3,
-            "name": "KEYENCE Programming Contest 2024\uff08AtCoder Beginner Contest 374\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc374",
-            "startTime": 1728129600000,
-            "endTime": 1728135600000
         }
     ]
 }
