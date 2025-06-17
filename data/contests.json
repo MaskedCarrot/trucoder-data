@@ -330,17 +330,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
@@ -474,17 +474,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1024 (Div. 1)",
+            "name": "Codeforces Round 1024 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2101",
+            "link": "https://codeforces.com/contests/2102",
             "startTime": 1746974100000,
             "endTime": 1746983100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1024 (Div. 2)",
+            "name": "Codeforces Round 1024 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2102",
+            "link": "https://codeforces.com/contests/2101",
             "startTime": 1746974100000,
             "endTime": 1746983100000
         },
@@ -834,17 +834,17 @@
         },
         {
             "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
             "startTime": 1743480000000,
             "endTime": 1743494400000
         },
         {
             "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
             "startTime": 1743480000000,
             "endTime": 1743494400000
         },
