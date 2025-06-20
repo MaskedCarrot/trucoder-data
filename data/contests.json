@@ -185,14 +185,6 @@
             "endTime": 1750530600000
         },
         {
-            "id": 3,
-            "name": "AtCoder \u5275\u7acb13\u5468\u5e74\u8a18\u5ff5 \u4f01\u696d\u5bfe\u6297 Team Battle",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/atcoder13live",
-            "startTime": 1750417200000,
-            "endTime": 1750424400000
-        },
-        {
             "id": 2,
             "name": "Starters 191 (Rated till 6 star)",
             "platform": "Codechef",
@@ -858,17 +850,17 @@
         },
         {
             "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
             "startTime": 1743480000000,
             "endTime": 1743494400000
         },
         {
             "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
+            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork(for beginners)\u300d",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
+            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
             "startTime": 1743480000000,
             "endTime": 1743494400000
         },
@@ -978,17 +970,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 1)",
+            "name": "Codeforces Round 1012 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2089",
+            "link": "https://codeforces.com/contests/2090",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 2)",
+            "name": "Codeforces Round 1012 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2090",
+            "link": "https://codeforces.com/contests/2089",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
@@ -1074,17 +1066,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
@@ -2399,6 +2391,14 @@
             "link": "https://atcoder.jp/contests/arc185",
             "startTime": 1728820800000,
             "endTime": 1728828000000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2024/2025 \u4e00\u6b21\u4e88\u9078 (\u7b2c2\u56de) \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2025yo1b",
+            "startTime": 1728795600000,
+            "endTime": 1728800400000
         }
     ]
 }
