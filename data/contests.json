@@ -124,7 +124,7 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193D",
+            "link": "https://www.codechef.com/START193C",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -140,7 +140,7 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193C",
+            "link": "https://www.codechef.com/START193B",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -148,7 +148,7 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193B",
+            "link": "https://www.codechef.com/START193D",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -706,17 +706,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1021 (Div. 1)",
+            "name": "Codeforces Round 1021 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2097",
+            "link": "https://codeforces.com/contests/2098",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1021 (Div. 2)",
+            "name": "Codeforces Round 1021 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2098",
+            "link": "https://codeforces.com/contests/2097",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         },
@@ -1050,17 +1050,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 1)",
+            "name": "Codeforces Round 1012 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2089",
+            "link": "https://codeforces.com/contests/2090",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 2)",
+            "name": "Codeforces Round 1012 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2090",
+            "link": "https://codeforces.com/contests/2089",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
