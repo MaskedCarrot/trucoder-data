@@ -34,17 +34,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -116,7 +116,7 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193D",
+            "link": "https://www.codechef.com/START193",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -124,7 +124,7 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193",
+            "link": "https://www.codechef.com/START193C",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -140,7 +140,7 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193C",
+            "link": "https://www.codechef.com/START193D",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -794,17 +794,17 @@
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
+            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2025-final",
+            "link": "https://atcoder.jp/contests/masters2025-final-open",
             "startTime": 1745028600000,
             "endTime": 1745050200000
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
+            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2025-final-open",
+            "link": "https://atcoder.jp/contests/masters2025-final",
             "startTime": 1745028600000,
             "endTime": 1745050200000
         },
