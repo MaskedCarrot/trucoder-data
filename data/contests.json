@@ -34,17 +34,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -116,15 +116,7 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193",
-            "startTime": 1751466600000,
-            "endTime": 1751473800000
-        },
-        {
-            "id": 2,
-            "name": "Starters 193",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START193C",
+            "link": "https://www.codechef.com/START193B",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -140,7 +132,7 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193D",
+            "link": "https://www.codechef.com/START193C",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -148,7 +140,15 @@
             "id": 2,
             "name": "Starters 193",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START193B",
+            "link": "https://www.codechef.com/START193",
+            "startTime": 1751466600000,
+            "endTime": 1751473800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 193",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START193D",
             "startTime": 1751466600000,
             "endTime": 1751473800000
         },
@@ -706,17 +706,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1021 (Div. 2)",
+            "name": "Codeforces Round 1021 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2098",
+            "link": "https://codeforces.com/contests/2097",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1021 (Div. 1)",
+            "name": "Codeforces Round 1021 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2097",
+            "link": "https://codeforces.com/contests/2098",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         },
@@ -1146,17 +1146,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
