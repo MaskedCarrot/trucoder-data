@@ -42,17 +42,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -130,11 +130,11 @@
         },
         {
             "id": 2,
-            "name": "Starters 193",
+            "name": "Starters 193 (Rated for all)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START193",
             "startTime": 1751466600000,
-            "endTime": 1751473800000
+            "endTime": 1751475600000
         },
         {
             "id": 1,
@@ -410,17 +410,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
