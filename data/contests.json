@@ -17,6 +17,14 @@
             "endTime": 1754746800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2127",
+            "startTime": 1754577300000,
+            "endTime": 1754586300000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest 203 (Div. 2)",
             "platform": "Atcoder",
@@ -39,6 +47,30 @@
             "link": "https://atcoder.jp/contests/ahc051",
             "startTime": 1754042400000,
             "endTime": 1754906400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2130",
+            "startTime": 1753972500000,
+            "endTime": 1753979700000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2129",
+            "startTime": 1753972500000,
+            "endTime": 1753979700000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2128",
+            "startTime": 1753626900000,
+            "endTime": 1753634100000
         },
         {
             "id": 3,
@@ -522,17 +554,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
@@ -802,17 +834,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1021 (Div. 2)",
+            "name": "Codeforces Round 1021 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2098",
+            "link": "https://codeforces.com/contests/2097",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1021 (Div. 1)",
+            "name": "Codeforces Round 1021 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2097",
+            "link": "https://codeforces.com/contests/2098",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         },
@@ -1290,17 +1322,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 1)",
+            "name": "Codeforces Round 1008 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2077",
+            "link": "https://codeforces.com/contests/2078",
             "startTime": 1741617900000,
             "endTime": 1741626900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1008 (Div. 2)",
+            "name": "Codeforces Round 1008 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2078",
+            "link": "https://codeforces.com/contests/2077",
             "startTime": 1741617900000,
             "endTime": 1741626900000
         },
@@ -1546,17 +1578,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 2)",
+            "name": "Codeforces Round 1004 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2067",
+            "link": "https://codeforces.com/contests/2066",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
+            "name": "Codeforces Round 1004 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
+            "link": "https://codeforces.com/contests/2067",
             "startTime": 1739284500000,
             "endTime": 1739291700000
         },
@@ -2002,17 +2034,17 @@
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_1",
+            "link": "https://atcoder.jp/contests/ttpc2024_2",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
         {
             "id": 3,
-            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ttpc2024_2",
+            "link": "https://atcoder.jp/contests/ttpc2024_1",
             "startTime": 1734235200000,
             "endTime": 1734253200000
         },
@@ -2367,38 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-143",
             "startTime": 1731162600000,
             "endTime": 1731168000000
-        },
-        {
-            "id": 3,
-            "name": "Toyota Programming Contest 2024#11\uff08AtCoder Beginner Contest 379\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc379",
-            "startTime": 1731153600000,
-            "endTime": 1731159600000
-        },
-        {
-            "id": 2,
-            "name": "Starters 159 (Rated till 5 stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START159",
-            "startTime": 1730903400000,
-            "endTime": 1730910600000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 422",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-422",
-            "startTime": 1730601000000,
-            "endTime": 1730606400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 984 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2036",
-            "startTime": 1730558100000,
-            "endTime": 1730566200000
         }
     ]
 }
