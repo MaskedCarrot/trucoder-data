@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 204 (Div. 1)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc204",
+            "startTime": 1755432000000,
+            "endTime": 1755441000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 419",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc419",
@@ -170,17 +178,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -1306,17 +1314,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2081",
+            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
+            "name": "Codeforces Round 1010 (Div. 1, Unrated)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
+            "link": "https://codeforces.com/contests/2081",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START160",
             "startTime": 1731510000000,
             "endTime": 1731517200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 986 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2028",
-            "startTime": 1731252900000,
-            "endTime": 1731260100000
         }
     ]
 }
