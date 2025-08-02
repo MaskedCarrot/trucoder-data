@@ -49,6 +49,14 @@
             "endTime": 1755441000000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 163",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-163",
+            "startTime": 1755354600000,
+            "endTime": 1755360000000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 419",
             "platform": "Atcoder",
@@ -282,17 +290,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2041",
             "startTime": 1732431900000,
             "endTime": 1732449900000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 425",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-425",
-            "startTime": 1732415400000,
-            "endTime": 1732420800000
         }
     ]
 }
