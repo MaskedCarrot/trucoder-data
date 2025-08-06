@@ -105,6 +105,14 @@
             "endTime": 1754746800000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 09: ML Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND10",
+            "startTime": 1754677800000,
+            "endTime": 1754764200000
+        },
+        {
             "id": 1,
             "name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc382",
             "startTime": 1732968000000,
             "endTime": 1732974000000
-        },
-        {
-            "id": 3,
-            "name": "HACK TO THE FUTURE 2025 (AtCoder Heuristic Contest 040)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc040",
-            "startTime": 1732874400000,
-            "endTime": 1733738400000
         }
     ]
 }
