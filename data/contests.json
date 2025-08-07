@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "12th Asprova Programming Contest\uff08AtCoder Heuristic Contest 053\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc053",
+            "startTime": 1757757600000,
+            "endTime": 1757772000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 422",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc422",
@@ -322,17 +330,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -353,20 +361,20 @@
             "endTime": 1752683400000
         },
         {
-            "id": 3,
-            "name": "World Tour Finals 2025 Heuristic",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025heuristic",
-            "startTime": 1752624000000,
-            "endTime": 1752660000000
-        },
-        {
             "id": 6,
             "name": "AtCoder World Tour Finals 2025 Heuristic",
             "platform": "Meta",
             "link": "https://cphof.org/standings/atcoder_wth/2025",
             "startTime": 1752624000000,
             "endTime": 1752624000000
+        },
+        {
+            "id": 3,
+            "name": "World Tour Finals 2025 Heuristic",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2025heuristic",
+            "startTime": 1752624000000,
+            "endTime": 1752660000000
         },
         {
             "id": 2,
@@ -738,17 +746,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
@@ -1362,17 +1370,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 2)",
+            "name": "Codeforces Round 1012 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2090",
+            "link": "https://codeforces.com/contests/2089",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1012 (Div. 1)",
+            "name": "Codeforces Round 1012 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2089",
+            "link": "https://codeforces.com/contests/2090",
             "startTime": 1742708100000,
             "endTime": 1742717100000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2034",
             "startTime": 1732977300000,
             "endTime": 1732988100000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 382",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc382",
-            "startTime": 1732968000000,
-            "endTime": 1732974000000
         }
     ]
 }
