@@ -82,6 +82,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 463",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-463",
+            "startTime": 1755397800000,
+            "endTime": 1755403200000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 163",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-163",
@@ -218,17 +226,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 2)",
+            "name": "Codeforces Round 1040 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2130",
+            "link": "https://codeforces.com/contests/2129",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 1)",
+            "name": "Codeforces Round 1040 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2129",
+            "link": "https://codeforces.com/contests/2130",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
@@ -377,20 +385,20 @@
             "endTime": 1752683400000
         },
         {
-            "id": 3,
-            "name": "World Tour Finals 2025 Heuristic",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025heuristic",
-            "startTime": 1752624000000,
-            "endTime": 1752660000000
-        },
-        {
             "id": 6,
             "name": "AtCoder World Tour Finals 2025 Heuristic",
             "platform": "Meta",
             "link": "https://cphof.org/standings/atcoder_wth/2025",
             "startTime": 1752624000000,
             "endTime": 1752624000000
+        },
+        {
+            "id": 3,
+            "name": "World Tour Finals 2025 Heuristic",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2025heuristic",
+            "startTime": 1752624000000,
+            "endTime": 1752660000000
         },
         {
             "id": 2,
@@ -762,17 +770,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2042",
             "startTime": 1733150100000,
             "endTime": 1733157300000
-        },
-        {
-            "id": 1,
-            "name": "2024-2025 ICPC Asia Jakarta Regional Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2045",
-            "startTime": 1733029500000,
-            "endTime": 1733047500000
         }
     ]
 }
