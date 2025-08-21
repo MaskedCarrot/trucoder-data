@@ -73,6 +73,22 @@
             "endTime": 1756561200000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round 1046 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2136",
+            "startTime": 1756391700000,
+            "endTime": 1756402500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1046 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2135",
+            "startTime": 1756391700000,
+            "endTime": 1756402500000
+        },
+        {
             "id": 2,
             "name": "Starters 201",
             "platform": "Codechef",
@@ -82,7 +98,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1045 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2134",
             "startTime": 1756218900000,
@@ -90,7 +106,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1044 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2133",
             "startTime": 1756046100000,
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/START164",
             "startTime": 1733927400000,
             "endTime": 1733934600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 992 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2040",
-            "startTime": 1733668500000,
-            "endTime": 1733675700000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 189 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc189",
-            "startTime": 1733659200000,
-            "endTime": 1733666400000
         }
     ]
 }
