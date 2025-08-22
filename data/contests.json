@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc425",
+            "startTime": 1758974400000,
+            "endTime": 1758980400000
+        },
+        {
+            "id": 3,
             "name": "ALGO ARTIS Programming Contest 2025 Summer\uff08AtCoder Heuristic Contest 054\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc054",
@@ -874,17 +882,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ajo2024-final",
             "startTime": 1734138000000,
             "endTime": 1734148800000
-        },
-        {
-            "id": 2,
-            "name": "Starters 164 (Rated till 5 stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START164",
-            "startTime": 1733927400000,
-            "endTime": 1733934600000
         }
     ]
 }
