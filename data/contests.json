@@ -74,6 +74,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 465",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-465",
+            "startTime": 1756607400000,
+            "endTime": 1756612800000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 164",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-164",
@@ -90,17 +98,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 2)",
+            "name": "Codeforces Round 1046 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2136",
+            "link": "https://codeforces.com/contests/2135",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 1)",
+            "name": "Codeforces Round 1046 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2135",
+            "link": "https://codeforces.com/contests/2136",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
@@ -1258,17 +1266,17 @@
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
+            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2025-final-open",
+            "link": "https://atcoder.jp/contests/masters2025-final",
             "startTime": 1745028600000,
             "endTime": 1745050200000
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
+            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2025-final",
+            "link": "https://atcoder.jp/contests/masters2025-final-open",
             "startTime": 1745028600000,
             "endTime": 1745050200000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-428",
             "startTime": 1734229800000,
             "endTime": 1734235200000
-        },
-        {
-            "id": 3,
-            "name": "Toyota Programming Contest 2024#12\uff08AtCoder Beginner Contest 384\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc384",
-            "startTime": 1734177600000,
-            "endTime": 1734183600000
         }
     ]
 }
