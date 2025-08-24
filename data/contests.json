@@ -490,17 +490,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -521,20 +521,20 @@
             "endTime": 1752683400000
         },
         {
-            "id": 3,
-            "name": "World Tour Finals 2025 Heuristic",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025heuristic",
-            "startTime": 1752624000000,
-            "endTime": 1752660000000
-        },
-        {
             "id": 6,
             "name": "AtCoder World Tour Finals 2025 Heuristic",
             "platform": "Meta",
             "link": "https://cphof.org/standings/atcoder_wth/2025",
             "startTime": 1752624000000,
             "endTime": 1752624000000
+        },
+        {
+            "id": 3,
+            "name": "World Tour Finals 2025 Heuristic",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2025heuristic",
+            "startTime": 1752624000000,
+            "endTime": 1752660000000
         },
         {
             "id": 2,
