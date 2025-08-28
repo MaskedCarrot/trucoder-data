@@ -121,14 +121,6 @@
             "endTime": 1756740600000
         },
         {
-            "id": 2,
-            "name": "DSA Challenge 01",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVMONDAY01",
-            "startTime": 1756729800000,
-            "endTime": 1756740600000
-        },
-        {
             "id": 4,
             "name": "Weekly Contest 465",
             "platform": "Leetcode",
@@ -162,17 +154,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 1)",
+            "name": "Codeforces Round 1046 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2135",
+            "link": "https://codeforces.com/contests/2136",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 2)",
+            "name": "Codeforces Round 1046 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2136",
+            "link": "https://codeforces.com/contests/2135",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
@@ -1242,17 +1234,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1021 (Div. 2)",
+            "name": "Codeforces Round 1021 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2098",
+            "link": "https://codeforces.com/contests/2097",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1021 (Div. 1)",
+            "name": "Codeforces Round 1021 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2097",
+            "link": "https://codeforces.com/contests/2098",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         },
@@ -2399,6 +2391,14 @@
             "link": "https://atcoder.jp/contests/abc385",
             "startTime": 1734782400000,
             "endTime": 1734788400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 994 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2049",
+            "startTime": 1734705300000,
+            "endTime": 1734712500000
         }
     ]
 }
