@@ -26,6 +26,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 206 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc206",
+            "startTime": 1758456000000,
+            "endTime": 1758463200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder \u00d7 Engineer Guild\uff08AtCoder Beginner Contest 424\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc424",
@@ -194,17 +202,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 2)",
+            "name": "Codeforces Round 1046 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2136",
+            "link": "https://codeforces.com/contests/2135",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 1)",
+            "name": "Codeforces Round 1046 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2135",
+            "link": "https://codeforces.com/contests/2136",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
@@ -578,17 +586,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -609,20 +617,20 @@
             "endTime": 1752683400000
         },
         {
-            "id": 6,
-            "name": "AtCoder World Tour Finals 2025 Heuristic",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/atcoder_wth/2025",
-            "startTime": 1752624000000,
-            "endTime": 1752624000000
-        },
-        {
             "id": 3,
             "name": "World Tour Finals 2025 Heuristic",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awtf2025heuristic",
             "startTime": 1752624000000,
             "endTime": 1752660000000
+        },
+        {
+            "id": 6,
+            "name": "AtCoder World Tour Finals 2025 Heuristic",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/atcoder_wth/2025",
+            "startTime": 1752624000000,
+            "endTime": 1752624000000
         },
         {
             "id": 2,
@@ -994,17 +1002,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/xmascon24",
             "startTime": 1735034400000,
             "endTime": 1735048800000
-        },
-        {
-            "id": 1,
-            "name": "MaraTON Challenge 1",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2054",
-            "startTime": 1734960900000,
-            "endTime": 1736775300000
         }
     ]
 }
