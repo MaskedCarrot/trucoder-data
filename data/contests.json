@@ -122,6 +122,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 467",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-467",
+            "startTime": 1757817000000,
+            "endTime": 1757822400000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 165",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-165",
@@ -146,17 +154,17 @@
         },
         {
             "id": 2,
-            "name": "Starters 204",
+            "name": "Starters 203",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START204",
+            "link": "https://www.codechef.com/START203",
             "startTime": 1757514600000,
             "endTime": 1757521800000
         },
         {
             "id": 2,
-            "name": "Starters 203",
+            "name": "Starters 204",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START203",
+            "link": "https://www.codechef.com/START204",
             "startTime": 1757514600000,
             "endTime": 1757521800000
         },
@@ -170,17 +178,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1048 (Div. 1)",
+            "name": "Codeforces Round 1048 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2138",
+            "link": "https://codeforces.com/contests/2139",
             "startTime": 1757342100000,
             "endTime": 1757352900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1048 (Div. 2)",
+            "name": "Codeforces Round 1048 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2139",
+            "link": "https://codeforces.com/contests/2138",
             "startTime": 1757342100000,
             "endTime": 1757352900000
         },
@@ -239,6 +247,14 @@
             "link": "https://www.codechef.com/DEVWEEKEND14",
             "startTime": 1757097000000,
             "endTime": 1757183400000
+        },
+        {
+            "id": 6,
+            "name": "ICPC 2025 World Finals",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/icpc/2025",
+            "startTime": 1756944000000,
+            "endTime": 1756944000000
         },
         {
             "id": 2,
@@ -554,17 +570,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 1)",
+            "name": "Codeforces Round 1040 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2129",
+            "link": "https://codeforces.com/contests/2130",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 2)",
+            "name": "Codeforces Round 1040 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2130",
+            "link": "https://codeforces.com/contests/2129",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
@@ -682,17 +698,17 @@
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
+            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
+            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
         {
             "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
+            "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
+            "link": "https://atcoder.jp/contests/awtf2025algo",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         },
@@ -713,20 +729,20 @@
             "endTime": 1752683400000
         },
         {
-            "id": 6,
-            "name": "AtCoder World Tour Finals 2025 Heuristic",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/atcoder_wth/2025",
-            "startTime": 1752624000000,
-            "endTime": 1752624000000
-        },
-        {
             "id": 3,
             "name": "World Tour Finals 2025 Heuristic",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awtf2025heuristic",
             "startTime": 1752624000000,
             "endTime": 1752660000000
+        },
+        {
+            "id": 6,
+            "name": "AtCoder World Tour Finals 2025 Heuristic",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/atcoder_wth/2025",
+            "startTime": 1752624000000,
+            "endTime": 1752624000000
         },
         {
             "id": 2,
@@ -1242,17 +1258,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1024 (Div. 2)",
+            "name": "Codeforces Round 1024 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2102",
+            "link": "https://codeforces.com/contests/2101",
             "startTime": 1746974100000,
             "endTime": 1746983100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1024 (Div. 1)",
+            "name": "Codeforces Round 1024 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2101",
+            "link": "https://codeforces.com/contests/2102",
             "startTime": 1746974100000,
             "endTime": 1746983100000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc388",
             "startTime": 1736596800000,
             "endTime": 1736602800000
-        },
-        {
-            "id": 2,
-            "name": "Starters 168 (Rated till 6 stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START168",
-            "startTime": 1736348400000,
-            "endTime": 1736355600000
-        },
-        {
-            "id": 3,
-            "name": "KUPC 2024",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/kupc2024",
-            "startTime": 1736049600000,
-            "endTime": 1736067600000
         }
     ]
 }
