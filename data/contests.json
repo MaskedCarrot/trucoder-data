@@ -178,17 +178,17 @@
         },
         {
             "id": 2,
-            "name": "Starters 204",
+            "name": "Starters 203",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START204",
+            "link": "https://www.codechef.com/START203",
             "startTime": 1757514600000,
             "endTime": 1757521800000
         },
         {
             "id": 2,
-            "name": "Starters 203",
+            "name": "Starters 204",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/START203",
+            "link": "https://www.codechef.com/START204",
             "startTime": 1757514600000,
             "endTime": 1757521800000
         },
@@ -202,17 +202,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1048 (Div. 2)",
+            "name": "Codeforces Round 1048 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2139",
+            "link": "https://codeforces.com/contests/2138",
             "startTime": 1757342100000,
             "endTime": 1757352900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1048 (Div. 1)",
+            "name": "Codeforces Round 1048 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2138",
+            "link": "https://codeforces.com/contests/2139",
             "startTime": 1757342100000,
             "endTime": 1757352900000
         },
@@ -594,17 +594,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 2)",
+            "name": "Codeforces Round 1040 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2130",
+            "link": "https://codeforces.com/contests/2129",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 1)",
+            "name": "Codeforces Round 1040 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2129",
+            "link": "https://codeforces.com/contests/2130",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
