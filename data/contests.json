@@ -178,14 +178,6 @@
         },
         {
             "id": 2,
-            "name": "Starters 203",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START203",
-            "startTime": 1757514600000,
-            "endTime": 1757521800000
-        },
-        {
-            "id": 2,
             "name": "Starters 204",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START204",
@@ -193,8 +185,16 @@
             "endTime": 1757521800000
         },
         {
+            "id": 2,
+            "name": "Starters 203",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START203",
+            "startTime": 1757514600000,
+            "endTime": 1757521800000
+        },
+        {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1049 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2140",
             "startTime": 1757428500000,
@@ -338,17 +338,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 1)",
+            "name": "Codeforces Round 1046 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2135",
+            "link": "https://codeforces.com/contests/2136",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 2)",
+            "name": "Codeforces Round 1046 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2136",
+            "link": "https://codeforces.com/contests/2135",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
