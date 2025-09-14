@@ -225,6 +225,14 @@
             "endTime": 1757772000000
         },
         {
+            "id": 6,
+            "name": "Wincent DragonByte 2025",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/dragonbyte/2025",
+            "startTime": 1757721600000,
+            "endTime": 1757721600000
+        },
+        {
             "id": 2,
             "name": "Weekend Dev Challenge 15: Classify images using Deep Learning",
             "platform": "Codechef",
@@ -394,17 +402,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 2)",
+            "name": "Codeforces Round 1046 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2136",
+            "link": "https://codeforces.com/contests/2135",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 1)",
+            "name": "Codeforces Round 1046 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2135",
+            "link": "https://codeforces.com/contests/2136",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
@@ -650,17 +658,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 1)",
+            "name": "Codeforces Round 1040 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2129",
+            "link": "https://codeforces.com/contests/2130",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 2)",
+            "name": "Codeforces Round 1040 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2130",
+            "link": "https://codeforces.com/contests/2129",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2060",
             "startTime": 1737297300000,
             "endTime": 1737306300000
-        },
-        {
-            "id": 3,
-            "name": "ALGO ARTIS Programming Contest 2025 Winter\uff08AtCoder Heuristic Contest 041\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc041",
-            "startTime": 1737266400000,
-            "endTime": 1737280800000
         }
     ]
 }
