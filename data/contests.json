@@ -266,17 +266,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1048 (Div. 2)",
+            "name": "Codeforces Round 1048 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2139",
+            "link": "https://codeforces.com/contests/2138",
             "startTime": 1757342100000,
             "endTime": 1757352900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1048 (Div. 1)",
+            "name": "Codeforces Round 1048 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2138",
+            "link": "https://codeforces.com/contests/2139",
             "startTime": 1757342100000,
             "endTime": 1757352900000
         },
@@ -817,20 +817,20 @@
             "endTime": 1752683400000
         },
         {
-            "id": 6,
-            "name": "AtCoder World Tour Finals 2025 Heuristic",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/atcoder_wth/2025",
-            "startTime": 1752624000000,
-            "endTime": 1752624000000
-        },
-        {
             "id": 3,
             "name": "World Tour Finals 2025 Heuristic",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awtf2025heuristic",
             "startTime": 1752624000000,
             "endTime": 1752660000000
+        },
+        {
+            "id": 6,
+            "name": "AtCoder World Tour Finals 2025 Heuristic",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/atcoder_wth/2025",
+            "startTime": 1752624000000,
+            "endTime": 1752624000000
         },
         {
             "id": 2,
