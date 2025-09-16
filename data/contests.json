@@ -105,6 +105,14 @@
             "endTime": 1758731400000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 04",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY04",
+            "startTime": 1758544200000,
+            "endTime": 1758555000000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -658,17 +666,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 1)",
+            "name": "Codeforces Round 1040 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2129",
+            "link": "https://codeforces.com/contests/2130",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 2)",
+            "name": "Codeforces Round 1040 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2130",
+            "link": "https://codeforces.com/contests/2129",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2061",
             "startTime": 1737383700000,
             "endTime": 1737394500000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 998 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2060",
-            "startTime": 1737297300000,
-            "endTime": 1737306300000
         }
     ]
 }
