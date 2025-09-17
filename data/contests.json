@@ -106,17 +106,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2150",
+            "link": "https://codeforces.com/contests/2151",
             "startTime": 1758713700000,
             "endTime": 1758722700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2151",
+            "link": "https://codeforces.com/contests/2150",
             "startTime": 1758713700000,
             "endTime": 1758722700000
         },
@@ -426,17 +426,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 1)",
+            "name": "Codeforces Round 1046 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2135",
+            "link": "https://codeforces.com/contests/2136",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1046 (Div. 2)",
+            "name": "Codeforces Round 1046 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2136",
+            "link": "https://codeforces.com/contests/2135",
             "startTime": 1756391700000,
             "endTime": 1756402500000
         },
@@ -682,17 +682,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 2)",
+            "name": "Codeforces Round 1040 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2130",
+            "link": "https://codeforces.com/contests/2129",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1040 (Div. 1)",
+            "name": "Codeforces Round 1040 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2129",
+            "link": "https://codeforces.com/contests/2130",
             "startTime": 1753972500000,
             "endTime": 1753983300000
         },
@@ -1226,17 +1226,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2116",
+            "link": "https://codeforces.com/contests/2115",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 1028 (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2115",
+            "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
         },
