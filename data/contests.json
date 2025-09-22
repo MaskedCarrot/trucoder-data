@@ -33,6 +33,14 @@
             "endTime": 1760545800000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 167",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-167",
+            "startTime": 1760193000000,
+            "endTime": 1760198400000
+        },
+        {
             "id": 3,
             "name": "Panasonic Programming Contest 2025\uff08AtCoder Beginner Contest 427\uff09",
             "platform": "Atcoder",
@@ -63,6 +71,14 @@
             "link": "https://atcoder.jp/contests/arc207",
             "startTime": 1759665600000,
             "endTime": 1759674600000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 470",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-470",
+            "startTime": 1759631400000,
+            "endTime": 1759636800000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc391",
             "startTime": 1738411200000,
             "endTime": 1738417200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 171 (Rated till 5 stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START171",
-            "startTime": 1738161000000,
-            "endTime": 1738168200000
-        },
-        {
-            "id": 1,
-            "name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2062",
-            "startTime": 1737902100000,
-            "endTime": 1737911100000
         }
     ]
 }
