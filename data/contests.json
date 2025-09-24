@@ -25,6 +25,14 @@
             "endTime": 1760882400000
         },
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 428",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc428",
+            "startTime": 1760788800000,
+            "endTime": 1760794800000
+        },
+        {
             "id": 2,
             "name": "Starters 208",
             "platform": "Codechef",
@@ -89,6 +97,14 @@
             "endTime": 1759636800000
         },
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 426",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc426",
+            "startTime": 1759579200000,
+            "endTime": 1759585200000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -103,6 +119,14 @@
             "link": "https://www.codechef.com/START206",
             "startTime": 1759329000000,
             "endTime": 1759336200000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 05",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY05",
+            "startTime": 1759149000000,
+            "endTime": 1759159800000
         },
         {
             "id": 3,
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc042",
             "startTime": 1738490400000,
             "endTime": 1738504800000
-        },
-        {
-            "id": 3,
-            "name": "JOI 2024/2025 \u672c\u9078 \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joi2025ho",
-            "startTime": 1738468800000,
-            "endTime": 1738483200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 435",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-435",
-            "startTime": 1738463400000,
-            "endTime": 1738468800000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 149",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-149",
-            "startTime": 1738420200000,
-            "endTime": 1738425600000
         }
     ]
 }
