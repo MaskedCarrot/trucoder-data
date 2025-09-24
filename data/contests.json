@@ -178,7 +178,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 205",
+            "name": "Starters 205 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START205",
             "startTime": 1758724200000,
@@ -190,7 +190,7 @@
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2150",
             "startTime": 1758713700000,
-            "endTime": 1758724500000
+            "endTime": 1758725400000
         },
         {
             "id": 1,
@@ -198,7 +198,7 @@
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2151",
             "startTime": 1758713700000,
-            "endTime": 1758724500000
+            "endTime": 1758725400000
         },
         {
             "id": 2,
