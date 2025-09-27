@@ -9,12 +9,28 @@
             "endTime": 1761755400000
         },
         {
+            "id": 3,
+            "name": "Polaris.AI Programming Contest 2025\uff08AtCoder Beginner Contest 429\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc429",
+            "startTime": 1761393600000,
+            "endTime": 1761399600000
+        },
+        {
             "id": 2,
             "name": "Starters 209",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START209",
             "startTime": 1761143400000,
             "endTime": 1761150600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2154",
+            "startTime": 1760884500000,
+            "endTime": 1760891700000
         },
         {
             "id": 3,
@@ -106,7 +122,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2152",
             "startTime": 1759502100000,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc392",
             "startTime": 1739016000000,
             "endTime": 1739022000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 172 (Rated till 5 stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START172",
-            "startTime": 1738765800000,
-            "endTime": 1738773000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1002 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2059",
-            "startTime": 1738506900000,
-            "endTime": 1738514100000
         }
     ]
 }
