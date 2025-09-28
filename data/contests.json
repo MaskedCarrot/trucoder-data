@@ -9,6 +9,14 @@
             "endTime": 1761755400000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2156",
+            "startTime": 1761489300000,
+            "endTime": 1761496500000
+        },
+        {
             "id": 3,
             "name": "Polaris.AI Programming Contest 2025\uff08AtCoder Beginner Contest 429\uff09",
             "platform": "Atcoder",
@@ -95,6 +103,14 @@
             "link": "https://codeforces.com/contests/2145",
             "startTime": 1759761300000,
             "endTime": 1759768500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2155",
+            "startTime": 1759682100000,
+            "endTime": 1759689300000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc192",
             "startTime": 1739102400000,
             "endTime": 1739109600000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 436",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-436",
-            "startTime": 1739068200000,
-            "endTime": 1739073600000
-        },
-        {
-            "id": 3,
-            "name": "Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder Beginner Contest 392)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc392",
-            "startTime": 1739016000000,
-            "endTime": 1739022000000
         }
     ]
 }
