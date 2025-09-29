@@ -369,6 +369,14 @@
             "endTime": 1757772000000
         },
         {
+            "id": 3,
+            "name": "JOI 2025/2026 \u4e00\u6b21\u4e88\u9078 (\u7b2c1\u56de) \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2026yo1a",
+            "startTime": 1757739600000,
+            "endTime": 1757744400000
+        },
+        {
             "id": 6,
             "name": "Wincent DragonByte 2025",
             "platform": "Meta",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2065",
             "startTime": 1739111700000,
             "endTime": 1739119800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 192 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc192",
-            "startTime": 1739102400000,
-            "endTime": 1739109600000
         }
     ]
 }
