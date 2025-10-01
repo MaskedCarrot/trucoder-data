@@ -153,6 +153,14 @@
             "endTime": 1759585200000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 18: Full Stack Projects using MERN",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND18",
+            "startTime": 1759516200000,
+            "endTime": 1759689000000
+        },
+        {
             "id": 1,
             "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START173",
             "startTime": 1739370600000,
             "endTime": 1739379600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1004 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2066",
-            "startTime": 1739284500000,
-            "endTime": 1739291700000
         }
     ]
 }
