@@ -113,6 +113,14 @@
             "endTime": 1760190000000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 19: Full Stack Projects using MERN",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND19",
+            "startTime": 1760121000000,
+            "endTime": 1760293800000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1057 (Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-437",
             "startTime": 1739673000000,
             "endTime": 1739678400000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 150",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-150",
-            "startTime": 1739629800000,
-            "endTime": 1739635200000
         }
     ]
 }
