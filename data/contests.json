@@ -1,6 +1,14 @@
 {
     "contests": [
         {
+            "id": 3,
+            "name": "HACK TO THE FUTURE 2026 \uff08AtCoder Heuristic Contest 056\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc056",
+            "startTime": 1762509600000,
+            "endTime": 1763373600000
+        },
+        {
             "id": 2,
             "name": "Starters 210",
             "platform": "Codechef",
@@ -15,6 +23,14 @@
             "link": "https://codeforces.com/contests/2156",
             "startTime": 1761489300000,
             "endTime": 1761496500000
+        },
+        {
+            "id": 3,
+            "name": "FPS 24: 24 Problems on Formal Power Series",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/fps-24",
+            "startTime": 1761451200000,
+            "endTime": 1761469200000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/START174",
             "startTime": 1739975400000,
             "endTime": 1739983500000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 174 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2069",
-            "startTime": 1739889300000,
-            "endTime": 1739896500000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1005 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2064",
-            "startTime": 1739716500000,
-            "endTime": 1739723700000
         }
     ]
 }
