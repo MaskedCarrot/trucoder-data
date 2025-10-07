@@ -65,6 +65,14 @@
             "endTime": 1760545800000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 07",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY07",
+            "startTime": 1760358600000,
+            "endTime": 1760369400000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2064",
             "startTime": 1739716500000,
             "endTime": 1739723700000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 437",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-437",
-            "startTime": 1739673000000,
-            "endTime": 1739678400000
         }
     ]
 }
