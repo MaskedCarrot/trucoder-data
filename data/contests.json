@@ -26,6 +26,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Grand Contest 074",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc074",
+            "startTime": 1761480000000,
+            "endTime": 1761490800000
+        },
+        {
+            "id": 3,
             "name": "FPS 24: 24 Problems on Formal Power Series",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/fps-24",
@@ -2391,14 +2399,6 @@
             "link": "https://cphof.org/standings/ucup/2025",
             "startTime": 1740182400000,
             "endTime": 1740182400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 174 (Rated upto 2700)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START174",
-            "startTime": 1739975400000,
-            "endTime": 1739983500000
         }
     ]
 }
