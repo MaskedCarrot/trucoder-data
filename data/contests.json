@@ -97,6 +97,14 @@
             "endTime": 1760794800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2162",
+            "startTime": 1760711700000,
+            "endTime": 1760719800000
+        },
+        {
             "id": 2,
             "name": "Starters 208",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc193",
             "startTime": 1740312000000,
             "endTime": 1740321000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 438",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-438",
-            "startTime": 1740277800000,
-            "endTime": 1740283200000
         }
     ]
 }
