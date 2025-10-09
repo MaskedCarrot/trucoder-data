@@ -41,6 +41,14 @@
             "endTime": 1761469200000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 168",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-168",
+            "startTime": 1761402600000,
+            "endTime": 1761408000000
+        },
+        {
             "id": 3,
             "name": "Polaris.AI Programming Contest 2025\uff08AtCoder Beginner Contest 429\uff09",
             "platform": "Atcoder",
@@ -71,6 +79,14 @@
             "link": "https://atcoder.jp/contests/ahc055",
             "startTime": 1760868000000,
             "endTime": 1760882400000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 472",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-472",
+            "startTime": 1760841000000,
+            "endTime": 1760846400000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-438",
             "startTime": 1740277800000,
             "endTime": 1740283200000
-        },
-        {
-            "id": 3,
-            "name": "KAJIMA CORPORATION CONTEST 2025 (AtCoder Beginner Contest 394)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc394",
-            "startTime": 1740225600000,
-            "endTime": 1740231600000
-        },
-        {
-            "id": 6,
-            "name": "Universal Cup 2025",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/ucup/2025",
-            "startTime": 1740182400000,
-            "endTime": 1740182400000
         }
     ]
 }
