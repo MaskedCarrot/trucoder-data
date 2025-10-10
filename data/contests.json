@@ -10,6 +10,22 @@
         },
         {
             "id": 3,
+            "name": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 1)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/stpc2025_1",
+            "startTime": 1762574400000,
+            "endTime": 1762592400000
+        },
+        {
+            "id": 3,
+            "name": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/stpc2025_2",
+            "startTime": 1762574400000,
+            "endTime": 1762592400000
+        },
+        {
+            "id": 3,
             "name": "HACK TO THE FUTURE 2026 \uff08AtCoder Heuristic Contest 056\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc056",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2070",
             "startTime": 1740666900000,
             "endTime": 1740674100000
-        },
-        {
-            "id": 2,
-            "name": "Starters 175 (Rated till 5 stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START175",
-            "startTime": 1740580200000,
-            "endTime": 1740587400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1006 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2072",
-            "startTime": 1740494100000,
-            "endTime": 1740502200000
         }
     ]
 }
