@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "TOYOTA SYSTEMS Programming Contest 2025\uff08AtCoder Beginner Contest 431)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc431",
+            "startTime": 1762603200000,
+            "endTime": 1762609200000
+        },
+        {
+            "id": 3,
             "name": "HACK TO THE FUTURE 2026 \uff08AtCoder Heuristic Contest 056\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc056",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2072",
             "startTime": 1740494100000,
             "endTime": 1740502200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 193 (Div. 1)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc193",
-            "startTime": 1740312000000,
-            "endTime": 1740321000000
         }
     ]
 }
