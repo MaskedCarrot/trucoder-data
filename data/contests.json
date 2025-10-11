@@ -41,14 +41,6 @@
             "endTime": 1761755400000
         },
         {
-            "id": 1,
-            "name": "Codeforces Round (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2156",
-            "startTime": 1761489300000,
-            "endTime": 1761496500000
-        },
-        {
             "id": 3,
             "name": "AtCoder Grand Contest 074",
             "platform": "Atcoder",
@@ -79,6 +71,14 @@
             "link": "https://atcoder.jp/contests/abc429",
             "startTime": 1761393600000,
             "endTime": 1761399600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2156",
+            "startTime": 1761316500000,
+            "endTime": 1761323700000
         },
         {
             "id": 2,
