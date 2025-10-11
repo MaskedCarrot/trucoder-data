@@ -2399,6 +2399,15 @@
             "link": "https://codeforces.com/contests/2070",
             "startTime": 1740666900000,
             "endTime": 1740674100000
-        }
+        },
+        {
+           "id": 99999,
+           "name": "Parth Mittal Hacktoberfest Entry",
+           "platform": "Hacktoberfest",
+           "link": "https://github.com/afk-Parth",
+           "startTime": 1733913600000,
+           "endTime": 1733920800000
+       }
+
     ]
 }
