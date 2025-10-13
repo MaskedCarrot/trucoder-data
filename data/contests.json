@@ -1,6 +1,22 @@
 {
     "contests": [
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2165",
+            "startTime": 1763303700000,
+            "endTime": 1763310900000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2166",
+            "startTime": 1763303700000,
+            "endTime": 1763310900000
+        },
+        {
             "id": 3,
             "name": "TOYOTA SYSTEMS Programming Contest 2025\uff08AtCoder Beginner Contest 431)",
             "platform": "Atcoder",
@@ -31,6 +47,22 @@
             "link": "https://atcoder.jp/contests/ahc056",
             "startTime": 1762509600000,
             "endTime": 1763373600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2164",
+            "startTime": 1762353300000,
+            "endTime": 1762364100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2161",
+            "startTime": 1761834900000,
+            "endTime": 1761842100000
         },
         {
             "id": 2,
@@ -2367,38 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-151",
             "startTime": 1740839400000,
             "endTime": 1740844800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 395",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc395",
-            "startTime": 1740830400000,
-            "endTime": 1740836400000
-        },
-        {
-            "id": 1,
-            "name": "2025 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2073",
-            "startTime": 1740794700000,
-            "endTime": 1740812700000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1007 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2071",
-            "startTime": 1740753300000,
-            "endTime": 1740761400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 175 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2070",
-            "startTime": 1740666900000,
-            "endTime": 1740674100000
         }
     ]
 }
