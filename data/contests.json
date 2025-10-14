@@ -58,6 +58,14 @@
         },
         {
             "id": 3,
+            "name": "FPS 24: 24 Problems on Formal Power Series",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/fps-24",
+            "startTime": 1762142400000,
+            "endTime": 1762160400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 430",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc430",
@@ -87,14 +95,6 @@
             "link": "https://atcoder.jp/contests/agc074",
             "startTime": 1761480000000,
             "endTime": 1761490800000
-        },
-        {
-            "id": 3,
-            "name": "FPS 24: 24 Problems on Formal Power Series",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/fps-24",
-            "startTime": 1761451200000,
-            "endTime": 1761469200000
         },
         {
             "id": 4,
@@ -215,6 +215,14 @@
             "link": "https://atcoder.jp/contests/arc208",
             "startTime": 1760270400000,
             "endTime": 1760277600000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2025/2026 \u4e00\u6b21\u4e88\u9078 (\u7b2c2\u56de) \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2026yo1b",
+            "startTime": 1760245200000,
+            "endTime": 1760250000000
         },
         {
             "id": 4,
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2068",
             "startTime": 1740911700000,
             "endTime": 1740929700000
-        },
-        {
-            "id": 3,
-            "name": "The 2nd Masters Championship-qual-",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2025-qual",
-            "startTime": 1740888000000,
-            "endTime": 1740909600000
         }
     ]
 }
