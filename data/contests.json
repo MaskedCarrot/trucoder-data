@@ -57,6 +57,14 @@
             "endTime": 1762364100000
         },
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 430",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc430",
+            "startTime": 1761998400000,
+            "endTime": 1762004400000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -87,6 +95,14 @@
             "link": "https://atcoder.jp/contests/fps-24",
             "startTime": 1761451200000,
             "endTime": 1761469200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 473",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-473",
+            "startTime": 1761445800000,
+            "endTime": 1761451200000
         },
         {
             "id": 4,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/masters2025-qual",
             "startTime": 1740888000000,
             "endTime": 1740909600000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 439",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-439",
-            "startTime": 1740882600000,
-            "endTime": 1740888000000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 151",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-151",
-            "startTime": 1740839400000,
-            "endTime": 1740844800000
         }
     ]
 }
