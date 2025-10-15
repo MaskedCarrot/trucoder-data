@@ -89,6 +89,14 @@
             "endTime": 1761755400000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 4)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2167",
+            "startTime": 1761662100000,
+            "endTime": 1761670200000
+        },
+        {
             "id": 3,
             "name": "AtCoder Grand Contest 074",
             "platform": "Atcoder",
@@ -194,7 +202,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 208",
+            "name": "Starters 208 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START208",
             "startTime": 1760538600000,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/utpc2024",
             "startTime": 1741406400000,
             "endTime": 1741424400000
-        },
-        {
-            "id": 1,
-            "name": "XIX Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2079",
-            "startTime": 1741334700000,
-            "endTime": 1741352700000
         }
     ]
 }
