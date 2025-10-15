@@ -169,6 +169,14 @@
             "endTime": 1760794800000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 20: Full Stack Projects using MERN",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND20",
+            "startTime": 1760725800000,
+            "endTime": 1760898600000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1059 (Div. 3)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START176",
             "startTime": 1741185000000,
             "endTime": 1741192200000
-        },
-        {
-            "id": 1,
-            "name": "European Championship 2025 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2068",
-            "startTime": 1740911700000,
-            "endTime": 1740929700000
         }
     ]
 }
