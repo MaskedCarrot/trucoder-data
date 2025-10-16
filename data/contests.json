@@ -18,6 +18,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 210",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc210",
+            "startTime": 1763294400000,
+            "endTime": 1763301600000
+        },
+        {
+            "id": 3,
             "name": "TOYOTA SYSTEMS Programming Contest 2025\uff08AtCoder Beginner Contest 431)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc431",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/blog/entry/140425",
             "startTime": 1741428000000,
             "endTime": 1741543200000
-        },
-        {
-            "id": 3,
-            "name": "UTPC 2024",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/utpc2024",
-            "startTime": 1741406400000,
-            "endTime": 1741424400000
         }
     ]
 }
