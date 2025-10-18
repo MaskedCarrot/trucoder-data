@@ -26,6 +26,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 209 (Div. 1)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc209",
+            "startTime": 1762689600000,
+            "endTime": 1762698600000
+        },
+        {
+            "id": 3,
             "name": "TOYOTA SYSTEMS Programming Contest 2025\uff08AtCoder Beginner Contest 431)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc431",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-440",
             "startTime": 1741487400000,
             "endTime": 1741492800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 396",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc396",
-            "startTime": 1741435200000,
-            "endTime": 1741441200000
         }
     ]
 }
