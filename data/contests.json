@@ -117,8 +117,8 @@
             "name": "Codeforces Round (Div. 1 + Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2161",
-            "startTime": 1761834900000,
-            "endTime": 1761842100000
+            "startTime": 1761842100000,
+            "endTime": 1761852900000
         },
         {
             "id": 2,
@@ -186,7 +186,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 209",
+            "name": "Starters 209 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START209",
             "startTime": 1761143400000,
