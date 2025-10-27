@@ -34,6 +34,14 @@
         },
         {
             "id": 3,
+            "name": "OMRON Corporation Programming Contest 2025 #2 (AtCoder Beginner Contest 432)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc432",
+            "startTime": 1763208000000,
+            "endTime": 1763214000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest 209 (Div. 1)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc209",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc397",
             "startTime": 1742040000000,
             "endTime": 1742046000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 177 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START177",
-            "startTime": 1741789800000,
-            "endTime": 1741797000000
         }
     ]
 }
