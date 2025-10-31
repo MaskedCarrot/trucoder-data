@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "\uff33\uff4b\uff59 Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc434",
+            "startTime": 1764417600000,
+            "endTime": 1764423600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 433",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc433",
@@ -2389,14 +2397,6 @@
             "name": "Codeforces Round 1010 (Div. 1, Unrated)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2081",
-            "startTime": 1742049300000,
-            "endTime": 1742060100000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1010 (Div. 2, Unrated)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2082",
             "startTime": 1742049300000,
             "endTime": 1742060100000
         }
