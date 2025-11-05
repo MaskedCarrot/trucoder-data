@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 435",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc435",
+            "startTime": 1765022400000,
+            "endTime": 1765028400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest 211 (Div. 2)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc211",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2085",
             "startTime": 1742654100000,
             "endTime": 1742661300000
-        },
-        {
-            "id": 3,
-            "name": "UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Contest 398)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc398",
-            "startTime": 1742644800000,
-            "endTime": 1742650800000
         }
     ]
 }
