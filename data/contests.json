@@ -65,6 +65,14 @@
             "endTime": 1764423600000
         },
         {
+            "id": 3,
+            "name": "AtCoder Heuristic Contest 057",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc057",
+            "startTime": 1764396000000,
+            "endTime": 1764410400000
+        },
+        {
             "id": 1,
             "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc399",
             "startTime": 1743249600000,
             "endTime": 1743255600000
-        },
-        {
-            "id": 3,
-            "name": "NUPC 2024",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/nupc2024",
-            "startTime": 1743220800000,
-            "endTime": 1743238800000
         }
     ]
 }
