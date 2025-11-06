@@ -281,6 +281,14 @@
             "endTime": 1761981000000
         },
         {
+            "id": 3,
+            "name": "AtCoder \u00d7 Engineer Guild \u30aa\u30f3\u30b5\u30a4\u30c8\u30b3\u30f3\u30c6\u30b9\u30c8 \uff5e\u96c6\u7d50\uff01\u9ad8\u30ec\u30fc\u30c8\u4eba\u6750\uff5e\uff08\u5fa9\u7fd2\u7528\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/highrate2025-parallel",
+            "startTime": 1761970200000,
+            "endTime": 1761981000000
+        },
+        {
             "id": 2,
             "name": "Weekend Dev Challenge 22: Frontend Essentials - HTML,CSS,JS",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/nupc2024",
             "startTime": 1743220800000,
             "endTime": 1743238800000
-        },
-        {
-            "id": 3,
-            "name": "THIRD PROGRAMMING CONTEST 2025\uff08AtCoder Heuristic Contest 045\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc045",
-            "startTime": 1743156000000,
-            "endTime": 1744020000000
         }
     ]
 }
