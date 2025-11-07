@@ -97,6 +97,14 @@
             "endTime": 1763901300000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 170",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-170",
+            "startTime": 1763821800000,
+            "endTime": 1763827200000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 433",
             "platform": "Atcoder",
@@ -135,6 +143,14 @@
             "link": "https://atcoder.jp/contests/arc210",
             "startTime": 1763294400000,
             "endTime": 1763301600000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 476",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-476",
+            "startTime": 1763260200000,
+            "endTime": 1763265600000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/pakencamp-2024-day1",
             "startTime": 1743310800000,
             "endTime": 1743319800000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 443",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-443",
-            "startTime": 1743301800000,
-            "endTime": 1743307200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1014 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2092",
-            "startTime": 1743258900000,
-            "endTime": 1743266100000
         }
     ]
 }
