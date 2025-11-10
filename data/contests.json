@@ -98,6 +98,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 477",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-477",
+            "startTime": 1763865000000,
+            "endTime": 1763870400000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 170",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-170",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/agc071",
             "startTime": 1743336000000,
             "endTime": 1743346800000
-        },
-        {
-            "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c1\u65e5\u300cSpeedRun\u300d",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day1",
-            "startTime": 1743310800000,
-            "endTime": 1743319800000
         }
     ]
 }
