@@ -130,6 +130,14 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2171",
+            "startTime": 1763476500000,
+            "endTime": 1763484600000
+        },
+        {
+            "id": 1,
             "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2165",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/pakencamp-2024-day2",
             "startTime": 1743391800000,
             "endTime": 1743406200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Grand Contest 071",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/agc071",
-            "startTime": 1743336000000,
-            "endTime": 1743346800000
         }
     ]
 }
