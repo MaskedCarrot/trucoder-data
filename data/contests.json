@@ -169,6 +169,14 @@
             "endTime": 1763265600000
         },
         {
+            "id": 1,
+            "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2172",
+            "startTime": 1763256600000,
+            "endTime": 1763274600000
+        },
+        {
             "id": 3,
             "name": "OMRON Corporation Programming Contest 2025 #2 (AtCoder Beginner Contest 432)",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/pakencamp-2024-day3-2",
             "startTime": 1743480000000,
             "endTime": 1743494400000
-        },
-        {
-            "id": 1,
-            "name": "Kotlin Heroes: Practice 12",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2088",
-            "startTime": 1743428100000,
-            "endTime": 1744032900000
         }
     ]
 }
