@@ -9,12 +9,28 @@
             "endTime": 1767198600000
         },
         {
+            "id": 3,
+            "name": "AtCoder Grand Contest 076",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc076",
+            "startTime": 1766923200000,
+            "endTime": 1766934000000
+        },
+        {
             "id": 2,
             "name": "Starters 218",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START218",
             "startTime": 1766586600000,
             "endTime": 1766593800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Grand Contest 075",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc075",
+            "startTime": 1766318400000,
+            "endTime": 1766329200000
         },
         {
             "id": 2,
@@ -143,6 +159,14 @@
             "link": "https://codeforces.com/contests/2171",
             "startTime": 1763476500000,
             "endTime": 1763485500000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 12",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY12",
+            "startTime": 1763382600000,
+            "endTime": 1763393400000
         },
         {
             "id": 1,
@@ -2375,30 +2399,6 @@
             "link": "https://codeforces.com/contests/2086",
             "startTime": 1743690900000,
             "endTime": 1743698100000
-        },
-        {
-            "id": 2,
-            "name": "Starters 180 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START180",
-            "startTime": 1743604200000,
-            "endTime": 1743611400000
-        },
-        {
-            "id": 1,
-            "name": "April Fools Day Contest 2025",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2095",
-            "startTime": 1743518100000,
-            "endTime": 1743525300000
-        },
-        {
-            "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2024 \u7b2c3\u65e5\u300cTeamwork\u300d",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2024-day3-1",
-            "startTime": 1743480000000,
-            "endTime": 1743494400000
         }
     ]
 }
