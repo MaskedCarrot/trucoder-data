@@ -42,6 +42,14 @@
         },
         {
             "id": 3,
+            "name": "ALGO ARTIS Programming Contest 2025 December\uff08AtCoder Heuristic Contest 058\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc058",
+            "startTime": 1765692000000,
+            "endTime": 1765706400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 436",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc436",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc400",
             "startTime": 1743854400000,
             "endTime": 1743860400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 177 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2086",
-            "startTime": 1743690900000,
-            "endTime": 1743698100000
         }
     ]
 }
