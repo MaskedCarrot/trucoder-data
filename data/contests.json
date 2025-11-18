@@ -153,20 +153,20 @@
             "endTime": 1763818800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round 1065 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2171",
+            "startTime": 1763649300000,
+            "endTime": 1763658300000
+        },
+        {
             "id": 2,
             "name": "Starters 213",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START213",
             "startTime": 1763562600000,
             "endTime": 1763569800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1065 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2171",
-            "startTime": 1763476500000,
-            "endTime": 1763485500000
         },
         {
             "id": 2,
