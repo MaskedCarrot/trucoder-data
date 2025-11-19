@@ -65,6 +65,14 @@
             "endTime": 1765384200000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 171",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-171",
+            "startTime": 1765031400000,
+            "endTime": 1765036800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 435",
             "platform": "Atcoder",
@@ -87,6 +95,14 @@
             "link": "https://atcoder.jp/contests/arc211",
             "startTime": 1764504000000,
             "endTime": 1764511200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 478",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-478",
+            "startTime": 1764469800000,
+            "endTime": 1764475200000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc196",
             "startTime": 1743940800000,
             "endTime": 1743949800000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 444",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-444",
-            "startTime": 1743906600000,
-            "endTime": 1743912000000
-        },
-        {
-            "id": 1,
-            "name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2084",
-            "startTime": 1743863700000,
-            "endTime": 1743874500000
         }
     ]
 }
