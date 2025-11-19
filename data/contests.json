@@ -105,6 +105,14 @@
             "endTime": 1764475200000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2158",
+            "startTime": 1764426900000,
+            "endTime": 1764434100000
+        },
+        {
             "id": 3,
             "name": "\uff33\uff4b\uff59 Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2093",
             "startTime": 1744122900000,
             "endTime": 1744131000000
-        },
-        {
-            "id": 1,
-            "name": "Kotlin Heroes: Episode 12",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2087",
-            "startTime": 1744036500000,
-            "endTime": 1744045500000
         }
     ]
 }
