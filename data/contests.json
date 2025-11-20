@@ -33,6 +33,14 @@
             "endTime": 1766329200000
         },
         {
+            "id": 3,
+            "name": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc437",
+            "startTime": 1766232000000,
+            "endTime": 1766238000000
+        },
+        {
             "id": 2,
             "name": "Starters 217",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START181",
             "startTime": 1744209000000,
             "endTime": 1744218000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1016 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2093",
-            "startTime": 1744122900000,
-            "endTime": 1744131000000
         }
     ]
 }
