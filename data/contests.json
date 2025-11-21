@@ -17,6 +17,14 @@
             "endTime": 1766934000000
         },
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 438",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc438",
+            "startTime": 1766836800000,
+            "endTime": 1766842800000
+        },
+        {
             "id": 2,
             "name": "Starters 218",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc401",
             "startTime": 1744459200000,
             "endTime": 1744465200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 181 (Rated for all)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START181",
-            "startTime": 1744209000000,
-            "endTime": 1744218000000
         }
     ]
 }
