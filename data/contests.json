@@ -82,6 +82,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 479",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-479",
+            "startTime": 1765074600000,
+            "endTime": 1765080000000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 171",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-171",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-445",
             "startTime": 1744511400000,
             "endTime": 1744516800000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 154",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-154",
-            "startTime": 1744468200000,
-            "endTime": 1744473600000
         }
     ]
 }
