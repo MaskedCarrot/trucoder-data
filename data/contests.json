@@ -105,6 +105,14 @@
             "endTime": 1765028400000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2173",
+            "startTime": 1764945300000,
+            "endTime": 1764952500000
+        },
+        {
             "id": 2,
             "name": "Starters 215",
             "platform": "Codechef",
@@ -138,7 +146,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1067 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2158",
             "startTime": 1764426900000,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/masters2025-final-open",
             "startTime": 1745028600000,
             "endTime": 1745050200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 182 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START182",
-            "startTime": 1744813800000,
-            "endTime": 1744821000000
         }
     ]
 }
