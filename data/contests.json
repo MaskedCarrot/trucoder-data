@@ -89,6 +89,14 @@
             "endTime": 1765633200000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2176",
+            "startTime": 1765463700000,
+            "endTime": 1765470900000
+        },
+        {
             "id": 2,
             "name": "Starters 216",
             "platform": "Codechef",
@@ -119,6 +127,22 @@
             "link": "https://atcoder.jp/contests/abc435",
             "startTime": 1765022400000,
             "endTime": 1765028400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2174",
+            "startTime": 1765008900000,
+            "endTime": 1765016100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2175",
+            "startTime": 1765008900000,
+            "endTime": 1765016100000
         },
         {
             "id": 1,
@@ -2375,30 +2399,6 @@
             "link": "https://codeforces.com/contests/2105",
             "startTime": 1745226000000,
             "endTime": 1745830800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Grand Contest 072",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/agc072",
-            "startTime": 1745150400000,
-            "endTime": 1745161200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 446",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-446",
-            "startTime": 1745116200000,
-            "endTime": 1745121600000
-        },
-        {
-            "id": 1,
-            "name": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2096",
-            "startTime": 1745073300000,
-            "endTime": 1745080500000
         }
     ]
 }
