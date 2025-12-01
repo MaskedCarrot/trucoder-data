@@ -41,6 +41,14 @@
             "endTime": 1766329200000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 172",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-172",
+            "startTime": 1766241000000,
+            "endTime": 1766246400000
+        },
+        {
             "id": 3,
             "name": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
             "platform": "Atcoder",
@@ -63,6 +71,14 @@
             "link": "https://atcoder.jp/contests/ahc058",
             "startTime": 1765692000000,
             "endTime": 1765706400000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 480",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-480",
+            "startTime": 1765679400000,
+            "endTime": 1765684800000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2096",
             "startTime": 1745073300000,
             "endTime": 1745080500000
-        },
-        {
-            "id": 3,
-            "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2025 (AtCoder Beginner Contest 402)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc402",
-            "startTime": 1745064000000,
-            "endTime": 1745070000000
-        },
-        {
-            "id": 3,
-            "name": "\u7b2c\u4e8c\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2025-final",
-            "startTime": 1745028600000,
-            "endTime": 1745050200000
         }
     ]
 }
