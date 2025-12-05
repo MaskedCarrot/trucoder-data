@@ -105,6 +105,14 @@
             "endTime": 1765384200000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 15",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY15",
+            "startTime": 1765197000000,
+            "endTime": 1765207800000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 479",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START183",
             "startTime": 1745418600000,
             "endTime": 1745425800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1019 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2103",
-            "startTime": 1745246100000,
-            "endTime": 1745253300000
         }
     ]
 }
