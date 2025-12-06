@@ -57,6 +57,14 @@
             "endTime": 1766238000000
         },
         {
+            "id": 1,
+            "name": "ICPC 2025 Online Challenge powered by Huawei",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2177",
+            "startTime": 1766142000000,
+            "endTime": 1767610800000
+        },
+        {
             "id": 2,
             "name": "Starters 217",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2106",
             "startTime": 1745505300000,
             "endTime": 1745513400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 183 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START183",
-            "startTime": 1745418600000,
-            "endTime": 1745425800000
         }
     ]
 }
