@@ -177,6 +177,14 @@
             "endTime": 1765016100000
         },
         {
+            "id": 6,
+            "name": "Yandex Cup 2025 Algorithm",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/ya_algo/2025",
+            "startTime": 1764979200000,
+            "endTime": 1764979200000
+        },
+        {
             "id": 2,
             "name": "Weekend Dev Challenge 27: SQL Projects",
             "platform": "Codechef",
@@ -2389,14 +2397,6 @@
             "name": "Codeforces Round 1021 (Div. 1)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2097",
-            "startTime": 1745656500000,
-            "endTime": 1745667300000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1021 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2098",
             "startTime": 1745656500000,
             "endTime": 1745667300000
         }
