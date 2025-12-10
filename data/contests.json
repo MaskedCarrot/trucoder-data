@@ -145,6 +145,14 @@
             "endTime": 1765633200000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 28: SQL Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND28",
+            "startTime": 1765564200000,
+            "endTime": 1765737000000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2108",
             "startTime": 1746110100000,
             "endTime": 1746117300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 184 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START184",
-            "startTime": 1746023400000,
-            "endTime": 1746030600000
         }
     ]
 }
