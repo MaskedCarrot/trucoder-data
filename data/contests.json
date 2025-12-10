@@ -1,6 +1,14 @@
 {
     "contests": [
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 439",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc439",
+            "startTime": 1767441600000,
+            "endTime": 1767447600000
+        },
+        {
             "id": 2,
             "name": "Starters 219",
             "platform": "Codechef",
@@ -105,6 +113,14 @@
             "endTime": 1765989000000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 16",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY16",
+            "startTime": 1765801800000,
+            "endTime": 1765812600000
+        },
+        {
             "id": 3,
             "name": "ALGO ARTIS Programming Contest 2025 December\uff08AtCoder Heuristic Contest 058\uff09",
             "platform": "Atcoder",
@@ -138,7 +154,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 216",
+            "name": "Starters 216 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START216",
             "startTime": 1765377000000,
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/START184",
             "startTime": 1746023400000,
             "endTime": 1746030600000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 178 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2104",
-            "startTime": 1745850900000,
-            "endTime": 1745858100000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 403",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc403",
-            "startTime": 1745755200000,
-            "endTime": 1745761200000
         }
     ]
 }
