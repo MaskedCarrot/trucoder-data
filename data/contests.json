@@ -153,6 +153,22 @@
             "endTime": 1765633200000
         },
         {
+            "id": 3,
+            "name": "\u7b2c\u4e8c\u56de AtCoder Japan Open -\u6c7a\u52dd-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ajo2025-final",
+            "startTime": 1765587600000,
+            "endTime": 1765602000000
+        },
+        {
+            "id": 3,
+            "name": "\u7b2c\u4e8c\u56de AtCoder Japan Open -\u6c7a\u52dd-\uff08\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ajo2025-final-open",
+            "startTime": 1765587600000,
+            "endTime": 1765602000000
+        },
+        {
             "id": 2,
             "name": "Weekend Dev Challenge 28: SQL Projects",
             "platform": "Codechef",
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-448",
             "startTime": 1746325800000,
             "endTime": 1746331200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 404",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc404",
-            "startTime": 1746273600000,
-            "endTime": 1746279600000
-        },
-        {
-            "id": 6,
-            "name": "M(IT)^2 2025 Spring Invitationals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/mitit_spring/2025",
-            "startTime": 1746230400000,
-            "endTime": 1746230400000
         }
     ]
 }
