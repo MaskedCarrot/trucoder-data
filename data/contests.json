@@ -2,6 +2,22 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc441",
+            "startTime": 1768651200000,
+            "endTime": 1768657200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 440",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc440",
+            "startTime": 1768046400000,
+            "endTime": 1768052400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 439",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc439",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2107",
             "startTime": 1746455700000,
             "endTime": 1746463800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 197 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc197",
-            "startTime": 1746360000000,
-            "endTime": 1746367200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 448",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-448",
-            "startTime": 1746325800000,
-            "endTime": 1746331200000
         }
     ]
 }
