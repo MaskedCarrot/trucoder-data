@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc060",
+            "startTime": 1769940000000,
+            "endTime": 1769954400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc441",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc405",
             "startTime": 1746878400000,
             "endTime": 1746884400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 185 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START185",
-            "startTime": 1746628200000,
-            "endTime": 1746635400000
         }
     ]
 }
