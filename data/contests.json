@@ -129,6 +129,14 @@
             "endTime": 1766238000000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 29: SQL Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND29",
+            "startTime": 1766169000000,
+            "endTime": 1766341800000
+        },
+        {
             "id": 1,
             "name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-156",
             "startTime": 1746887400000,
             "endTime": 1746892800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 405",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc405",
-            "startTime": 1746878400000,
-            "endTime": 1746884400000
         }
     ]
 }
