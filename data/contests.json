@@ -33,6 +33,14 @@
             "endTime": 1768052400000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 173",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-173",
+            "startTime": 1767450600000,
+            "endTime": 1767456000000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 439",
             "platform": "Atcoder",
@@ -55,6 +63,14 @@
             "link": "https://atcoder.jp/contests/agc076",
             "startTime": 1766923200000,
             "endTime": 1766934000000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 482",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-482",
+            "startTime": 1766889000000,
+            "endTime": 1766894400000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2102",
             "startTime": 1746974100000,
             "endTime": 1746983100000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 449",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-449",
-            "startTime": 1746930600000,
-            "endTime": 1746936000000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 156",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-156",
-            "startTime": 1746887400000,
-            "endTime": 1746892800000
         }
     ]
 }
