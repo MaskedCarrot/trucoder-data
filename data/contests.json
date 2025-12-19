@@ -65,6 +65,14 @@
             "endTime": 1767198600000
         },
         {
+            "id": 1,
+            "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2182",
+            "startTime": 1767018900000,
+            "endTime": 1767026100000
+        },
+        {
             "id": 3,
             "name": "AtCoder Grand Contest 076",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-450",
             "startTime": 1747535400000,
             "endTime": 1747540800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1025 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2109",
-            "startTime": 1747492500000,
-            "endTime": 1747500600000
         }
     ]
 }
