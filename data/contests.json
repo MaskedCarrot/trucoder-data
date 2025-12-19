@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc442",
+            "startTime": 1769256000000,
+            "endTime": 1769262000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc441",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc406",
             "startTime": 1747483200000,
             "endTime": 1747489200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 186 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START186",
-            "startTime": 1747233000000,
-            "endTime": 1747242000000
         }
     ]
 }
