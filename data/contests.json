@@ -177,6 +177,14 @@
             "endTime": 1766238000000
         },
         {
+            "id": 6,
+            "name": "Meta Hacker Cup 2025",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/fhc/2025",
+            "startTime": 1766188800000,
+            "endTime": 1766188800000
+        },
+        {
             "id": 2,
             "name": "Weekend Dev Challenge 29: SQL Projects",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc047",
             "startTime": 1747562400000,
             "endTime": 1747576800000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 450",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-450",
-            "startTime": 1747535400000,
-            "endTime": 1747540800000
         }
     ]
 }
