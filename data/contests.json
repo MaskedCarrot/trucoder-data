@@ -50,6 +50,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 483",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-483",
+            "startTime": 1767493800000,
+            "endTime": 1767499200000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 173",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-173",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc407",
             "startTime": 1748088000000,
             "endTime": 1748094000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 187 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START187",
-            "startTime": 1747837800000,
-            "endTime": 1747845000000
         }
     ]
 }
