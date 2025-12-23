@@ -121,6 +121,14 @@
             "endTime": 1766842800000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 30: SQL Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND30",
+            "startTime": 1766773800000,
+            "endTime": 1766946600000
+        },
+        {
             "id": 1,
             "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
             "platform": "Codeforces",
@@ -149,8 +157,8 @@
             "name": "Codeforces Round 1071 (Div. 3)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2179",
-            "startTime": 1766500500000,
-            "endTime": 1766509500000
+            "startTime": 1766501100000,
+            "endTime": 1766510100000
         },
         {
             "id": 2,
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-157",
             "startTime": 1748097000000,
             "endTime": 1748102400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 407",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc407",
-            "startTime": 1748088000000,
-            "endTime": 1748094000000
         }
     ]
 }
