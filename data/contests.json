@@ -122,6 +122,14 @@
         },
         {
             "id": 2,
+            "name": "ICPC Kanpur 2025 Onsite - Replay Round",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/ICPCKANRP25",
+            "startTime": 1766809800000,
+            "endTime": 1766827800000
+        },
+        {
+            "id": 2,
             "name": "Weekend Dev Challenge 30: SQL Projects",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DEVWEEKEND30",
@@ -138,7 +146,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 218",
+            "name": "Starters 218 (Rated till 5 stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START218",
             "startTime": 1766586600000,
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2110",
             "startTime": 1748097300000,
             "endTime": 1748104500000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 157",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-157",
-            "startTime": 1748097000000,
-            "endTime": 1748102400000
         }
     ]
 }
