@@ -49,6 +49,14 @@
             "endTime": 1768039200000
         },
         {
+            "id": 1,
+            "name": "Hello 2026",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2183",
+            "startTime": 1767796500000,
+            "endTime": 1767807300000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 483",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-451",
             "startTime": 1748140200000,
             "endTime": 1748145600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1026 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2110",
-            "startTime": 1748097300000,
-            "endTime": 1748104500000
         }
     ]
 }
