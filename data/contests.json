@@ -33,6 +33,14 @@
             "endTime": 1768657200000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2184",
+            "startTime": 1768228500000,
+            "endTime": 1768236600000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest 212 (Div. 2)",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/contest-focus-mode",
             "startTime": 1748421000000,
             "endTime": 1748475000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1027 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2114",
-            "startTime": 1748270100000,
-            "endTime": 1748278200000
         }
     ]
 }
