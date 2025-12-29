@@ -25,6 +25,14 @@
             "endTime": 1769262000000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 174",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-174",
+            "startTime": 1768660200000,
+            "endTime": 1768665600000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
             "platform": "Atcoder",
@@ -47,6 +55,14 @@
             "link": "https://atcoder.jp/contests/arc212",
             "startTime": 1768132800000,
             "endTime": 1768140000000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 484",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-484",
+            "startTime": 1768098600000,
+            "endTime": 1768104000000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc048",
             "startTime": 1748599200000,
             "endTime": 1749463200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 188 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START188",
-            "startTime": 1748442600000,
-            "endTime": 1748449800000
-        },
-        {
-            "id": 4,
-            "name": "Contest Focus Mode",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/contest-focus-mode",
-            "startTime": 1748421000000,
-            "endTime": 1748475000000
         }
     ]
 }
