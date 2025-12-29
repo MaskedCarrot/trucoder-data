@@ -41,6 +41,14 @@
             "endTime": 1768657200000
         },
         {
+            "id": 2,
+            "name": "Starters 221",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START221",
+            "startTime": 1768401000000,
+            "endTime": 1768408200000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 3)",
             "platform": "Codeforces",
@@ -87,6 +95,14 @@
             "link": "https://codeforces.com/contests/2183",
             "startTime": 1767796500000,
             "endTime": 1767807300000
+        },
+        {
+            "id": 2,
+            "name": "Starters 220",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START220",
+            "startTime": 1767796200000,
+            "endTime": 1767803400000
         },
         {
             "id": 4,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2116",
             "startTime": 1748702100000,
             "endTime": 1748709300000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 408",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc408",
-            "startTime": 1748692800000,
-            "endTime": 1748698800000
-        },
-        {
-            "id": 3,
-            "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc048",
-            "startTime": 1748599200000,
-            "endTime": 1749463200000
         }
     ]
 }
