@@ -154,6 +154,14 @@
         },
         {
             "id": 2,
+            "name": "ICPC Amritapuri 2025 - Onsite Round Replay",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/ICPCAMRRP25",
+            "startTime": 1767414600000,
+            "endTime": 1767432600000
+        },
+        {
+            "id": 2,
             "name": "Weekend Dev Challenge 31: Data Analysis & Visualization Projects",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DEVWEEKEND31",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND01",
             "startTime": 1749234600000,
             "endTime": 1749321000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 189 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START189",
-            "startTime": 1749047400000,
-            "endTime": 1749054600000
         }
     ]
 }
