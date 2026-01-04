@@ -42,6 +42,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 485",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-485",
+            "startTime": 1768703400000,
+            "endTime": 1768708800000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 174",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-174",
@@ -2391,14 +2399,6 @@
             "link": "https://cphof.org/standings/mcc/2025",
             "startTime": 1749254400000,
             "endTime": 1749254400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 01",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND01",
-            "startTime": 1749234600000,
-            "endTime": 1749321000000
         }
     ]
 }
