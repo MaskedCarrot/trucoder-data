@@ -113,6 +113,14 @@
             "endTime": 1768039200000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 32: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND32",
+            "startTime": 1767983400000,
+            "endTime": 1768156200000
+        },
+        {
             "id": 1,
             "name": "Hello 2026",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc409",
             "startTime": 1749297600000,
             "endTime": 1749303600000
-        },
-        {
-            "id": 6,
-            "name": "Midnight Code Cup 2025",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/mcc/2025",
-            "startTime": 1749254400000,
-            "endTime": 1749254400000
         }
     ]
 }
