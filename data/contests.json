@@ -2,6 +2,22 @@
     "contests": [
         {
             "id": 3,
+            "name": "The 3rd Masters Championship-qual-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2026-qual",
+            "startTime": 1772337600000,
+            "endTime": 1772359200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 444",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc444",
+            "startTime": 1770465600000,
+            "endTime": 1770471600000
+        },
+        {
+            "id": 3,
             "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc060",
@@ -130,7 +146,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 220",
+            "name": "Starters 220 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START220",
             "startTime": 1767796200000,
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-453",
             "startTime": 1749349800000,
             "endTime": 1749355200000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 158",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-158",
-            "startTime": 1749306600000,
-            "endTime": 1749312000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 409",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc409",
-            "startTime": 1749297600000,
-            "endTime": 1749303600000
         }
     ]
 }
