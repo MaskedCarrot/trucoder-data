@@ -57,6 +57,14 @@
             "endTime": 1769013000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 4)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2185",
+            "startTime": 1768746900000,
+            "endTime": 1768755000000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 485",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2117",
             "startTime": 1749393300000,
             "endTime": 1749401400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 453",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-453",
-            "startTime": 1749349800000,
-            "endTime": 1749355200000
         }
     ]
 }
