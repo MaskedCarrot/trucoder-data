@@ -25,6 +25,14 @@
             "endTime": 1769954400000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 175",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-175",
+            "startTime": 1769869800000,
+            "endTime": 1769875200000
+        },
+        {
             "id": 3,
             "name": "Denso Create Programming Contest 2026\uff08AtCoder Beginner Contest 443\uff09",
             "platform": "Atcoder",
@@ -39,6 +47,14 @@
             "link": "https://www.codechef.com/START223",
             "startTime": 1769610600000,
             "endTime": 1769617800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 486",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-486",
+            "startTime": 1769308200000,
+            "endTime": 1769313600000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND02",
             "startTime": 1749839400000,
             "endTime": 1749925800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1030 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2118",
-            "startTime": 1749738900000,
-            "endTime": 1749746100000
-        },
-        {
-            "id": 2,
-            "name": "Starters 190 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START190",
-            "startTime": 1749652200000,
-            "endTime": 1749659400000
         }
     ]
 }
