@@ -41,6 +41,22 @@
             "endTime": 1769866800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2187",
+            "startTime": 1769697300000,
+            "endTime": 1769704500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2188",
+            "startTime": 1769697300000,
+            "endTime": 1769704500000
+        },
+        {
             "id": 2,
             "name": "Starters 223",
             "platform": "Codechef",
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-454",
             "startTime": 1749954600000,
             "endTime": 1749960000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 410",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc410",
-            "startTime": 1749902400000,
-            "endTime": 1749908400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 02",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND02",
-            "startTime": 1749839400000,
-            "endTime": 1749925800000
         }
     ]
 }
