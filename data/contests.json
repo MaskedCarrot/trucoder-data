@@ -105,6 +105,22 @@
             "endTime": 1768708800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2190",
+            "startTime": 1768660500000,
+            "endTime": 1768667700000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2191",
+            "startTime": 1768660500000,
+            "endTime": 1768667700000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 174",
             "platform": "Leetcode",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2113",
             "startTime": 1749978300000,
             "endTime": 1749985500000
-        },
-        {
-            "id": 3,
-            "name": "JOI Open Contest 2025 \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joiopen2025",
-            "startTime": 1749960000000,
-            "endTime": 1749978000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 454",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-454",
-            "startTime": 1749954600000,
-            "endTime": 1749960000000
         }
     ]
 }
