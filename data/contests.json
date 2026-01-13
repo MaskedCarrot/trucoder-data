@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "THIRD Programming Contest 2026\uff08AtCoder Heuristic Contest 061\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc061",
+            "startTime": 1770976800000,
+            "endTime": 1771840800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 444",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc444",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc200",
             "startTime": 1749988800000,
             "endTime": 1749996000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1031 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2113",
-            "startTime": 1749978300000,
-            "endTime": 1749985500000
         }
     ]
 }
