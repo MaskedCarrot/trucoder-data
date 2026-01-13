@@ -54,7 +54,7 @@
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2187",
             "startTime": 1769697300000,
-            "endTime": 1769704500000
+            "endTime": 1769706300000
         },
         {
             "id": 1,
@@ -62,7 +62,7 @@
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2188",
             "startTime": 1769697300000,
-            "endTime": 1769704500000
+            "endTime": 1769706300000
         },
         {
             "id": 2,
@@ -87,6 +87,14 @@
             "link": "https://atcoder.jp/contests/abc442",
             "startTime": 1769256000000,
             "endTime": 1769262000000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2189",
+            "startTime": 1769178900000,
+            "endTime": 1769186100000
         },
         {
             "id": 2,
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2121",
             "startTime": 1750170900000,
             "endTime": 1750179000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 200 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc200",
-            "startTime": 1749988800000,
-            "endTime": 1749996000000
         }
     ]
 }
