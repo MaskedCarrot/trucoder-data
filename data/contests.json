@@ -154,6 +154,14 @@
         },
         {
             "id": 2,
+            "name": "Weekend Dev Challenge 33: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND33",
+            "startTime": 1768588200000,
+            "endTime": 1768761000000
+        },
+        {
+            "id": 2,
             "name": "Starters 221",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START221",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START191",
             "startTime": 1750257000000,
             "endTime": 1750264200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1032 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2121",
-            "startTime": 1750170900000,
-            "endTime": 1750179000000
         }
     ]
 }
