@@ -113,6 +113,14 @@
             "endTime": 1769013000000
         },
         {
+            "id": 3,
+            "name": "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30d0\u30c8\u30eb \u672c\u6226",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/guildfes-2026-final",
+            "startTime": 1768805100000,
+            "endTime": 1768809600000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1074 (Div. 4)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc049",
             "startTime": 1750485600000,
             "endTime": 1750500000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 03",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND03",
-            "startTime": 1750444200000,
-            "endTime": 1750530600000
         }
     ]
 }
