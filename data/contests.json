@@ -113,20 +113,20 @@
             "endTime": 1769013000000
         },
         {
-            "id": 3,
-            "name": "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30d0\u30c8\u30eb \u672c\u6226",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/guildfes-2026-final",
-            "startTime": 1768805100000,
-            "endTime": 1768809600000
-        },
-        {
             "id": 1,
             "name": "Codeforces Round 1074 (Div. 4)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2185",
             "startTime": 1768746900000,
             "endTime": 1768755000000
+        },
+        {
+            "id": 3,
+            "name": "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30d0\u30c8\u30eb \u672c\u6226",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/guildfes-2026-final",
+            "startTime": 1768718700000,
+            "endTime": 1768723200000
         },
         {
             "id": 4,
