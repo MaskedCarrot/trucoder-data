@@ -17,6 +17,14 @@
             "endTime": 1771840800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2192",
+            "startTime": 1770561300000,
+            "endTime": 1770568500000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 444",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc411",
             "startTime": 1750507200000,
             "endTime": 1750513200000
-        },
-        {
-            "id": 3,
-            "name": "Toyota Programming Contest 2025#3\uff08AtCoder Heuristic Contest 049\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc049",
-            "startTime": 1750485600000,
-            "endTime": 1750500000000
         }
     ]
 }
