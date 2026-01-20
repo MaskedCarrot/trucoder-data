@@ -28,9 +28,17 @@
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2194",
+            "startTime": 1770541500000,
+            "endTime": 1770548700000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2192",
-            "startTime": 1770561300000,
-            "endTime": 1770568500000
+            "startTime": 1770474900000,
+            "endTime": 1770482100000
         },
         {
             "id": 3,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc201",
             "startTime": 1750593600000,
             "endTime": 1750600800000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 455",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-455",
-            "startTime": 1750559400000,
-            "endTime": 1750564800000
         }
     ]
 }
