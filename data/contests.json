@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 446",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc446",
+            "startTime": 1771675200000,
+            "endTime": 1771681200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 445",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc445",
@@ -127,6 +135,14 @@
             "link": "https://atcoder.jp/contests/abc442",
             "startTime": 1769256000000,
             "endTime": 1769262000000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 34: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND34",
+            "startTime": 1769193000000,
+            "endTime": 1769365800000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/START192",
             "startTime": 1750861800000,
             "endTime": 1750869000000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 180 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2112",
-            "startTime": 1750689300000,
-            "endTime": 1750696500000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 201",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc201",
-            "startTime": 1750593600000,
-            "endTime": 1750600800000
         }
     ]
 }
