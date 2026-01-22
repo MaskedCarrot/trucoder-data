@@ -18,6 +18,14 @@
         },
         {
             "id": 3,
+            "name": "\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c8 2025",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/KeioPC2025",
+            "startTime": 1771128000000,
+            "endTime": 1771146000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 445",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc445",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc412",
             "startTime": 1751112000000,
             "endTime": 1751118000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 04: Projects in Python & Flask",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND04",
-            "startTime": 1751049000000,
-            "endTime": 1751135400000
         }
     ]
 }
