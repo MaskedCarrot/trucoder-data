@@ -82,6 +82,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 487",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-487",
+            "startTime": 1769913000000,
+            "endTime": 1769918400000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 175",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-175",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-456",
             "startTime": 1751164200000,
             "endTime": 1751169600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 412",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc412",
-            "startTime": 1751112000000,
-            "endTime": 1751118000000
         }
     ]
 }
