@@ -137,6 +137,14 @@
             "endTime": 1769617800000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 22",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY22",
+            "startTime": 1769430600000,
+            "endTime": 1769441400000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1076 (Div. 3)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START193",
             "startTime": 1751466600000,
             "endTime": 1751475600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1034 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2123",
-            "startTime": 1751380500000,
-            "endTime": 1751388600000
         }
     ]
 }
