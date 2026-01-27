@@ -58,6 +58,22 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2196",
+            "startTime": 1770820500000,
+            "endTime": 1770827700000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2197",
+            "startTime": 1770820500000,
+            "endTime": 1770827700000
+        },
+        {
+            "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2194",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc413",
             "startTime": 1751716800000,
             "endTime": 1751722800000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 05: JavaScript Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND05",
-            "startTime": 1751653800000,
-            "endTime": 1751740200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 193 (Rated for all)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START193",
-            "startTime": 1751466600000,
-            "endTime": 1751475600000
         }
     ]
 }
