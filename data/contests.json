@@ -73,6 +73,14 @@
             "endTime": 1770827700000
         },
         {
+            "id": 2,
+            "name": "Starters 225",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START225",
+            "startTime": 1770820200000,
+            "endTime": 1770827400000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -95,6 +103,14 @@
             "link": "https://atcoder.jp/contests/abc444",
             "startTime": 1770465600000,
             "endTime": 1770471600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 224",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START224",
+            "startTime": 1770215400000,
+            "endTime": 1770222600000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-457",
             "startTime": 1751769000000,
             "endTime": 1751774400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1035 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2119",
-            "startTime": 1751726100000,
-            "endTime": 1751733300000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 160",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-160",
-            "startTime": 1751725800000,
-            "endTime": 1751731200000
         }
     ]
 }
