@@ -89,6 +89,14 @@
             "endTime": 1770827400000
         },
         {
+            "id": 3,
+            "name": "AtCoder Regular Contest 214",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc214",
+            "startTime": 1770552000000,
+            "endTime": 1770559200000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND06",
             "startTime": 1752258600000,
             "endTime": 1752345000000
-        },
-        {
-            "id": 1,
-            "name": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2124",
-            "startTime": 1751812500000,
-            "endTime": 1751823300000
         }
     ]
 }
