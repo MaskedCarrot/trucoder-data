@@ -153,12 +153,28 @@
             "endTime": 1770222600000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 23",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY23",
+            "startTime": 1770035400000,
+            "endTime": 1770046200000
+        },
+        {
             "id": 3,
             "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc060",
             "startTime": 1769940000000,
             "endTime": 1769954400000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2025/2026 \u30bb\u30df\u30d5\u30a1\u30a4\u30ca\u30eb\u30b9\u30c6\u30fc\u30b8 \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2026sf",
+            "startTime": 1769918400000,
+            "endTime": 1769932800000
         },
         {
             "id": 4,
@@ -2383,22 +2399,6 @@
             "link": "https://cphof.org/standings/atcoder_wth/2025",
             "startTime": 1752624000000,
             "endTime": 1752624000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 194 (Rated for all)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START194",
-            "startTime": 1752417000000,
-            "endTime": 1752427800000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 458",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-458",
-            "startTime": 1752373800000,
-            "endTime": 1752379200000
         }
     ]
 }
