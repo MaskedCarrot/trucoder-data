@@ -137,14 +137,6 @@
             "endTime": 1770523200000
         },
         {
-            "id": 1,
-            "name": "Codeforces Round (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2192",
-            "startTime": 1770474900000,
-            "endTime": 1770482100000
-        },
-        {
             "id": 3,
             "name": "AtCoder Beginner Contest 444",
             "platform": "Atcoder",
@@ -2399,6 +2391,14 @@
             "link": "https://atcoder.jp/contests/awtf2025heuristic",
             "startTime": 1752624000000,
             "endTime": 1752660000000
+        },
+        {
+            "id": 6,
+            "name": "AtCoder World Tour Finals 2025 Heuristic",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/atcoder_wth/2025",
+            "startTime": 1752624000000,
+            "endTime": 1752624000000
         }
     ]
 }
