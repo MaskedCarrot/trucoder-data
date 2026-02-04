@@ -146,11 +146,27 @@
         },
         {
             "id": 2,
+            "name": "Weekend Dev Challenge 36: Spring Boot Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND36",
+            "startTime": 1770402600000,
+            "endTime": 1770575400000
+        },
+        {
+            "id": 2,
             "name": "Starters 224",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START224",
             "startTime": 1770215400000,
             "endTime": 1770222600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 35: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND3A",
+            "startTime": 1770194135000,
+            "endTime": 1770197735000
         },
         {
             "id": 2,
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/START195",
             "startTime": 1752676200000,
             "endTime": 1752683400000
-        },
-        {
-            "id": 3,
-            "name": "World Tour Finals 2025 Heuristic",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025heuristic",
-            "startTime": 1752624000000,
-            "endTime": 1752660000000
-        },
-        {
-            "id": 6,
-            "name": "AtCoder World Tour Finals 2025 Heuristic",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/atcoder_wth/2025",
-            "startTime": 1752624000000,
-            "endTime": 1752624000000
         }
     ]
 }
