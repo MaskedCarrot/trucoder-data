@@ -25,6 +25,14 @@
             "endTime": 1772286000000
         },
         {
+            "id": 2,
+            "name": "Starters 227",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START227",
+            "startTime": 1772029800000,
+            "endTime": 1772037000000
+        },
+        {
             "id": 1,
             "name": "Kotlin Heroes: Practice 14",
             "platform": "Codeforces",
@@ -39,6 +47,14 @@
             "link": "https://atcoder.jp/contests/abc446",
             "startTime": 1771675200000,
             "endTime": 1771681200000
+        },
+        {
+            "id": 2,
+            "name": "Starters 226",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START226",
+            "startTime": 1771425000000,
+            "endTime": 1771432200000
         },
         {
             "id": 1,
@@ -154,7 +170,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 224",
+            "name": "Starters 224 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START224",
             "startTime": 1770215400000,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
-        },
-        {
-            "id": 6,
-            "name": "AtCoder World Tour Finals 2025 Algorithm",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/atcoder_wt/2025",
-            "startTime": 1752710400000,
-            "endTime": 1752710400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 195 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START195",
-            "startTime": 1752676200000,
-            "endTime": 1752683400000
         }
     ]
 }
