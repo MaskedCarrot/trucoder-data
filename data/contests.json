@@ -74,6 +74,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 489",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-489",
+            "startTime": 1771122600000,
+            "endTime": 1771128000000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 176",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-176",
@@ -2389,14 +2397,6 @@
             "name": "World Tour Finals 2025 Algorithm",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awtf2025algo",
-            "startTime": 1752721200000,
-            "endTime": 1752739200000
-        },
-        {
-            "id": 3,
-            "name": "World Tour Finals 2025 Algorithm\uff08Open Contest\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo-open",
             "startTime": 1752721200000,
             "endTime": 1752739200000
         }
