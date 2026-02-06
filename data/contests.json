@@ -33,6 +33,14 @@
             "endTime": 1772037000000
         },
         {
+            "id": 3,
+            "name": "AtCoder Regular Contest 215",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc215",
+            "startTime": 1771761600000,
+            "endTime": 1771768800000
+        },
+        {
             "id": 1,
             "name": "Kotlin Heroes: Practice 14",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2126",
             "startTime": 1752762900000,
             "endTime": 1752771000000
-        },
-        {
-            "id": 3,
-            "name": "World Tour Finals 2025 Algorithm",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awtf2025algo",
-            "startTime": 1752721200000,
-            "endTime": 1752739200000
         }
     ]
 }
