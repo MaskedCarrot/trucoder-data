@@ -177,6 +177,22 @@
             "endTime": 1772211000000
         },
         {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/02/27 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260227_1",
+            "startTime": 1772175600000,
+            "endTime": 1772179200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/02/27 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260227_1",
+            "startTime": 1772175600000,
+            "endTime": 1772179200000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1083 (Div. 2)",
             "platform": "Codeforces",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc205",
             "startTime": 1757160000000,
             "endTime": 1757167200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 14: DL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND14",
-            "startTime": 1757097000000,
-            "endTime": 1757183400000
-        },
-        {
-            "id": 6,
-            "name": "ICPC 2025 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/icpc/2025",
-            "startTime": 1756944000000,
-            "endTime": 1756944000000
         }
     ]
 }
