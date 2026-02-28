@@ -18,6 +18,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest++ 216",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc216",
+            "startTime": 1774180800000,
+            "endTime": 1774189800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 450",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc450",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND15",
             "startTime": 1757701800000,
             "endTime": 1757788200000
-        },
-        {
-            "id": 1,
-            "name": "Kotlin Heroes: Episode 13",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2141",
-            "startTime": 1757687700000,
-            "endTime": 1757696700000
         }
     ]
 }
