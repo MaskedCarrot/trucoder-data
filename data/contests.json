@@ -154,6 +154,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0017 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0017",
+            "startTime": 1772535600000,
+            "endTime": 1772539200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/03 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260303_2",
+            "startTime": 1772528400000,
+            "endTime": 1772532000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/03 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260303_2",
+            "startTime": 1772528400000,
+            "endTime": 1772532000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/03 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260303_1",
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc423",
             "startTime": 1757851200000,
             "endTime": 1757857200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 467",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-467",
-            "startTime": 1757817000000,
-            "endTime": 1757822400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1050 (Div. 4)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2148",
-            "startTime": 1757774100000,
-            "endTime": 1757782200000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 165",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-165",
-            "startTime": 1757773800000,
-            "endTime": 1757779200000
         }
     ]
 }
