@@ -146,7 +146,15 @@
         },
         {
             "id": 2,
-            "name": "Starters 228",
+            "name": "Weekend Dev Challenge 40: Linux & Shell Scripting Challenges",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND40",
+            "startTime": 1772821800000,
+            "endTime": 1772994600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 228 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START228",
             "startTime": 1772634600000,
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND16",
             "startTime": 1758306600000,
             "endTime": 1758479400000
-        },
-        {
-            "id": 3,
-            "name": "ALGO ARTIS Programming Contest 2025 Summer\uff08AtCoder Heuristic Contest 054\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc054",
-            "startTime": 1758276000000,
-            "endTime": 1759140000000
         }
     ]
 }
