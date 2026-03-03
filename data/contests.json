@@ -154,6 +154,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0018 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0018",
+            "startTime": 1772622000000,
+            "endTime": 1772625600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/04 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260304_2",
+            "startTime": 1772614800000,
+            "endTime": 1772618400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/04 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260304_2",
+            "startTime": 1772614800000,
+            "endTime": 1772618400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/04 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260304_1",
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc054",
             "startTime": 1758276000000,
             "endTime": 1759140000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1051 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2143",
-            "startTime": 1758119700000,
-            "endTime": 1758126900000
-        },
-        {
-            "id": 2,
-            "name": "Starters 204 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START204",
-            "startTime": 1758119400000,
-            "endTime": 1758126600000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 182 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2144",
-            "startTime": 1757946900000,
-            "endTime": 1757954100000
         }
     ]
 }
