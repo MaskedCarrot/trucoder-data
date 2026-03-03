@@ -154,6 +154,22 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/04 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260304_1",
+            "startTime": 1772607600000,
+            "endTime": 1772611200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/04 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260304_1",
+            "startTime": 1772607600000,
+            "endTime": 1772611200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Weekday Contest 0017 Beta",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awc0017",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2144",
             "startTime": 1757946900000,
             "endTime": 1757954100000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 03",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY03",
-            "startTime": 1757939400000,
-            "endTime": 1757950200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 423",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc423",
-            "startTime": 1757851200000,
-            "endTime": 1757857200000
         }
     ]
 }
