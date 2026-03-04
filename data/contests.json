@@ -65,6 +65,14 @@
             "endTime": 1773558000000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 493",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-493",
+            "startTime": 1773541800000,
+            "endTime": 1773547200000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -151,6 +159,22 @@
             "link": "https://www.codechef.com/DEVWEEKEND40",
             "startTime": 1772821800000,
             "endTime": 1772994600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/05 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260305_1",
+            "startTime": 1772694000000,
+            "endTime": 1772697600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/05 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260305_1",
+            "startTime": 1772694000000,
+            "endTime": 1772697600000
         },
         {
             "id": 2,
@@ -2375,30 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-468",
             "startTime": 1758421800000,
             "endTime": 1758427200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Global Round 29 (Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2147",
-            "startTime": 1758378900000,
-            "endTime": 1758389700000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 424",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc424",
-            "startTime": 1758369600000,
-            "endTime": 1758375600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 16: GenAI Projects using LLM",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND16",
-            "startTime": 1758306600000,
-            "endTime": 1758479400000
         }
     ]
 }
