@@ -138,7 +138,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "Codeforces Round 1085 (Div. 1 + Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2207",
             "startTime": 1772980500000,
@@ -175,6 +175,30 @@
             "link": "https://www.codechef.com/DEVWEEKEND40",
             "startTime": 1772821800000,
             "endTime": 1772994600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0020 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0020",
+            "startTime": 1772794800000,
+            "endTime": 1772798400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/06 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260306_2",
+            "startTime": 1772787600000,
+            "endTime": 1772791200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/06 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260306_2",
+            "startTime": 1772787600000,
+            "endTime": 1772791200000
         },
         {
             "id": 3,
@@ -2375,30 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-166",
             "startTime": 1758983400000,
             "endTime": 1758988800000
-        },
-        {
-            "id": 3,
-            "name": "UNIQUE VISION Programming Contest 2025 Autumn (AtCoder Beginner Contest 425)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc425",
-            "startTime": 1758974400000,
-            "endTime": 1758980400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 17: GenAI Projects using LLM",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND17",
-            "startTime": 1758911400000,
-            "endTime": 1759084200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1054 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2149",
-            "startTime": 1758810900000,
-            "endTime": 1758819000000
         }
     ]
 }
