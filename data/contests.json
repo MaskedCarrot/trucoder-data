@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Heuristic Contest 063",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc063",
+            "startTime": 1775210400000,
+            "endTime": 1776074400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Grand Contest 077",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/agc077",
@@ -167,6 +175,22 @@
             "link": "https://www.codechef.com/DEVWEEKEND40",
             "startTime": 1772821800000,
             "endTime": 1772994600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/06 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260306_1",
+            "startTime": 1772780400000,
+            "endTime": 1772784000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/06 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260306_1",
+            "startTime": 1772780400000,
+            "endTime": 1772784000000
         },
         {
             "id": 3,
@@ -2375,30 +2399,6 @@
             "link": "https://codeforces.com/contests/2149",
             "startTime": 1758810900000,
             "endTime": 1758819000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 205 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START205",
-            "startTime": 1758724200000,
-            "endTime": 1758731400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1053 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2150",
-            "startTime": 1758713700000,
-            "endTime": 1758725400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1053 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2151",
-            "startTime": 1758713700000,
-            "endTime": 1758725400000
         }
     ]
 }
