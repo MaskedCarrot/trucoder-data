@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 452",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc452",
+            "startTime": 1775304000000,
+            "endTime": 1775310000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Grand Contest 077",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/agc077",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2151",
             "startTime": 1758713700000,
             "endTime": 1758725400000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 04",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY04",
-            "startTime": 1758544200000,
-            "endTime": 1758555000000
         }
     ]
 }
