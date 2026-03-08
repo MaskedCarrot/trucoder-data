@@ -33,6 +33,30 @@
             "endTime": 1774705200000
         },
         {
+            "id": 3,
+            "name": "\u30d1\u7814\u5408\u5bbf2025 \u7b2c3\u65e5\u300cTeamwork\u300d",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/pakencamp-2025-day3",
+            "startTime": 1774674000000,
+            "endTime": 1774692000000
+        },
+        {
+            "id": 3,
+            "name": "\u30d1\u7814\u5408\u5bbf2025 \u7b2c2\u65e5\u300c\u30d1\u7814\u676f\u300d",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/pakencamp-2025-day2",
+            "startTime": 1774589400000,
+            "endTime": 1774605600000
+        },
+        {
+            "id": 3,
+            "name": "\u30d1\u7814\u5408\u5bbf2025 \u7b2c1\u65e5\u300cSpeedRun\u300d",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/pakencamp-2025-day1",
+            "startTime": 1774501200000,
+            "endTime": 1774510200000
+        },
+        {
             "id": 2,
             "name": "Starters 231",
             "platform": "Codechef",
@@ -2375,30 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-470",
             "startTime": 1759631400000,
             "endTime": 1759636800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 426",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc426",
-            "startTime": 1759579200000,
-            "endTime": 1759585200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 18: Full Stack Projects using MERN",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND18",
-            "startTime": 1759516200000,
-            "endTime": 1759689000000
-        },
-        {
-            "id": 1,
-            "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2152",
-            "startTime": 1759502100000,
-            "endTime": 1759512900000
         }
     ]
 }
