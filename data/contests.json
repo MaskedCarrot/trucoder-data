@@ -25,6 +25,14 @@
             "endTime": 1774796400000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 179",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-179",
+            "startTime": 1774708200000,
+            "endTime": 1774713600000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 451",
             "platform": "Atcoder",
@@ -71,6 +79,14 @@
             "link": "https://atcoder.jp/contests/arc216",
             "startTime": 1774180800000,
             "endTime": 1774189800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 494",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-494",
+            "startTime": 1774146600000,
+            "endTime": 1774152000000
         },
         {
             "id": 3,
@@ -151,6 +167,22 @@
             "link": "https://www.codechef.com/START229",
             "startTime": 1773239400000,
             "endTime": 1773246600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/10 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260310_1",
+            "startTime": 1773126000000,
+            "endTime": 1773129600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/10 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260310_1",
+            "startTime": 1773126000000,
+            "endTime": 1773129600000
         },
         {
             "id": 2,
@@ -2367,38 +2399,6 @@
             "link": "https://codeforces.com/contests/2145",
             "startTime": 1759761300000,
             "endTime": 1759768500000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 06",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY06",
-            "startTime": 1759753802000,
-            "endTime": 1759764602000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1056 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2155",
-            "startTime": 1759682100000,
-            "endTime": 1759689300000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 207 (Div.1)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc207",
-            "startTime": 1759665600000,
-            "endTime": 1759674600000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 470",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-470",
-            "startTime": 1759631400000,
-            "endTime": 1759636800000
         }
     ]
 }
