@@ -170,6 +170,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0022 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0022",
+            "startTime": 1773140400000,
+            "endTime": 1773144000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/10 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260310_2",
+            "startTime": 1773133200000,
+            "endTime": 1773136800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/10 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260310_2",
+            "startTime": 1773133200000,
+            "endTime": 1773136800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/10 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260310_1",
@@ -2375,30 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND19",
             "startTime": 1760121000000,
             "endTime": 1760293800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1057 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2153",
-            "startTime": 1760106900000,
-            "endTime": 1760115000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 207 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START207",
-            "startTime": 1759933800000,
-            "endTime": 1759941000000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 183 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2145",
-            "startTime": 1759761300000,
-            "endTime": 1759768500000
         }
     ]
 }
