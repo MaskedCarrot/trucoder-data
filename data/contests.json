@@ -209,6 +209,38 @@
             "endTime": 1773482400000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 41: Terraform Challenges",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND41",
+            "startTime": 1773426600000,
+            "endTime": 1773599400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0024 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0024",
+            "startTime": 1773313200000,
+            "endTime": 1773316800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/12 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260312_2",
+            "startTime": 1773306000000,
+            "endTime": 1773309600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/12 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260312_2",
+            "startTime": 1773306000000,
+            "endTime": 1773309600000
+        },
+        {
             "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/12 16:00start",
             "platform": "Atcoder",
@@ -2367,38 +2399,6 @@
             "link": "https://www.codechef.com/START209",
             "startTime": 1761143400000,
             "endTime": 1761150600000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 08",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY08",
-            "startTime": 1760963431000,
-            "endTime": 1760974231000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1060 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2154",
-            "startTime": 1760884500000,
-            "endTime": 1760891700000
-        },
-        {
-            "id": 3,
-            "name": "RECRUIT Nihonbashi Half Marathon 2025 Autumn \uff08AtCoder Heuristic Contest 055\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc055",
-            "startTime": 1760868000000,
-            "endTime": 1760882400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 472",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-472",
-            "startTime": 1760841000000,
-            "endTime": 1760846400000
         }
     ]
 }
