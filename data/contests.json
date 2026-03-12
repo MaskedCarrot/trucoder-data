@@ -218,6 +218,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0025 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0025",
+            "startTime": 1773399600000,
+            "endTime": 1773403200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/13 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260313_2",
+            "startTime": 1773392400000,
+            "endTime": 1773396000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/13 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260313_2",
+            "startTime": 1773392400000,
+            "endTime": 1773396000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/13 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260313_1",
@@ -2375,30 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-473",
             "startTime": 1761445800000,
             "endTime": 1761451200000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 168",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-168",
-            "startTime": 1761402600000,
-            "endTime": 1761408000000
-        },
-        {
-            "id": 3,
-            "name": "Polaris.AI Programming Contest 2025\uff08AtCoder Beginner Contest 429\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc429",
-            "startTime": 1761393600000,
-            "endTime": 1761399600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 21: Full Stack Projects using MERN",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND21",
-            "startTime": 1761330600000,
-            "endTime": 1761503400000
         }
     ]
 }
