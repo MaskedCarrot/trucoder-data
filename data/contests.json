@@ -25,6 +25,14 @@
             "endTime": 1776270600000
         },
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 453",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc453",
+            "startTime": 1775908800000,
+            "endTime": 1775914800000
+        },
+        {
             "id": 2,
             "name": "Starters 233",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/agc074",
             "startTime": 1761480000000,
             "endTime": 1761490800000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 473",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-473",
-            "startTime": 1761445800000,
-            "endTime": 1761451200000
         }
     ]
 }
