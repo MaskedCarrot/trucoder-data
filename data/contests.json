@@ -170,6 +170,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0027 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0027",
+            "startTime": 1773745200000,
+            "endTime": 1773748800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/17 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260317_2",
+            "startTime": 1773738000000,
+            "endTime": 1773741600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/17 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260317_2",
+            "startTime": 1773738000000,
+            "endTime": 1773741600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/17 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260317_1",
@@ -2375,30 +2399,6 @@
             "link": "https://codeforces.com/contests/2168",
             "startTime": 1762180500000,
             "endTime": 1762184100000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 10",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY10",
-            "startTime": 1762173000000,
-            "endTime": 1762183800000
-        },
-        {
-            "id": 3,
-            "name": "FPS 24: 24 Problems on Formal Power Series",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/fps-24",
-            "startTime": 1762142400000,
-            "endTime": 1762160400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 474",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-474",
-            "startTime": 1762050600000,
-            "endTime": 1762056000000
         }
     ]
 }
