@@ -178,6 +178,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0028 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0028",
+            "startTime": 1773831600000,
+            "endTime": 1773835200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/18 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260318_2",
+            "startTime": 1773824400000,
+            "endTime": 1773828000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/18 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260318_2",
+            "startTime": 1773824400000,
+            "endTime": 1773828000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/18 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260318_1",
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/stpc2025_1",
             "startTime": 1762574400000,
             "endTime": 1762592400000
-        },
-        {
-            "id": 3,
-            "name": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/stpc2025_2",
-            "startTime": 1762574400000,
-            "endTime": 1762592400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 23: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND23",
-            "startTime": 1762540200000,
-            "endTime": 1762713000000
-        },
-        {
-            "id": 3,
-            "name": "HACK TO THE FUTURE 2026 \uff08AtCoder Heuristic Contest 056\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc056",
-            "startTime": 1762509600000,
-            "endTime": 1763373600000
         }
     ]
 }
