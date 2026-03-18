@@ -177,8 +177,24 @@
             "endTime": 1774100400000
         },
         {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/19 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260319_1",
+            "startTime": 1773903600000,
+            "endTime": 1773907200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/19 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260319_1",
+            "startTime": 1773903600000,
+            "endTime": 1773907200000
+        },
+        {
             "id": 2,
-            "name": "Starters 230",
+            "name": "Starters 230 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START230",
             "startTime": 1773844200000,
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-475",
             "startTime": 1762655400000,
             "endTime": 1762660800000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 169",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-169",
-            "startTime": 1762612200000,
-            "endTime": 1762617600000
-        },
-        {
-            "id": 3,
-            "name": "TOYOTA SYSTEMS Programming Contest 2025\uff08AtCoder Beginner Contest 431)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc431",
-            "startTime": 1762603200000,
-            "endTime": 1762609200000
         }
     ]
 }
