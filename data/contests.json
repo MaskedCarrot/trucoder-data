@@ -186,6 +186,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0030 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0030",
+            "startTime": 1774004400000,
+            "endTime": 1774008000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/20 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260320_2",
+            "startTime": 1773997200000,
+            "endTime": 1774000800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/20 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260320_2",
+            "startTime": 1773997200000,
+            "endTime": 1774000800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/20 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260320_1",
@@ -2375,30 +2399,6 @@
             "link": "https://codeforces.com/contests/2172",
             "startTime": 1763257800000,
             "endTime": 1763275800000
-        },
-        {
-            "id": 3,
-            "name": "OMRON Corporation Programming Contest 2025 #2 (AtCoder Beginner Contest 432)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc432",
-            "startTime": 1763208000000,
-            "endTime": 1763214000000
-        },
-        {
-            "id": 3,
-            "name": "JOI 2025/2026 \u4e00\u6b21\u4e88\u9078 (\u7b2c3\u56de) \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joi2026yo1c",
-            "startTime": 1763182800000,
-            "endTime": 1763187600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 24: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND24",
-            "startTime": 1763145000000,
-            "endTime": 1763317800000
         }
     ]
 }
