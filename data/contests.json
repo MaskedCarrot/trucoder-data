@@ -186,6 +186,22 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/20 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260320_1",
+            "startTime": 1773990000000,
+            "endTime": 1773993600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/20 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260320_1",
+            "startTime": 1773990000000,
+            "endTime": 1773993600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Weekday Contest 0029 Beta",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awc0029",
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND24",
             "startTime": 1763145000000,
             "endTime": 1763317800000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 184 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2169",
-            "startTime": 1763130900000,
-            "endTime": 1763138100000
-        },
-        {
-            "id": 2,
-            "name": "Starters 212 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START212",
-            "startTime": 1762957800000,
-            "endTime": 1762965000000
         }
     ]
 }
