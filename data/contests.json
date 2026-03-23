@@ -49,6 +49,14 @@
             "endTime": 1775665800000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 496",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-496",
+            "startTime": 1775356200000,
+            "endTime": 1775361600000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 452",
             "platform": "Atcoder",
@@ -151,6 +159,22 @@
             "link": "https://www.codechef.com/START231",
             "startTime": 1774449000000,
             "endTime": 1774456200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/24 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260324_1",
+            "startTime": 1774335600000,
+            "endTime": 1774339200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/24 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260324_1",
+            "startTime": 1774335600000,
+            "endTime": 1774339200000
         },
         {
             "id": 2,
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc433",
             "startTime": 1763812800000,
             "endTime": 1763818800000
-        },
-        {
-            "id": 6,
-            "name": "Topcoder Marathon Match Tournament 2025",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/tco_mar/2025",
-            "startTime": 1763769600000,
-            "endTime": 1763769600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 25: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND25",
-            "startTime": 1763749800000,
-            "endTime": 1763922600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1065 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2171",
-            "startTime": 1763649300000,
-            "endTime": 1763658300000
         }
     ]
 }
