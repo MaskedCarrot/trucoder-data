@@ -49,6 +49,14 @@
             "endTime": 1775665800000
         },
         {
+            "id": 3,
+            "name": "AtCoder Regular Contest 217",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc217",
+            "startTime": 1775390400000,
+            "endTime": 1775397600000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 496",
             "platform": "Leetcode",
@@ -159,6 +167,30 @@
             "link": "https://www.codechef.com/START231",
             "startTime": 1774449000000,
             "endTime": 1774456200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0032 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0032",
+            "startTime": 1774350000000,
+            "endTime": 1774353600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/24 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260324_2",
+            "startTime": 1774342800000,
+            "endTime": 1774346400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/24 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260324_2",
+            "startTime": 1774342800000,
+            "endTime": 1774346400000
         },
         {
             "id": 3,
@@ -2367,38 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY13",
             "startTime": 1763987400000,
             "endTime": 1763998200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1066 (Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2157",
-            "startTime": 1763890500000,
-            "endTime": 1763901300000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 477",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-477",
-            "startTime": 1763865000000,
-            "endTime": 1763870400000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 170",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-170",
-            "startTime": 1763821800000,
-            "endTime": 1763827200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 433",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc433",
-            "startTime": 1763812800000,
-            "endTime": 1763818800000
         }
     ]
 }
