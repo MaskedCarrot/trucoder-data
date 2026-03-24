@@ -194,6 +194,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0033 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0033",
+            "startTime": 1774436400000,
+            "endTime": 1774440000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/25 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260325_2",
+            "startTime": 1774429200000,
+            "endTime": 1774432800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/25 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260325_2",
+            "startTime": 1774429200000,
+            "endTime": 1774432800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/25 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260325_1",
@@ -327,6 +351,14 @@
             "link": "https://atcoder.jp/contests/abc450",
             "startTime": 1774094400000,
             "endTime": 1774100400000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2025/2026 \u6625\u5b63\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2026final",
+            "startTime": 1774051200000,
+            "endTime": 1774069200000
         },
         {
             "id": 2,
@@ -2367,38 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc211",
             "startTime": 1764504000000,
             "endTime": 1764511200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 478",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-478",
-            "startTime": 1764469800000,
-            "endTime": 1764475200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1067 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2158",
-            "startTime": 1764426900000,
-            "endTime": 1764434100000
-        },
-        {
-            "id": 3,
-            "name": "\uff33\uff4b\uff59 Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc434",
-            "startTime": 1764417600000,
-            "endTime": 1764423600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Heuristic Contest 057",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc057",
-            "startTime": 1764396000000,
-            "endTime": 1764410400000
         }
     ]
 }
