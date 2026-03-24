@@ -1,6 +1,14 @@
 {
     "contests": [
         {
+            "id": 2,
+            "name": "Starters 236",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START236",
+            "startTime": 1777473000000,
+            "endTime": 1777480200000
+        },
+        {
             "id": 3,
             "name": "\uff33\uff4b\uff59 Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START214",
             "startTime": 1764168300000,
             "endTime": 1764175500000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 13",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY13",
-            "startTime": 1763987400000,
-            "endTime": 1763998200000
         }
     ]
 }
