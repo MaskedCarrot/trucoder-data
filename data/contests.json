@@ -25,6 +25,14 @@
             "endTime": 1776875400000
         },
         {
+            "id": 3,
+            "name": "Keysight Technologies Programming Contest\uff08AtCoder Beginner Contest 454\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc454",
+            "startTime": 1776513600000,
+            "endTime": 1776519600000
+        },
+        {
             "id": 2,
             "name": "Starters 234",
             "platform": "Codechef",
@@ -95,6 +103,14 @@
             "link": "https://www.codechef.com/START232",
             "startTime": 1775053800000,
             "endTime": 1775061000000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 31",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY31",
+            "startTime": 1774873800000,
+            "endTime": 1774884600000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2170",
             "startTime": 1764340500000,
             "endTime": 1764347700000
-        },
-        {
-            "id": 6,
-            "name": "Rayan 2025 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/rayan/2025",
-            "startTime": 1764288000000,
-            "endTime": 1764288000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 214 (Unrated)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START214",
-            "startTime": 1764168300000,
-            "endTime": 1764175500000
         }
     ]
 }
