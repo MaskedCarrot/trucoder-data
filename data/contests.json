@@ -194,6 +194,22 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/25 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260325_1",
+            "startTime": 1774422000000,
+            "endTime": 1774425600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/25 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260325_1",
+            "startTime": 1774422000000,
+            "endTime": 1774425600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Weekday Contest 0032 Beta",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awc0032",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc057",
             "startTime": 1764396000000,
             "endTime": 1764410400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 26: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND26",
-            "startTime": 1764354600000,
-            "endTime": 1764527400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2170",
-            "startTime": 1764340500000,
-            "endTime": 1764347700000
         }
     ]
 }
