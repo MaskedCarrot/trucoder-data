@@ -186,6 +186,22 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/26 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260326_1",
+            "startTime": 1774508400000,
+            "endTime": 1774512000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/26 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260326_1",
+            "startTime": 1774508400000,
+            "endTime": 1774512000000
+        },
+        {
+            "id": 3,
             "name": "\u30d1\u7814\u5408\u5bbf2025 \u7b2c1\u65e5\u300cSpeedRun\u300d",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/pakencamp-2025-day1",
@@ -194,7 +210,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 231",
+            "name": "Starters 231 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START231",
             "startTime": 1774449000000,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2173",
             "startTime": 1764945300000,
             "endTime": 1764952500000
-        },
-        {
-            "id": 2,
-            "name": "Starters 215 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START215",
-            "startTime": 1764772200000,
-            "endTime": 1764779400000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 14",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY14",
-            "startTime": 1764592200000,
-            "endTime": 1764603000000
         }
     ]
 }
