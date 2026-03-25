@@ -105,6 +105,14 @@
             "endTime": 1776074400000
         },
         {
+            "id": 1,
+            "name": "April Fools Day Contest 2026",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2214",
+            "startTime": 1775054100000,
+            "endTime": 1775061300000
+        },
+        {
             "id": 2,
             "name": "Starters 232",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-171",
             "startTime": 1765031400000,
             "endTime": 1765036800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 435",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc435",
-            "startTime": 1765022400000,
-            "endTime": 1765028400000
         }
     ]
 }
