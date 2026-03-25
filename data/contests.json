@@ -186,6 +186,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0034 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0034",
+            "startTime": 1774522800000,
+            "endTime": 1774526400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/26 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260326_2",
+            "startTime": 1774515600000,
+            "endTime": 1774519200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/26 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260326_2",
+            "startTime": 1774515600000,
+            "endTime": 1774519200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/26 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260326_1",
@@ -359,6 +383,14 @@
             "link": "https://leetcode.com/contest/weekly-contest-494",
             "startTime": 1774146600000,
             "endTime": 1774152000000
+        },
+        {
+            "id": 3,
+            "name": "JOIG 2025/2026 \u30d5\u30a1\u30a4\u30ca\u30eb\u30b9\u30c6\u30fc\u30b8 \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joig2026final",
+            "startTime": 1774137600000,
+            "endTime": 1774155600000
         },
         {
             "id": 1,
@@ -2367,38 +2399,6 @@
             "link": "https://codeforces.com/contests/2174",
             "startTime": 1765008900000,
             "endTime": 1765016100000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1069 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2175",
-            "startTime": 1765008900000,
-            "endTime": 1765016100000
-        },
-        {
-            "id": 6,
-            "name": "Yandex Cup 2025 Algorithm",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/ya_algo/2025",
-            "startTime": 1764979200000,
-            "endTime": 1764979200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 27: SQL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND27",
-            "startTime": 1764959400000,
-            "endTime": 1765132200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1068 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2173",
-            "startTime": 1764945300000,
-            "endTime": 1764952500000
         }
     ]
 }
