@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "JR WEST and ALGO ARTIS Programming Contest (AtCoder Heuristic Contest 064)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc064",
+            "startTime": 1777183200000,
+            "endTime": 1777197600000
+        },
+        {
+            "id": 3,
             "name": "\uff33\uff4b\uff59 Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc455",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY14",
             "startTime": 1764592200000,
             "endTime": 1764603000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 211 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc211",
-            "startTime": 1764504000000,
-            "endTime": 1764511200000
         }
     ]
 }
