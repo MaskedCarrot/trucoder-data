@@ -194,6 +194,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0035 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0035",
+            "startTime": 1774609200000,
+            "endTime": 1774612800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/27 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260327_2",
+            "startTime": 1774602000000,
+            "endTime": 1774605600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/27 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260327_2",
+            "startTime": 1774602000000,
+            "endTime": 1774605600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/27 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260327_1",
@@ -2375,30 +2399,6 @@
             "link": "https://codeforces.com/contests/2176",
             "startTime": 1765463700000,
             "endTime": 1765470900000
-        },
-        {
-            "id": 2,
-            "name": "Starters 216 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START216",
-            "startTime": 1765377000000,
-            "endTime": 1765384200000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 15",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY15",
-            "startTime": 1765197000000,
-            "endTime": 1765207800000
-        },
-        {
-            "id": 3,
-            "name": "JOI 2025/2026 \u4e8c\u6b21\u4e88\u9078 \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joi2026yo2",
-            "startTime": 1765080000000,
-            "endTime": 1765090800000
         }
     ]
 }
