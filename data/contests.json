@@ -41,6 +41,22 @@
             "endTime": 1776519600000
         },
         {
+            "id": 3,
+            "name": "\u7b2c\u4e09\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29 -\u6c7a\u52dd-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2026-final",
+            "startTime": 1776478200000,
+            "endTime": 1776499800000
+        },
+        {
+            "id": 3,
+            "name": "\u7b2c\u4e09\u56de\u30de\u30b9\u30bf\u30fc\u30ba\u9078\u624b\u6a29-\u6c7a\u52dd-(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2026-final-open",
+            "startTime": 1776478200000,
+            "endTime": 1776499800000
+        },
+        {
             "id": 2,
             "name": "Starters 234",
             "platform": "Codechef",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/ajo2025-final-open",
             "startTime": 1765587600000,
             "endTime": 1765602000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 28: SQL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND28",
-            "startTime": 1765564200000,
-            "endTime": 1765737000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1070 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2176",
-            "startTime": 1765463700000,
-            "endTime": 1765470900000
         }
     ]
 }
