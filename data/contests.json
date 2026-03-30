@@ -138,6 +138,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0037 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0037",
+            "startTime": 1774954800000,
+            "endTime": 1774958400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/03/31 18:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260331_2",
@@ -2391,14 +2399,6 @@
             "link": "https://cphof.org/standings/fhc/2025",
             "startTime": 1766188800000,
             "endTime": 1766188800000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 29: SQL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND29",
-            "startTime": 1766169000000,
-            "endTime": 1766341800000
         }
     ]
 }
