@@ -137,6 +137,38 @@
             "endTime": 1775061000000
         },
         {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/31 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260331_2",
+            "startTime": 1774947600000,
+            "endTime": 1774951200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/31 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260331_2",
+            "startTime": 1774947600000,
+            "endTime": 1774951200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/03/31 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260331_1",
+            "startTime": 1774940400000,
+            "endTime": 1774944000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/03/31 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260331_1",
+            "startTime": 1774940400000,
+            "endTime": 1774944000000
+        },
+        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 31",
             "platform": "Codechef",
@@ -2367,38 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND29",
             "startTime": 1766169000000,
             "endTime": 1766341800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2180",
-            "startTime": 1766154900000,
-            "endTime": 1766163900000
-        },
-        {
-            "id": 2,
-            "name": "Starters 217 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START217",
-            "startTime": 1765981800000,
-            "endTime": 1765989000000
-        },
-        {
-            "id": 1,
-            "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2181",
-            "startTime": 1765958700000,
-            "endTime": 1765976700000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 16",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY16",
-            "startTime": 1765801800000,
-            "endTime": 1765812600000
         }
     ]
 }
