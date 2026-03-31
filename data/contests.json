@@ -154,6 +154,22 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/01 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260401_1",
+            "startTime": 1775026800000,
+            "endTime": 1775030400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/01 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260401_1",
+            "startTime": 1775026800000,
+            "endTime": 1775030400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Weekday Contest 0037 Beta",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awc0037",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/agc075",
             "startTime": 1766318400000,
             "endTime": 1766329200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 481",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-481",
-            "startTime": 1766284200000,
-            "endTime": 1766289600000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 172",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-172",
-            "startTime": 1766241000000,
-            "endTime": 1766246400000
         }
     ]
 }
