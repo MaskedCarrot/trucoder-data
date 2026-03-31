@@ -154,6 +154,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0038 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0038",
+            "startTime": 1775041200000,
+            "endTime": 1775044800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/01 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260401_2",
+            "startTime": 1775034000000,
+            "endTime": 1775037600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/01 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260401_2",
+            "startTime": 1775034000000,
+            "endTime": 1775037600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/04/01 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260401_1",
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/xmascon25",
             "startTime": 1766570400000,
             "endTime": 1766584800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1071 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2179",
-            "startTime": 1766501100000,
-            "endTime": 1766510100000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 17",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY17",
-            "startTime": 1766406600000,
-            "endTime": 1766417400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Grand Contest 075",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/agc075",
-            "startTime": 1766318400000,
-            "endTime": 1766329200000
         }
     ]
 }
