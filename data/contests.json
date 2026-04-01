@@ -129,12 +129,44 @@
             "endTime": 1775310000000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 44: Cybersecurity",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND44",
+            "startTime": 1775241000000,
+            "endTime": 1775413800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Heuristic Contest 063",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc063",
             "startTime": 1775210400000,
             "endTime": 1776074400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0039 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0039",
+            "startTime": 1775127600000,
+            "endTime": 1775131200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/02 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260402_2",
+            "startTime": 1775120400000,
+            "endTime": 1775124000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/02 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260402_2",
+            "startTime": 1775120400000,
+            "endTime": 1775124000000
         },
         {
             "id": 3,
@@ -2367,38 +2399,6 @@
             "link": "https://codeforces.com/contests/2178",
             "startTime": 1766846100000,
             "endTime": 1766856900000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 438",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc438",
-            "startTime": 1766836800000,
-            "endTime": 1766842800000
-        },
-        {
-            "id": 2,
-            "name": "ICPC Kanpur 2025 Onsite - Replay Round",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/ICPCKANRP25",
-            "startTime": 1766809800000,
-            "endTime": 1766827800000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 30: SQL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND30",
-            "startTime": 1766773800000,
-            "endTime": 1766946600000
-        },
-        {
-            "id": 1,
-            "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2177",
-            "startTime": 1766746800000,
-            "endTime": 1768129200000
         }
     ]
 }
