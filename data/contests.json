@@ -137,6 +137,22 @@
             "endTime": 1776074400000
         },
         {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/02 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260402_1",
+            "startTime": 1775113200000,
+            "endTime": 1775116800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/02 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260402_1",
+            "startTime": 1775113200000,
+            "endTime": 1775116800000
+        },
+        {
             "id": 1,
             "name": "April Fools Day Contest 2026",
             "platform": "Codeforces",
@@ -146,7 +162,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 232",
+            "name": "Starters 232 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START232",
             "startTime": 1775053800000,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2177",
             "startTime": 1766746800000,
             "endTime": 1768129200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 218 (Rated till 5 stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START218",
-            "startTime": 1766586600000,
-            "endTime": 1766593800000
-        },
-        {
-            "id": 3,
-            "name": "Xmas Contest 2025",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/xmascon25",
-            "startTime": 1766570400000,
-            "endTime": 1766584800000
         }
     ]
 }
