@@ -121,6 +121,14 @@
             "endTime": 1775361600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 4)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2218",
+            "startTime": 1775313300000,
+            "endTime": 1775321400000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 452",
             "platform": "Atcoder",
@@ -138,11 +146,35 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0040 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0040",
+            "startTime": 1775214000000,
+            "endTime": 1775217600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Heuristic Contest 063",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc063",
             "startTime": 1775210400000,
             "endTime": 1776074400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/03 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260403_2",
+            "startTime": 1775206800000,
+            "endTime": 1775210400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/03 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260403_2",
+            "startTime": 1775206800000,
+            "endTime": 1775210400000
         },
         {
             "id": 3,
@@ -2367,38 +2399,6 @@
             "link": "https://www.codechef.com/START219",
             "startTime": 1767191400000,
             "endTime": 1767198600000
-        },
-        {
-            "id": 2,
-            "name": "ICPC Chennai 2025 Onsite - Replay Round",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/ICPCCHNRP25",
-            "startTime": 1767155400000,
-            "endTime": 1767173400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2182",
-            "startTime": 1767018900000,
-            "endTime": 1767026100000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 18",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY18",
-            "startTime": 1767011400000,
-            "endTime": 1767022200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Grand Contest 076",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/agc076",
-            "startTime": 1766923200000,
-            "endTime": 1766934000000
         }
     ]
 }
