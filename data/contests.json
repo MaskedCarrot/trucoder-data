@@ -146,6 +146,22 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/03 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260403_1",
+            "startTime": 1775199600000,
+            "endTime": 1775203200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/03 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260403_1",
+            "startTime": 1775199600000,
+            "endTime": 1775203200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Weekday Contest 0039 Beta",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awc0039",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/agc076",
             "startTime": 1766923200000,
             "endTime": 1766934000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 482",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-482",
-            "startTime": 1766889000000,
-            "endTime": 1766894400000
-        },
-        {
-            "id": 1,
-            "name": "Good Bye 2025",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2178",
-            "startTime": 1766846100000,
-            "endTime": 1766856900000
         }
     ]
 }
