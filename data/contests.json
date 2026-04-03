@@ -106,6 +106,46 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0041 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0041",
+            "startTime": 1775473200000,
+            "endTime": 1775476800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/06 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260406_2",
+            "startTime": 1775466000000,
+            "endTime": 1775469600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/06 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260406_2",
+            "startTime": 1775466000000,
+            "endTime": 1775469600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/06 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260406_1",
+            "startTime": 1775458800000,
+            "endTime": 1775462400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/06 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260406_1",
+            "startTime": 1775458800000,
+            "endTime": 1775462400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest 217",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc217",
@@ -2359,46 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-483",
             "startTime": 1767493800000,
             "endTime": 1767502200000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 173",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-173",
-            "startTime": 1767450600000,
-            "endTime": 1767456000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 439",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc439",
-            "startTime": 1767441600000,
-            "endTime": 1767447600000
-        },
-        {
-            "id": 2,
-            "name": "ICPC Amritapuri 2025 - Onsite Round Replay",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/ICPCAMRRP25",
-            "startTime": 1767414600000,
-            "endTime": 1767432600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 31: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND31",
-            "startTime": 1767378600000,
-            "endTime": 1767551400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 219 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START219",
-            "startTime": 1767191400000,
-            "endTime": 1767198600000
         }
     ]
 }
