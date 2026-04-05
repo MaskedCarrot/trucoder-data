@@ -66,6 +66,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 497",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-497",
+            "startTime": 1775961000000,
+            "endTime": 1775966400000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 180",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-180",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY19",
             "startTime": 1767616200000,
             "endTime": 1767627000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 483",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-483",
-            "startTime": 1767493800000,
-            "endTime": 1767502200000
         }
     ]
 }
