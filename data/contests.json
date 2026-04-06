@@ -105,6 +105,22 @@
             "endTime": 1775580600000
         },
         {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/07 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260407_1",
+            "startTime": 1775545200000,
+            "endTime": 1775548800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/07 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260407_1",
+            "startTime": 1775545200000,
+            "endTime": 1775548800000
+        },
+        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 32",
             "platform": "Codechef",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2183",
             "startTime": 1767796500000,
             "endTime": 1767807300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 220 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START220",
-            "startTime": 1767796200000,
-            "endTime": 1767803400000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 19",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY19",
-            "startTime": 1767616200000,
-            "endTime": 1767627000000
         }
     ]
 }
