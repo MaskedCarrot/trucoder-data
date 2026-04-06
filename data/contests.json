@@ -65,6 +65,22 @@
             "endTime": 1776270600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2215",
+            "startTime": 1775972100000,
+            "endTime": 1775982900000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2216",
+            "startTime": 1775972100000,
+            "endTime": 1775982900000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 497",
             "platform": "Leetcode",
@@ -103,6 +119,30 @@
             "link": "https://codeforces.com/contests/2217",
             "startTime": 1775572500000,
             "endTime": 1775580600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0042 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0042",
+            "startTime": 1775559600000,
+            "endTime": 1775563200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/07 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260407_2",
+            "startTime": 1775552400000,
+            "endTime": 1775556000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/07 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260407_2",
+            "startTime": 1775552400000,
+            "endTime": 1775556000000
         },
         {
             "id": 3,
@@ -2359,46 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc212",
             "startTime": 1768132800000,
             "endTime": 1768140000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 484",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-484",
-            "startTime": 1768098600000,
-            "endTime": 1768104000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 440",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc440",
-            "startTime": 1768046400000,
-            "endTime": 1768052400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Heuristic Contest 059",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc059",
-            "startTime": 1768024800000,
-            "endTime": 1768039200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 32: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND32",
-            "startTime": 1767983400000,
-            "endTime": 1768156200000
-        },
-        {
-            "id": 1,
-            "name": "Hello 2026",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2183",
-            "startTime": 1767796500000,
-            "endTime": 1767807300000
         }
     ]
 }
