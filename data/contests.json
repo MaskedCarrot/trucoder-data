@@ -68,6 +68,22 @@
             "id": 1,
             "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2219",
+            "startTime": 1776090900000,
+            "endTime": 1776098100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2220",
+            "startTime": 1776090900000,
+            "endTime": 1776098100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2215",
             "startTime": 1775972100000,
             "endTime": 1775982900000
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2184",
             "startTime": 1768228500000,
             "endTime": 1768236600000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 20",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY20",
-            "startTime": 1768221000000,
-            "endTime": 1768231800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 212 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc212",
-            "startTime": 1768132800000,
-            "endTime": 1768140000000
         }
     ]
 }
