@@ -129,12 +129,44 @@
             "endTime": 1775914800000
         },
         {
+            "id": 1,
+            "name": "Midnight Code Cup 2026 Qualification Round",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2186",
+            "startTime": 1775908800000,
+            "endTime": 1775919600000
+        },
+        {
             "id": 2,
             "name": "Starters 233",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START233",
             "startTime": 1775658600000,
             "endTime": 1775665800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0043 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0043",
+            "startTime": 1775646000000,
+            "endTime": 1775649600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/08 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260408_2",
+            "startTime": 1775638800000,
+            "endTime": 1775642400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/08 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260408_2",
+            "startTime": 1775638800000,
+            "endTime": 1775642400000
         },
         {
             "id": 3,
@@ -2367,38 +2399,6 @@
             "link": "https://atcoder.jp/contests/guildfes-2026-qual",
             "startTime": 1768698000000,
             "endTime": 1768701600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1073 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2190",
-            "startTime": 1768660500000,
-            "endTime": 1768671300000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1073 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2191",
-            "startTime": 1768660500000,
-            "endTime": 1768671300000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 174",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-174",
-            "startTime": 1768660200000,
-            "endTime": 1768665600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc441",
-            "startTime": 1768651200000,
-            "endTime": 1768657200000
         }
     ]
 }
