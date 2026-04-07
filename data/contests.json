@@ -81,6 +81,14 @@
             "endTime": 1776098100000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 33",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY33",
+            "startTime": 1776083400000,
+            "endTime": 1776094200000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
@@ -127,6 +135,22 @@
             "link": "https://www.codechef.com/START233",
             "startTime": 1775658600000,
             "endTime": 1775665800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/08 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260408_1",
+            "startTime": 1775631600000,
+            "endTime": 1775635200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/08 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260408_1",
+            "startTime": 1775631600000,
+            "endTime": 1775635200000
         },
         {
             "id": 1,
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc441",
             "startTime": 1768651200000,
             "endTime": 1768657200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 33: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND33",
-            "startTime": 1768588200000,
-            "endTime": 1768761000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 221 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START221",
-            "startTime": 1768401000000,
-            "endTime": 1768408200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1072 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2184",
-            "startTime": 1768228500000,
-            "endTime": 1768236600000
         }
     ]
 }
