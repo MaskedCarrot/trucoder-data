@@ -129,6 +129,38 @@
             "endTime": 1775914800000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 45: Cybersecurity",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND45",
+            "startTime": 1775845800000,
+            "endTime": 1776018600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0044 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0044",
+            "startTime": 1775732400000,
+            "endTime": 1775736000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/09 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260409_2",
+            "startTime": 1775725200000,
+            "endTime": 1775728800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/09 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260409_2",
+            "startTime": 1775725200000,
+            "endTime": 1775728800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Daily Training EASY 2026/04/09 16:00start",
             "platform": "Atcoder",
@@ -2367,38 +2399,6 @@
             "link": "https://www.codechef.com/START222",
             "startTime": 1769005800000,
             "endTime": 1769013000000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 21",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY21",
-            "startTime": 1768825800000,
-            "endTime": 1768836600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1074 (Div. 4)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2185",
-            "startTime": 1768746900000,
-            "endTime": 1768755000000
-        },
-        {
-            "id": 3,
-            "name": "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30d0\u30c8\u30eb \u672c\u6226",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/guildfes-2026-final",
-            "startTime": 1768718700000,
-            "endTime": 1768723200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 485",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-485",
-            "startTime": 1768703400000,
-            "endTime": 1768708800000
         }
     ]
 }
