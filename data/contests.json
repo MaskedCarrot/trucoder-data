@@ -25,6 +25,14 @@
             "endTime": 1777124400000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2213",
+            "startTime": 1776954900000,
+            "endTime": 1776962100000
+        },
+        {
             "id": 2,
             "name": "Starters 235",
             "platform": "Codechef",
@@ -135,6 +143,30 @@
             "link": "https://www.codechef.com/DEVWEEKEND45",
             "startTime": 1775845800000,
             "endTime": 1776018600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0045 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0045",
+            "startTime": 1775818800000,
+            "endTime": 1775822400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/10 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260410_2",
+            "startTime": 1775811600000,
+            "endTime": 1775815200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/10 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260410_2",
+            "startTime": 1775811600000,
+            "endTime": 1775815200000
         },
         {
             "id": 3,
@@ -2367,38 +2399,6 @@
             "link": "https://codeforces.com/contests/2193",
             "startTime": 1769351700000,
             "endTime": 1769359800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 213 (Div. 1)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc213",
-            "startTime": 1769342400000,
-            "endTime": 1769351400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 486",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-486",
-            "startTime": 1769308200000,
-            "endTime": 1769313600000
-        },
-        {
-            "id": 3,
-            "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc442",
-            "startTime": 1769256000000,
-            "endTime": 1769262000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 34: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND34",
-            "startTime": 1769193000000,
-            "endTime": 1769365800000
         }
     ]
 }
