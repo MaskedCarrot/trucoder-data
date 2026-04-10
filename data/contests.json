@@ -1,6 +1,14 @@
 {
     "contests": [
         {
+            "id": 3,
+            "name": "Polaris.AI Programming Contest 2026\uff08AtCoder Beginner Contest 457\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc457",
+            "startTime": 1778328000000,
+            "endTime": 1778334000000
+        },
+        {
             "id": 2,
             "name": "Starters 236",
             "platform": "Codechef",
@@ -111,6 +119,46 @@
             "link": "https://www.codechef.com/DSAMONDAY33",
             "startTime": 1776083400000,
             "endTime": 1776094200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0046 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0046",
+            "startTime": 1776078000000,
+            "endTime": 1776081600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/13 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260413_2",
+            "startTime": 1776070800000,
+            "endTime": 1776074400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/13 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260413_2",
+            "startTime": 1776070800000,
+            "endTime": 1776074400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/13 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260413_1",
+            "startTime": 1776063600000,
+            "endTime": 1776067200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/13 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260413_1",
+            "startTime": 1776063600000,
+            "endTime": 1776067200000
         },
         {
             "id": 1,
@@ -2351,54 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-487",
             "startTime": 1769913000000,
             "endTime": 1769918400000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 175",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-175",
-            "startTime": 1769869800000,
-            "endTime": 1769875200000
-        },
-        {
-            "id": 3,
-            "name": "Denso Create Programming Contest 2026\uff08AtCoder Beginner Contest 443\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc443",
-            "startTime": 1769860800000,
-            "endTime": 1769866800000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 35: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND35",
-            "startTime": 1769797800000,
-            "endTime": 1769970600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1077 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2187",
-            "startTime": 1769697300000,
-            "endTime": 1769708100000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1077 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2188",
-            "startTime": 1769697300000,
-            "endTime": 1769708100000
-        },
-        {
-            "id": 2,
-            "name": "Starters 223 (Unrated)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START223",
-            "startTime": 1769610600000,
-            "endTime": 1769617800000
         }
     ]
 }
