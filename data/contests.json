@@ -122,6 +122,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0047 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0047",
+            "startTime": 1776164400000,
+            "endTime": 1776168000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/04/14 18:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260414_2",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-488",
             "startTime": 1770517800000,
             "endTime": 1770523200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 444",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc444",
-            "startTime": 1770465600000,
-            "endTime": 1770471600000
         }
     ]
 }
