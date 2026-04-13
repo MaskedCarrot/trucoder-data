@@ -121,6 +121,38 @@
             "endTime": 1776270600000
         },
         {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/14 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260414_2",
+            "startTime": 1776157200000,
+            "endTime": 1776160800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/14 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260414_2",
+            "startTime": 1776157200000,
+            "endTime": 1776160800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/14 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260414_1",
+            "startTime": 1776150000000,
+            "endTime": 1776153600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/14 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260414_1",
+            "startTime": 1776150000000,
+            "endTime": 1776153600000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1093 (Div. 1)",
             "platform": "Codeforces",
@@ -2367,38 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc444",
             "startTime": 1770465600000,
             "endTime": 1770471600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 36: Spring Boot Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND36",
-            "startTime": 1770402600000,
-            "endTime": 1770575400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 224 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START224",
-            "startTime": 1770215400000,
-            "endTime": 1770222600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 35: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND3A",
-            "startTime": 1770194135000,
-            "endTime": 1770197735000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 23",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY23",
-            "startTime": 1770035400000,
-            "endTime": 1770046200000
         }
     ]
 }
