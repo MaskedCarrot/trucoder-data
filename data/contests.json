@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc462",
+            "startTime": 1781352000000,
+            "endTime": 1781358000000
+        },
+        {
+            "id": 3,
             "name": "Polaris.AI Programming Contest 2026\uff08AtCoder Beginner Contest 457\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc457",
@@ -15,6 +23,14 @@
             "link": "https://atcoder.jp/contests/arc218",
             "startTime": 1777809600000,
             "endTime": 1777816800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 456",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc456",
+            "startTime": 1777723200000,
+            "endTime": 1777729200000
         },
         {
             "id": 2,
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY23",
             "startTime": 1770035400000,
             "endTime": 1770046200000
-        },
-        {
-            "id": 3,
-            "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc060",
-            "startTime": 1769940000000,
-            "endTime": 1769954400000
-        },
-        {
-            "id": 3,
-            "name": "JOI 2025/2026 \u30bb\u30df\u30d5\u30a1\u30a4\u30ca\u30eb\u30b9\u30c6\u30fc\u30b8 \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joi2026sf",
-            "startTime": 1769918400000,
-            "endTime": 1769932800000
         }
     ]
 }
