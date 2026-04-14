@@ -138,6 +138,38 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/15 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260415_2",
+            "startTime": 1776243600000,
+            "endTime": 1776247200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/15 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260415_2",
+            "startTime": 1776243600000,
+            "endTime": 1776247200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/15 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260415_1",
+            "startTime": 1776236400000,
+            "endTime": 1776240000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/15 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260415_1",
+            "startTime": 1776236400000,
+            "endTime": 1776240000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Weekday Contest 0047 Beta",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awc0047",
@@ -2367,38 +2399,6 @@
             "link": "https://atcoder.jp/contests/awc0003",
             "startTime": 1770807600000,
             "endTime": 1770813000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0002 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0002",
-            "startTime": 1770721200000,
-            "endTime": 1770726600000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 24",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY24",
-            "startTime": 1770640200000,
-            "endTime": 1770651000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0001 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0001",
-            "startTime": 1770634800000,
-            "endTime": 1770640200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 214",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc214",
-            "startTime": 1770552000000,
-            "endTime": 1770559200000
         }
     ]
 }
