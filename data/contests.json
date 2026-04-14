@@ -138,6 +138,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0048 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0048",
+            "startTime": 1776250800000,
+            "endTime": 1776254400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/04/15 18:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260415_2",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START225",
             "startTime": 1770820200000,
             "endTime": 1770827400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0003 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0003",
-            "startTime": 1770807600000,
-            "endTime": 1770813000000
         }
     ]
 }
