@@ -18,6 +18,14 @@
         },
         {
             "id": 3,
+            "name": "Next DP Contest",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ndpc2026",
+            "startTime": 1777953600000,
+            "endTime": 1777971600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest 218",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc218",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2194",
             "startTime": 1770541500000,
             "endTime": 1770548700000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 488",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-488",
-            "startTime": 1770517800000,
-            "endTime": 1770523200000
         }
     ]
 }
