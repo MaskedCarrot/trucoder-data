@@ -129,8 +129,40 @@
             "endTime": 1776499800000
         },
         {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/16 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260416_2",
+            "startTime": 1776330000000,
+            "endTime": 1776333600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/16 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260416_2",
+            "startTime": 1776330000000,
+            "endTime": 1776333600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/16 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260416_1",
+            "startTime": 1776322800000,
+            "endTime": 1776326400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/16 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260416_1",
+            "startTime": 1776322800000,
+            "endTime": 1776326400000
+        },
+        {
             "id": 2,
-            "name": "Starters 234",
+            "name": "Starters 234 (Rated for all)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START234",
             "startTime": 1776263400000,
@@ -2367,38 +2399,6 @@
             "link": "https://codeforces.com/blog/entry/150813",
             "startTime": 1770940800000,
             "endTime": 1772409600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0004 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0004",
-            "startTime": 1770894000000,
-            "endTime": 1770899400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1079 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2196",
-            "startTime": 1770820500000,
-            "endTime": 1770831300000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1079 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2197",
-            "startTime": 1770820500000,
-            "endTime": 1770831300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 225 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START225",
-            "startTime": 1770820200000,
-            "endTime": 1770827400000
         }
     ]
 }
