@@ -129,6 +129,22 @@
             "endTime": 1776499800000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 46: Cybersecurity",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND46",
+            "startTime": 1776450600000,
+            "endTime": 1776623400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0049 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0049",
+            "startTime": 1776337200000,
+            "endTime": 1776340800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Daily Training EASY 2026/04/16 18:00start",
             "platform": "Atcoder",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/awc0005",
             "startTime": 1770980400000,
             "endTime": 1770985800000
-        },
-        {
-            "id": 3,
-            "name": "THIRD Programming Contest 2026\uff08AtCoder Heuristic Contest 061\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc061",
-            "startTime": 1770976800000,
-            "endTime": 1771840800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Blitz Cup 2026",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/blog/entry/150813",
-            "startTime": 1770940800000,
-            "endTime": 1772409600000
         }
     ]
 }
