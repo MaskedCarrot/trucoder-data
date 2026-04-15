@@ -17,6 +17,22 @@
             "endTime": 1778334000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2223",
+            "startTime": 1778047500000,
+            "endTime": 1778056500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2224",
+            "startTime": 1778047500000,
+            "endTime": 1778056500000
+        },
+        {
             "id": 3,
             "name": "Next DP Contest",
             "platform": "Atcoder",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/utpc2025",
             "startTime": 1771041600000,
             "endTime": 1771059600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 37: Spring Boot Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND37",
-            "startTime": 1771007400000,
-            "endTime": 1771180200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0005 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0005",
-            "startTime": 1770980400000,
-            "endTime": 1770985800000
         }
     ]
 }
