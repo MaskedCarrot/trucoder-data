@@ -162,6 +162,30 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0050 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0050",
+            "startTime": 1776423600000,
+            "endTime": 1776427200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/17 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260417_2",
+            "startTime": 1776416400000,
+            "endTime": 1776420000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/17 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260417_2",
+            "startTime": 1776416400000,
+            "endTime": 1776420000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/04/17 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260417_1",
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/awc0006",
             "startTime": 1771239600000,
             "endTime": 1771243200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1080 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2195",
-            "startTime": 1771166700000,
-            "endTime": 1771175700000
-        },
-        {
-            "id": 3,
-            "name": "\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c8 2025",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/KeioPC2025",
-            "startTime": 1771128000000,
-            "endTime": 1771146000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 489",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-489",
-            "startTime": 1771122600000,
-            "endTime": 1771128000000
         }
     ]
 }
