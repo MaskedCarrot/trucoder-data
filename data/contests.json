@@ -73,6 +73,14 @@
             "endTime": 1777197600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2222",
+            "startTime": 1777127700000,
+            "endTime": 1777136700000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 181",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY25",
             "startTime": 1771245000000,
             "endTime": 1771255800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0006 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0006",
-            "startTime": 1771239600000,
-            "endTime": 1771243200000
         }
     ]
 }
