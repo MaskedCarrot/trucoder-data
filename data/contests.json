@@ -2,6 +2,22 @@
     "contests": [
         {
             "id": 3,
+            "name": "\u7b2c\u4e03\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29\uff5eAdvance\uff5e -\u4e88\u9078- \uff08AtCoder Beginner Contest 464\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc464",
+            "startTime": 1782561600000,
+            "endTime": 1782567600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 222",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc222",
+            "startTime": 1781438400000,
+            "endTime": 1781445600000
+        },
+        {
+            "id": 3,
             "name": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc462",
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/START226",
             "startTime": 1771425000000,
             "endTime": 1771432200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0008 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0008",
-            "startTime": 1771412400000,
-            "endTime": 1771416000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0007 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0007",
-            "startTime": 1771326000000,
-            "endTime": 1771329600000
         }
     ]
 }
