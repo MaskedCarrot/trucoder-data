@@ -52,14 +52,6 @@
             "id": 3,
             "name": "Next DP Contest",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ndpc2026",
-            "startTime": 1777953600000,
-            "endTime": 1777971600000
-        },
-        {
-            "id": 3,
-            "name": "Next DP Contest",
-            "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ndpc",
             "startTime": 1777953600000,
             "endTime": 1777971600000
@@ -2399,6 +2391,14 @@
             "link": "https://atcoder.jp/contests/awc0011",
             "startTime": 1771844400000,
             "endTime": 1771848000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 215",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc215",
+            "startTime": 1771761600000,
+            "endTime": 1771768800000
         }
     ]
 }
