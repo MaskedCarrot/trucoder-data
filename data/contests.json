@@ -106,7 +106,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2222",
             "startTime": 1777127700000,
@@ -151,6 +151,14 @@
             "link": "https://codeforces.com/contests/2225",
             "startTime": 1776782100000,
             "endTime": 1776789300000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Weekday Contest 0052 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0052",
+            "startTime": 1776769200000,
+            "endTime": 1776772800000
         },
         {
             "id": 3,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/adt_all_20260224_1",
             "startTime": 1771916400000,
             "endTime": 1771920000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1082 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2201",
-            "startTime": 1771857300000,
-            "endTime": 1771866300000
         }
     ]
 }
