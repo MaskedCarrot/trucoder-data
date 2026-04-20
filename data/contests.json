@@ -129,14 +129,6 @@
             "endTime": 1777124400000
         },
         {
-            "id": 1,
-            "name": "Codeforces Round (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2213",
-            "startTime": 1776954900000,
-            "endTime": 1776962100000
-        },
-        {
             "id": 2,
             "name": "Starters 235",
             "platform": "Codechef",
@@ -2399,6 +2391,14 @@
             "link": "https://atcoder.jp/contests/adt_all_20260224_1",
             "startTime": 1771916400000,
             "endTime": 1771920000000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1082 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2201",
+            "startTime": 1771857300000,
+            "endTime": 1771866300000
         }
     ]
 }
