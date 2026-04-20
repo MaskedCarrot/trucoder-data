@@ -153,6 +153,38 @@
             "endTime": 1776789300000
         },
         {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/21 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260421_2",
+            "startTime": 1776762000000,
+            "endTime": 1776765600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/21 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260421_2",
+            "startTime": 1776762000000,
+            "endTime": 1776765600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/21 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260421_1",
+            "startTime": 1776754800000,
+            "endTime": 1776758400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/21 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260421_1",
+            "startTime": 1776754800000,
+            "endTime": 1776758400000
+        },
+        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 34",
             "platform": "Codechef",
@@ -2367,38 +2399,6 @@
             "link": "https://codeforces.com/contests/2201",
             "startTime": 1771857300000,
             "endTime": 1771866300000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1082 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2202",
-            "startTime": 1771857300000,
-            "endTime": 1771866300000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 26",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY26",
-            "startTime": 1771849800000,
-            "endTime": 1771860600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0011 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0011",
-            "startTime": 1771844400000,
-            "endTime": 1771848000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 215",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc215",
-            "startTime": 1771761600000,
-            "endTime": 1771768800000
         }
     ]
 }
