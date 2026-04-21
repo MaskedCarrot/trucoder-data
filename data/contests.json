@@ -146,6 +146,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Weekday Contest 0053 Beta",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awc0053",
+            "startTime": 1776855600000,
+            "endTime": 1776859200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Daily Training EASY 2026/04/22 18:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260422_2",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/adt_all_20260225_1",
             "startTime": 1772002800000,
             "endTime": 1772006400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0012 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0012",
-            "startTime": 1771930800000,
-            "endTime": 1771934400000
         }
     ]
 }
