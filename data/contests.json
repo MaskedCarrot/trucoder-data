@@ -89,6 +89,14 @@
             "endTime": 1777395000000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 35",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY35",
+            "startTime": 1777293000000,
+            "endTime": 1777303800000
+        },
+        {
             "id": 3,
             "name": "JR WEST and ALGO ARTIS Programming Contest (AtCoder Heuristic Contest 064)",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/adt_all_20260224_1",
             "startTime": 1771916400000,
             "endTime": 1771920000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1082 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2201",
-            "startTime": 1771857300000,
-            "endTime": 1771866300000
         }
     ]
 }
