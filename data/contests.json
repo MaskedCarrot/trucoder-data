@@ -185,6 +185,14 @@
             "endTime": 1776844800000
         },
         {
+            "id": 1,
+            "name": "Educational Codeforces Round 189 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2225",
+            "startTime": 1776782100000,
+            "endTime": 1776789300000
+        },
+        {
             "id": 3,
             "name": "AtCoder Weekday Contest 0052 Beta",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/adt_all_20260225_1",
             "startTime": 1772002800000,
             "endTime": 1772006400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0012 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0012",
-            "startTime": 1771930800000,
-            "endTime": 1771934400000
         }
     ]
 }
