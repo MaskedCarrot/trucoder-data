@@ -26,6 +26,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Heuristic Contest 065",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc065",
+            "startTime": 1778911200000,
+            "endTime": 1778925600000
+        },
+        {
+            "id": 3,
             "name": "Polaris.AI Programming Contest 2026\uff08AtCoder Beginner Contest 457\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc457",
@@ -2389,14 +2397,6 @@
             "name": "AtCoder Daily Training EASY 2026/02/25 16:00start",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/adt_easy_20260225_1",
-            "startTime": 1772002800000,
-            "endTime": 1772006400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/02/25 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260225_1",
             "startTime": 1772002800000,
             "endTime": 1772006400000
         }
