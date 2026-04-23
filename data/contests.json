@@ -178,6 +178,38 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/24 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260424_2",
+            "startTime": 1777021200000,
+            "endTime": 1777024800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/24 18:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260424_2",
+            "startTime": 1777021200000,
+            "endTime": 1777024800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training EASY 2026/04/24 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_easy_20260424_1",
+            "startTime": 1777014000000,
+            "endTime": 1777017600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Daily Training ALL 2026/04/24 16:00start",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/adt_all_20260424_1",
+            "startTime": 1777014000000,
+            "endTime": 1777017600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Weekday Contest 0054 Beta",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/awc0054",
@@ -2367,38 +2399,6 @@
             "link": "https://atcoder.jp/contests/adt_easy_20260227_1",
             "startTime": 1772175600000,
             "endTime": 1772179200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/02/27 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260227_1",
-            "startTime": 1772175600000,
-            "endTime": 1772179200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1083 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2205",
-            "startTime": 1772116500000,
-            "endTime": 1772125500000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0014 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0014",
-            "startTime": 1772103600000,
-            "endTime": 1772107200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/02/26 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260226_2",
-            "startTime": 1772096400000,
-            "endTime": 1772100000000
         }
     ]
 }
