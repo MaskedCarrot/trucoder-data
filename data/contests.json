@@ -193,14 +193,6 @@
             "endTime": 1777176000000
         },
         {
-            "id": 1,
-            "name": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2222",
-            "startTime": 1777127700000,
-            "endTime": 1777136700000
-        },
-        {
             "id": 4,
             "name": "Biweekly Contest 181",
             "platform": "Leetcode",
@@ -2399,6 +2391,14 @@
             "link": "https://leetcode.com/contest/biweekly-contest-177",
             "startTime": 1772289000000,
             "endTime": 1772294400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 447",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc447",
+            "startTime": 1772280000000,
+            "endTime": 1772286000000
         }
     ]
 }
