@@ -26,6 +26,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 460",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc460",
+            "startTime": 1780142400000,
+            "endTime": 1780148400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest++ 220",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc220",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/adt_all_20260302_1",
             "startTime": 1772434800000,
             "endTime": 1772438400000
-        },
-        {
-            "id": 3,
-            "name": "The 3rd Masters Championship-qual-",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2026-qual",
-            "startTime": 1772337600000,
-            "endTime": 1772359200000
         }
     ]
 }
