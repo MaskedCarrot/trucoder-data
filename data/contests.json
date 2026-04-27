@@ -161,92 +161,12 @@
             "endTime": 1777395000000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0057 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0057",
-            "startTime": 1777374000000,
-            "endTime": 1777377600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/28 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260428_2",
-            "startTime": 1777366800000,
-            "endTime": 1777370400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/28 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260428_2",
-            "startTime": 1777366800000,
-            "endTime": 1777370400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/28 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260428_1",
-            "startTime": 1777359600000,
-            "endTime": 1777363200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/28 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260428_1",
-            "startTime": 1777359600000,
-            "endTime": 1777363200000
-        },
-        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 35",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DSAMONDAY35",
             "startTime": 1777293000000,
             "endTime": 1777303800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0056 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0056",
-            "startTime": 1777287600000,
-            "endTime": 1777291200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/27 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260427_2",
-            "startTime": 1777280400000,
-            "endTime": 1777284000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/27 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260427_2",
-            "startTime": 1777280400000,
-            "endTime": 1777284000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/27 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260427_1",
-            "startTime": 1777273200000,
-            "endTime": 1777276800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/27 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260427_1",
-            "startTime": 1777273200000,
-            "endTime": 1777276800000
         },
         {
             "id": 3,
@@ -297,132 +217,12 @@
             "endTime": 1777228200000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0055 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0055",
-            "startTime": 1777028400000,
-            "endTime": 1777032000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/24 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260424_2",
-            "startTime": 1777021200000,
-            "endTime": 1777024800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/24 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260424_2",
-            "startTime": 1777021200000,
-            "endTime": 1777024800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/24 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260424_1",
-            "startTime": 1777014000000,
-            "endTime": 1777017600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/24 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260424_1",
-            "startTime": 1777014000000,
-            "endTime": 1777017600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0054 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0054",
-            "startTime": 1776942000000,
-            "endTime": 1776945600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/23 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260423_2",
-            "startTime": 1776934800000,
-            "endTime": 1776938400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/23 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260423_2",
-            "startTime": 1776934800000,
-            "endTime": 1776938400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/23 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260423_1",
-            "startTime": 1776927600000,
-            "endTime": 1776931200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/23 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260423_1",
-            "startTime": 1776927600000,
-            "endTime": 1776931200000
-        },
-        {
             "id": 2,
             "name": "Starters 235 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START235",
             "startTime": 1776868200000,
             "endTime": 1776875400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0053 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0053",
-            "startTime": 1776855600000,
-            "endTime": 1776859200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/22 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260422_2",
-            "startTime": 1776848400000,
-            "endTime": 1776852000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/22 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260422_2",
-            "startTime": 1776848400000,
-            "endTime": 1776852000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/22 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260422_1",
-            "startTime": 1776841200000,
-            "endTime": 1776844800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/22 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260422_1",
-            "startTime": 1776841200000,
-            "endTime": 1776844800000
         },
         {
             "id": 1,
@@ -433,92 +233,12 @@
             "endTime": 1776789300000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0052 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0052",
-            "startTime": 1776769200000,
-            "endTime": 1776772800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/21 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260421_2",
-            "startTime": 1776762000000,
-            "endTime": 1776765600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/21 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260421_2",
-            "startTime": 1776762000000,
-            "endTime": 1776765600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/21 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260421_1",
-            "startTime": 1776754800000,
-            "endTime": 1776758400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/21 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260421_1",
-            "startTime": 1776754800000,
-            "endTime": 1776758400000
-        },
-        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 34",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DSAMONDAY34",
             "startTime": 1776688200000,
             "endTime": 1776699000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0051 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0051",
-            "startTime": 1776682800000,
-            "endTime": 1776686400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/20 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260420_2",
-            "startTime": 1776675600000,
-            "endTime": 1776679200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/20 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260420_2",
-            "startTime": 1776675600000,
-            "endTime": 1776679200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/20 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260420_1",
-            "startTime": 1776668400000,
-            "endTime": 1776672000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/20 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260420_1",
-            "startTime": 1776668400000,
-            "endTime": 1776672000000
         },
         {
             "id": 4,
@@ -561,172 +281,12 @@
             "endTime": 1776623400000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0050 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0050",
-            "startTime": 1776423600000,
-            "endTime": 1776427200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/17 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260417_2",
-            "startTime": 1776416400000,
-            "endTime": 1776420000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/17 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260417_2",
-            "startTime": 1776416400000,
-            "endTime": 1776420000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/17 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260417_1",
-            "startTime": 1776409200000,
-            "endTime": 1776412800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/17 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260417_1",
-            "startTime": 1776409200000,
-            "endTime": 1776412800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0049 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0049",
-            "startTime": 1776337200000,
-            "endTime": 1776340800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/16 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260416_2",
-            "startTime": 1776330000000,
-            "endTime": 1776333600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/16 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260416_2",
-            "startTime": 1776330000000,
-            "endTime": 1776333600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/16 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260416_1",
-            "startTime": 1776322800000,
-            "endTime": 1776326400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/16 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260416_1",
-            "startTime": 1776322800000,
-            "endTime": 1776326400000
-        },
-        {
             "id": 2,
             "name": "Starters 234 (Rated for all)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START234",
             "startTime": 1776263400000,
             "endTime": 1776270600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0048 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0048",
-            "startTime": 1776250800000,
-            "endTime": 1776254400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/15 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260415_2",
-            "startTime": 1776243600000,
-            "endTime": 1776247200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/15 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260415_2",
-            "startTime": 1776243600000,
-            "endTime": 1776247200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/15 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260415_1",
-            "startTime": 1776236400000,
-            "endTime": 1776240000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/15 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260415_1",
-            "startTime": 1776236400000,
-            "endTime": 1776240000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0047 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0047",
-            "startTime": 1776164400000,
-            "endTime": 1776168000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/14 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260414_2",
-            "startTime": 1776157200000,
-            "endTime": 1776160800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/14 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260414_2",
-            "startTime": 1776157200000,
-            "endTime": 1776160800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/14 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260414_1",
-            "startTime": 1776150000000,
-            "endTime": 1776153600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/14 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260414_1",
-            "startTime": 1776150000000,
-            "endTime": 1776153600000
         },
         {
             "id": 1,
@@ -751,46 +311,6 @@
             "link": "https://www.codechef.com/DSAMONDAY33",
             "startTime": 1776083400000,
             "endTime": 1776094200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0046 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0046",
-            "startTime": 1776078000000,
-            "endTime": 1776081600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/13 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260413_2",
-            "startTime": 1776070800000,
-            "endTime": 1776074400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/13 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260413_2",
-            "startTime": 1776070800000,
-            "endTime": 1776074400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/13 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260413_1",
-            "startTime": 1776063600000,
-            "endTime": 1776067200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/13 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260413_1",
-            "startTime": 1776063600000,
-            "endTime": 1776067200000
         },
         {
             "id": 1,
@@ -841,132 +361,12 @@
             "endTime": 1776018600000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0045 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0045",
-            "startTime": 1775818800000,
-            "endTime": 1775822400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/10 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260410_2",
-            "startTime": 1775811600000,
-            "endTime": 1775815200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/10 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260410_2",
-            "startTime": 1775811600000,
-            "endTime": 1775815200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/10 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260410_1",
-            "startTime": 1775804400000,
-            "endTime": 1775808000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/10 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260410_1",
-            "startTime": 1775804400000,
-            "endTime": 1775808000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0044 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0044",
-            "startTime": 1775732400000,
-            "endTime": 1775736000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/09 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260409_2",
-            "startTime": 1775725200000,
-            "endTime": 1775728800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/09 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260409_2",
-            "startTime": 1775725200000,
-            "endTime": 1775728800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/09 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260409_1",
-            "startTime": 1775718000000,
-            "endTime": 1775721600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/09 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260409_1",
-            "startTime": 1775718000000,
-            "endTime": 1775721600000
-        },
-        {
             "id": 2,
             "name": "Starters 233 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START233",
             "startTime": 1775658600000,
             "endTime": 1775665800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0043 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0043",
-            "startTime": 1775646000000,
-            "endTime": 1775649600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/08 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260408_2",
-            "startTime": 1775638800000,
-            "endTime": 1775642400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/08 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260408_2",
-            "startTime": 1775638800000,
-            "endTime": 1775642400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/08 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260408_1",
-            "startTime": 1775631600000,
-            "endTime": 1775635200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/08 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260408_1",
-            "startTime": 1775631600000,
-            "endTime": 1775635200000
         },
         {
             "id": 1,
@@ -977,92 +377,12 @@
             "endTime": 1775580600000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0042 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0042",
-            "startTime": 1775559600000,
-            "endTime": 1775563200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/07 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260407_2",
-            "startTime": 1775552400000,
-            "endTime": 1775556000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/07 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260407_2",
-            "startTime": 1775552400000,
-            "endTime": 1775556000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/07 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260407_1",
-            "startTime": 1775545200000,
-            "endTime": 1775548800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/07 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260407_1",
-            "startTime": 1775545200000,
-            "endTime": 1775548800000
-        },
-        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 32",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DSAMONDAY32",
             "startTime": 1775478600000,
             "endTime": 1775489400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0041 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0041",
-            "startTime": 1775473200000,
-            "endTime": 1775476800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/06 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260406_2",
-            "startTime": 1775466000000,
-            "endTime": 1775469600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/06 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260406_2",
-            "startTime": 1775466000000,
-            "endTime": 1775469600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/06 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260406_1",
-            "startTime": 1775458800000,
-            "endTime": 1775462400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/06 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260406_1",
-            "startTime": 1775458800000,
-            "endTime": 1775462400000
         },
         {
             "id": 3,
@@ -1106,91 +426,11 @@
         },
         {
             "id": 3,
-            "name": "AtCoder Weekday Contest 0040 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0040",
-            "startTime": 1775214000000,
-            "endTime": 1775217600000
-        },
-        {
-            "id": 3,
             "name": "AtCoder Heuristic Contest 063",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc063",
             "startTime": 1775210400000,
             "endTime": 1776074400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/03 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260403_2",
-            "startTime": 1775206800000,
-            "endTime": 1775210400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/03 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260403_2",
-            "startTime": 1775206800000,
-            "endTime": 1775210400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/03 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260403_1",
-            "startTime": 1775199600000,
-            "endTime": 1775203200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/03 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260403_1",
-            "startTime": 1775199600000,
-            "endTime": 1775203200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0039 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0039",
-            "startTime": 1775127600000,
-            "endTime": 1775131200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/02 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260402_2",
-            "startTime": 1775120400000,
-            "endTime": 1775124000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/02 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260402_2",
-            "startTime": 1775120400000,
-            "endTime": 1775124000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/02 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260402_1",
-            "startTime": 1775113200000,
-            "endTime": 1775116800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/02 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260402_1",
-            "startTime": 1775113200000,
-            "endTime": 1775116800000
         },
         {
             "id": 1,
@@ -1209,132 +449,12 @@
             "endTime": 1775061000000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0038 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0038",
-            "startTime": 1775041200000,
-            "endTime": 1775044800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/01 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260401_2",
-            "startTime": 1775034000000,
-            "endTime": 1775037600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/01 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260401_2",
-            "startTime": 1775034000000,
-            "endTime": 1775037600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/04/01 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260401_1",
-            "startTime": 1775026800000,
-            "endTime": 1775030400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/04/01 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260401_1",
-            "startTime": 1775026800000,
-            "endTime": 1775030400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0037 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0037",
-            "startTime": 1774954800000,
-            "endTime": 1774958400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/31 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260331_2",
-            "startTime": 1774947600000,
-            "endTime": 1774951200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/31 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260331_2",
-            "startTime": 1774947600000,
-            "endTime": 1774951200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/31 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260331_1",
-            "startTime": 1774940400000,
-            "endTime": 1774944000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/31 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260331_1",
-            "startTime": 1774940400000,
-            "endTime": 1774944000000
-        },
-        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 31",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DSAMONDAY31",
             "startTime": 1774873800000,
             "endTime": 1774884600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0036 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0036",
-            "startTime": 1774868400000,
-            "endTime": 1774872000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/30 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260330_2",
-            "startTime": 1774861200000,
-            "endTime": 1774864800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/30 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260330_2",
-            "startTime": 1774861200000,
-            "endTime": 1774864800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/30 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260330_1",
-            "startTime": 1774854000000,
-            "endTime": 1774857600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/30 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260330_1",
-            "startTime": 1774854000000,
-            "endTime": 1774857600000
         },
         {
             "id": 1,
@@ -1402,91 +522,11 @@
         },
         {
             "id": 3,
-            "name": "AtCoder Weekday Contest 0035 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0035",
-            "startTime": 1774609200000,
-            "endTime": 1774612800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/27 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260327_2",
-            "startTime": 1774602000000,
-            "endTime": 1774605600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/27 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260327_2",
-            "startTime": 1774602000000,
-            "endTime": 1774605600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/27 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260327_1",
-            "startTime": 1774594800000,
-            "endTime": 1774598400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/27 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260327_1",
-            "startTime": 1774594800000,
-            "endTime": 1774598400000
-        },
-        {
-            "id": 3,
             "name": "\u30d1\u7814\u5408\u5bbf2025 \u7b2c2\u65e5\u300c\u30d1\u7814\u676f\u300d",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/pakencamp-2025-day2",
             "startTime": 1774589400000,
             "endTime": 1774605600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0034 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0034",
-            "startTime": 1774522800000,
-            "endTime": 1774526400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/26 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260326_2",
-            "startTime": 1774515600000,
-            "endTime": 1774519200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/26 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260326_2",
-            "startTime": 1774515600000,
-            "endTime": 1774519200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/26 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260326_1",
-            "startTime": 1774508400000,
-            "endTime": 1774512000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/26 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260326_1",
-            "startTime": 1774508400000,
-            "endTime": 1774512000000
         },
         {
             "id": 3,
@@ -1505,132 +545,12 @@
             "endTime": 1774456200000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0033 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0033",
-            "startTime": 1774436400000,
-            "endTime": 1774440000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/25 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260325_2",
-            "startTime": 1774429200000,
-            "endTime": 1774432800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/25 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260325_2",
-            "startTime": 1774429200000,
-            "endTime": 1774432800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/25 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260325_1",
-            "startTime": 1774422000000,
-            "endTime": 1774425600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/25 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260325_1",
-            "startTime": 1774422000000,
-            "endTime": 1774425600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0032 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0032",
-            "startTime": 1774350000000,
-            "endTime": 1774353600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/24 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260324_2",
-            "startTime": 1774342800000,
-            "endTime": 1774346400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/24 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260324_2",
-            "startTime": 1774342800000,
-            "endTime": 1774346400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/24 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260324_1",
-            "startTime": 1774335600000,
-            "endTime": 1774339200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/24 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260324_1",
-            "startTime": 1774335600000,
-            "endTime": 1774339200000
-        },
-        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 30",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DSAMONDAY30",
             "startTime": 1774269000000,
             "endTime": 1774279800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0031 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0031",
-            "startTime": 1774263600000,
-            "endTime": 1774267200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/23 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260323_2",
-            "startTime": 1774256400000,
-            "endTime": 1774260000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/23 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260323_2",
-            "startTime": 1774256400000,
-            "endTime": 1774260000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/23 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260323_1",
-            "startTime": 1774249200000,
-            "endTime": 1774252800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/23 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260323_1",
-            "startTime": 1774249200000,
-            "endTime": 1774252800000
         },
         {
             "id": 3,
@@ -1689,172 +609,12 @@
             "endTime": 1774204200000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0030 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0030",
-            "startTime": 1774004400000,
-            "endTime": 1774008000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/20 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260320_2",
-            "startTime": 1773997200000,
-            "endTime": 1774000800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/20 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260320_2",
-            "startTime": 1773997200000,
-            "endTime": 1774000800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/20 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260320_1",
-            "startTime": 1773990000000,
-            "endTime": 1773993600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/20 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260320_1",
-            "startTime": 1773990000000,
-            "endTime": 1773993600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0029 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0029",
-            "startTime": 1773918000000,
-            "endTime": 1773921600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/19 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260319_2",
-            "startTime": 1773910800000,
-            "endTime": 1773914400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/19 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260319_2",
-            "startTime": 1773910800000,
-            "endTime": 1773914400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/19 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260319_1",
-            "startTime": 1773903600000,
-            "endTime": 1773907200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/19 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260319_1",
-            "startTime": 1773903600000,
-            "endTime": 1773907200000
-        },
-        {
             "id": 2,
             "name": "Starters 230 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START230",
             "startTime": 1773844200000,
             "endTime": 1773851400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0028 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0028",
-            "startTime": 1773831600000,
-            "endTime": 1773835200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/18 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260318_2",
-            "startTime": 1773824400000,
-            "endTime": 1773828000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/18 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260318_2",
-            "startTime": 1773824400000,
-            "endTime": 1773828000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/18 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260318_1",
-            "startTime": 1773817200000,
-            "endTime": 1773820800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/18 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260318_1",
-            "startTime": 1773817200000,
-            "endTime": 1773820800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0027 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0027",
-            "startTime": 1773745200000,
-            "endTime": 1773748800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/17 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260317_2",
-            "startTime": 1773738000000,
-            "endTime": 1773741600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/17 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260317_2",
-            "startTime": 1773738000000,
-            "endTime": 1773741600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/17 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260317_1",
-            "startTime": 1773730800000,
-            "endTime": 1773734400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/17 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260317_1",
-            "startTime": 1773730800000,
-            "endTime": 1773734400000
         },
         {
             "id": 1,
@@ -1871,46 +631,6 @@
             "link": "https://www.codechef.com/DSAMONDAY29",
             "startTime": 1773664200000,
             "endTime": 1773675000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0026 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0026",
-            "startTime": 1773658800000,
-            "endTime": 1773662400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/16 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260316_2",
-            "startTime": 1773651600000,
-            "endTime": 1773655200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/16 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260316_2",
-            "startTime": 1773651600000,
-            "endTime": 1773655200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/16 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260316_1",
-            "startTime": 1773644400000,
-            "endTime": 1773648000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/16 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260316_1",
-            "startTime": 1773644400000,
-            "endTime": 1773648000000
         },
         {
             "id": 3,
@@ -1969,86 +689,6 @@
             "endTime": 1773599400000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0025 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0025",
-            "startTime": 1773399600000,
-            "endTime": 1773403200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/13 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260313_2",
-            "startTime": 1773392400000,
-            "endTime": 1773396000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/13 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260313_2",
-            "startTime": 1773392400000,
-            "endTime": 1773396000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/13 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260313_1",
-            "startTime": 1773385200000,
-            "endTime": 1773388800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/13 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260313_1",
-            "startTime": 1773385200000,
-            "endTime": 1773388800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0024 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0024",
-            "startTime": 1773313200000,
-            "endTime": 1773316800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/12 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260312_2",
-            "startTime": 1773306000000,
-            "endTime": 1773309600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/12 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260312_2",
-            "startTime": 1773306000000,
-            "endTime": 1773309600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/12 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260312_1",
-            "startTime": 1773298800000,
-            "endTime": 1773302400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/12 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260312_1",
-            "startTime": 1773298800000,
-            "endTime": 1773302400000
-        },
-        {
             "id": 2,
             "name": "Starters 229 (Rated till 6 star)",
             "platform": "Codechef",
@@ -2057,132 +697,12 @@
             "endTime": 1773246600000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0023 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0023",
-            "startTime": 1773226800000,
-            "endTime": 1773230400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/11 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260311_2",
-            "startTime": 1773219600000,
-            "endTime": 1773223200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/11 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260311_2",
-            "startTime": 1773219600000,
-            "endTime": 1773223200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/11 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260311_1",
-            "startTime": 1773212400000,
-            "endTime": 1773216000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/11 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260311_1",
-            "startTime": 1773212400000,
-            "endTime": 1773216000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0022 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0022",
-            "startTime": 1773140400000,
-            "endTime": 1773144000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/10 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260310_2",
-            "startTime": 1773133200000,
-            "endTime": 1773136800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/10 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260310_2",
-            "startTime": 1773133200000,
-            "endTime": 1773136800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/10 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260310_1",
-            "startTime": 1773126000000,
-            "endTime": 1773129600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/10 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260310_1",
-            "startTime": 1773126000000,
-            "endTime": 1773129600000
-        },
-        {
             "id": 2,
             "name": "Monday Munch - DSA Challenge 28",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DSAMONDAY28",
             "startTime": 1773059400000,
             "endTime": 1773070200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0021 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0021",
-            "startTime": 1773054000000,
-            "endTime": 1773057600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/09 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260309_2",
-            "startTime": 1773046800000,
-            "endTime": 1773050400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/09 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260309_2",
-            "startTime": 1773046800000,
-            "endTime": 1773050400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/09 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260309_1",
-            "startTime": 1773039600000,
-            "endTime": 1773043200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/09 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260309_1",
-            "startTime": 1773039600000,
-            "endTime": 1773043200000
         },
         {
             "id": 1,
@@ -2225,86 +745,6 @@
             "endTime": 1772994600000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0020 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0020",
-            "startTime": 1772794800000,
-            "endTime": 1772798400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/06 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260306_2",
-            "startTime": 1772787600000,
-            "endTime": 1772791200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/06 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260306_2",
-            "startTime": 1772787600000,
-            "endTime": 1772791200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/06 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260306_1",
-            "startTime": 1772780400000,
-            "endTime": 1772784000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/06 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260306_1",
-            "startTime": 1772780400000,
-            "endTime": 1772784000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0019 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0019",
-            "startTime": 1772708400000,
-            "endTime": 1772712000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/05 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260305_2",
-            "startTime": 1772701200000,
-            "endTime": 1772704800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/05 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260305_2",
-            "startTime": 1772701200000,
-            "endTime": 1772704800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/05 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260305_1",
-            "startTime": 1772694000000,
-            "endTime": 1772697600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/05 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260305_1",
-            "startTime": 1772694000000,
-            "endTime": 1772697600000
-        },
-        {
             "id": 2,
             "name": "Starters 228 (Rated till 6 star)",
             "platform": "Codechef",
@@ -2313,92 +753,1652 @@
             "endTime": 1772641800000
         },
         {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0018 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0018",
-            "startTime": 1772622000000,
-            "endTime": 1772625600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/04 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260304_2",
-            "startTime": 1772614800000,
-            "endTime": 1772618400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/04 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260304_2",
-            "startTime": 1772614800000,
-            "endTime": 1772618400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/04 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260304_1",
-            "startTime": 1772607600000,
-            "endTime": 1772611200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/04 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260304_1",
-            "startTime": 1772607600000,
-            "endTime": 1772611200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Weekday Contest 0017 Beta",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/awc0017",
-            "startTime": 1772535600000,
-            "endTime": 1772539200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/03 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260303_2",
-            "startTime": 1772528400000,
-            "endTime": 1772532000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/03 18:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260303_2",
-            "startTime": 1772528400000,
-            "endTime": 1772532000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training EASY 2026/03/03 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_easy_20260303_1",
-            "startTime": 1772521200000,
-            "endTime": 1772524800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Daily Training ALL 2026/03/03 16:00start",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/adt_all_20260303_1",
-            "startTime": 1772521200000,
-            "endTime": 1772524800000
-        },
-        {
             "id": 1,
             "name": "Kotlin Heroes: Episode 14",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2199",
             "startTime": 1772462100000,
             "endTime": 1772471100000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 27",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY27",
+            "startTime": 1772454600000,
+            "endTime": 1772465400000
+        },
+        {
+            "id": 3,
+            "name": "The 3rd Masters Championship-qual-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/masters2026-qual",
+            "startTime": 1772337600000,
+            "endTime": 1772359200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 491",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-491",
+            "startTime": 1772332200000,
+            "endTime": 1772337600000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 177",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-177",
+            "startTime": 1772289000000,
+            "endTime": 1772294400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 447",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc447",
+            "startTime": 1772280000000,
+            "endTime": 1772286000000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 39: Spring Boot Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND39",
+            "startTime": 1772217000000,
+            "endTime": 1772389800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1084 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2200",
+            "startTime": 1772202900000,
+            "endTime": 1772211000000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1083 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2205",
+            "startTime": 1772116500000,
+            "endTime": 1772125500000
+        },
+        {
+            "id": 1,
+            "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2203",
+            "startTime": 1772030100000,
+            "endTime": 1772037300000
+        },
+        {
+            "id": 2,
+            "name": "Starters 227 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START227",
+            "startTime": 1772029800000,
+            "endTime": 1772037000000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1082 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2201",
+            "startTime": 1771857300000,
+            "endTime": 1771866300000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1082 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2202",
+            "startTime": 1771857300000,
+            "endTime": 1771866300000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 26",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY26",
+            "startTime": 1771849800000,
+            "endTime": 1771860600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 215",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc215",
+            "startTime": 1771761600000,
+            "endTime": 1771768800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 490",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-490",
+            "startTime": 1771727400000,
+            "endTime": 1771732800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1081 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2192",
+            "startTime": 1771684500000,
+            "endTime": 1771691700000
+        },
+        {
+            "id": 1,
+            "name": "Kotlin Heroes: Practice 14",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2198",
+            "startTime": 1771684200000,
+            "endTime": 1772461800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 446",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc446",
+            "startTime": 1771675200000,
+            "endTime": 1771681200000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 38: Spring Boot Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND38",
+            "startTime": 1771612200000,
+            "endTime": 1771785000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 226 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START226",
+            "startTime": 1771425000000,
+            "endTime": 1771432200000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 25",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY25",
+            "startTime": 1771245000000,
+            "endTime": 1771255800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1080 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2195",
+            "startTime": 1771166700000,
+            "endTime": 1771175700000
+        },
+        {
+            "id": 3,
+            "name": "\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c8 2025",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/KeioPC2025",
+            "startTime": 1771128000000,
+            "endTime": 1771146000000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 489",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-489",
+            "startTime": 1771122600000,
+            "endTime": 1771128000000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 176",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-176",
+            "startTime": 1771079400000,
+            "endTime": 1771084800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 445",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc445",
+            "startTime": 1771070400000,
+            "endTime": 1771076400000
+        },
+        {
+            "id": 3,
+            "name": "UTPC 2025",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/utpc2025",
+            "startTime": 1771041600000,
+            "endTime": 1771059600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 37: Spring Boot Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND37",
+            "startTime": 1771007400000,
+            "endTime": 1771180200000
+        },
+        {
+            "id": 3,
+            "name": "THIRD Programming Contest 2026\uff08AtCoder Heuristic Contest 061\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc061",
+            "startTime": 1770976800000,
+            "endTime": 1771840800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Blitz Cup 2026",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/blog/entry/150813",
+            "startTime": 1770940800000,
+            "endTime": 1772409600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1079 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2196",
+            "startTime": 1770820500000,
+            "endTime": 1770831300000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1079 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2197",
+            "startTime": 1770820500000,
+            "endTime": 1770831300000
+        },
+        {
+            "id": 2,
+            "name": "Starters 225 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START225",
+            "startTime": 1770820200000,
+            "endTime": 1770827400000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 24",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY24",
+            "startTime": 1770640200000,
+            "endTime": 1770651000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 214",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc214",
+            "startTime": 1770552000000,
+            "endTime": 1770559200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1078 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2194",
+            "startTime": 1770541500000,
+            "endTime": 1770548700000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 488",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-488",
+            "startTime": 1770517800000,
+            "endTime": 1770523200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 444",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc444",
+            "startTime": 1770465600000,
+            "endTime": 1770471600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 36: Spring Boot Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND36",
+            "startTime": 1770402600000,
+            "endTime": 1770575400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 224 (Rated till 6 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START224",
+            "startTime": 1770215400000,
+            "endTime": 1770222600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 35: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND3A",
+            "startTime": 1770194135000,
+            "endTime": 1770197735000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 23",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY23",
+            "startTime": 1770035400000,
+            "endTime": 1770046200000
+        },
+        {
+            "id": 3,
+            "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc060",
+            "startTime": 1769940000000,
+            "endTime": 1769954400000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2025/2026 \u30bb\u30df\u30d5\u30a1\u30a4\u30ca\u30eb\u30b9\u30c6\u30fc\u30b8 \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2026sf",
+            "startTime": 1769918400000,
+            "endTime": 1769932800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 487",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-487",
+            "startTime": 1769913000000,
+            "endTime": 1769918400000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 175",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-175",
+            "startTime": 1769869800000,
+            "endTime": 1769875200000
+        },
+        {
+            "id": 3,
+            "name": "Denso Create Programming Contest 2026\uff08AtCoder Beginner Contest 443\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc443",
+            "startTime": 1769860800000,
+            "endTime": 1769866800000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 35: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND35",
+            "startTime": 1769797800000,
+            "endTime": 1769970600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1077 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2187",
+            "startTime": 1769697300000,
+            "endTime": 1769708100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1077 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2188",
+            "startTime": 1769697300000,
+            "endTime": 1769708100000
+        },
+        {
+            "id": 2,
+            "name": "Starters 223 (Unrated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START223",
+            "startTime": 1769610600000,
+            "endTime": 1769617800000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 22",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY22",
+            "startTime": 1769430600000,
+            "endTime": 1769441400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1076 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2193",
+            "startTime": 1769351700000,
+            "endTime": 1769359800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 213 (Div. 1)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc213",
+            "startTime": 1769342400000,
+            "endTime": 1769351400000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 486",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-486",
+            "startTime": 1769308200000,
+            "endTime": 1769313600000
+        },
+        {
+            "id": 3,
+            "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc442",
+            "startTime": 1769256000000,
+            "endTime": 1769262000000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 34: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND34",
+            "startTime": 1769193000000,
+            "endTime": 1769365800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1075 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2189",
+            "startTime": 1769178900000,
+            "endTime": 1769186100000
+        },
+        {
+            "id": 2,
+            "name": "Starters 222 (Rated till 6 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START222",
+            "startTime": 1769005800000,
+            "endTime": 1769013000000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 21",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY21",
+            "startTime": 1768825800000,
+            "endTime": 1768836600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1074 (Div. 4)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2185",
+            "startTime": 1768746900000,
+            "endTime": 1768755000000
+        },
+        {
+            "id": 3,
+            "name": "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30d0\u30c8\u30eb \u672c\u6226",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/guildfes-2026-final",
+            "startTime": 1768718700000,
+            "endTime": 1768723200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 485",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-485",
+            "startTime": 1768703400000,
+            "endTime": 1768708800000
+        },
+        {
+            "id": 3,
+            "name": "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30d0\u30c8\u30eb \u4e88\u9078",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/guildfes-2026-qual",
+            "startTime": 1768698000000,
+            "endTime": 1768701600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1073 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2190",
+            "startTime": 1768660500000,
+            "endTime": 1768671300000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1073 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2191",
+            "startTime": 1768660500000,
+            "endTime": 1768671300000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 174",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-174",
+            "startTime": 1768660200000,
+            "endTime": 1768665600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc441",
+            "startTime": 1768651200000,
+            "endTime": 1768657200000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 33: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND33",
+            "startTime": 1768588200000,
+            "endTime": 1768761000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 221 (Rated till 6 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START221",
+            "startTime": 1768401000000,
+            "endTime": 1768408200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1072 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2184",
+            "startTime": 1768228500000,
+            "endTime": 1768236600000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 20",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY20",
+            "startTime": 1768221000000,
+            "endTime": 1768231800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 212 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc212",
+            "startTime": 1768132800000,
+            "endTime": 1768140000000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 484",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-484",
+            "startTime": 1768098600000,
+            "endTime": 1768104000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 440",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc440",
+            "startTime": 1768046400000,
+            "endTime": 1768052400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Heuristic Contest 059",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc059",
+            "startTime": 1768024800000,
+            "endTime": 1768039200000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 32: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND32",
+            "startTime": 1767983400000,
+            "endTime": 1768156200000
+        },
+        {
+            "id": 1,
+            "name": "Hello 2026",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2183",
+            "startTime": 1767796500000,
+            "endTime": 1767807300000
+        },
+        {
+            "id": 2,
+            "name": "Starters 220 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START220",
+            "startTime": 1767796200000,
+            "endTime": 1767803400000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 19",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY19",
+            "startTime": 1767616200000,
+            "endTime": 1767627000000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 483",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-483",
+            "startTime": 1767493800000,
+            "endTime": 1767502200000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 173",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-173",
+            "startTime": 1767450600000,
+            "endTime": 1767456000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 439",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc439",
+            "startTime": 1767441600000,
+            "endTime": 1767447600000
+        },
+        {
+            "id": 2,
+            "name": "ICPC Amritapuri 2025 - Onsite Round Replay",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/ICPCAMRRP25",
+            "startTime": 1767414600000,
+            "endTime": 1767432600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 31: Data Analysis & Visualization Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND31",
+            "startTime": 1767378600000,
+            "endTime": 1767551400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 219 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START219",
+            "startTime": 1767191400000,
+            "endTime": 1767198600000
+        },
+        {
+            "id": 2,
+            "name": "ICPC Chennai 2025 Onsite - Replay Round",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/ICPCCHNRP25",
+            "startTime": 1767155400000,
+            "endTime": 1767173400000
+        },
+        {
+            "id": 1,
+            "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2182",
+            "startTime": 1767018900000,
+            "endTime": 1767026100000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 18",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY18",
+            "startTime": 1767011400000,
+            "endTime": 1767022200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Grand Contest 076",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc076",
+            "startTime": 1766923200000,
+            "endTime": 1766934000000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 482",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-482",
+            "startTime": 1766889000000,
+            "endTime": 1766894400000
+        },
+        {
+            "id": 1,
+            "name": "Good Bye 2025",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2178",
+            "startTime": 1766846100000,
+            "endTime": 1766856900000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 438",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc438",
+            "startTime": 1766836800000,
+            "endTime": 1766842800000
+        },
+        {
+            "id": 2,
+            "name": "ICPC Kanpur 2025 Onsite - Replay Round",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/ICPCKANRP25",
+            "startTime": 1766809800000,
+            "endTime": 1766827800000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 30: SQL Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND30",
+            "startTime": 1766773800000,
+            "endTime": 1766946600000
+        },
+        {
+            "id": 1,
+            "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2177",
+            "startTime": 1766746800000,
+            "endTime": 1768129200000
+        },
+        {
+            "id": 2,
+            "name": "Starters 218 (Rated till 5 stars)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START218",
+            "startTime": 1766586600000,
+            "endTime": 1766593800000
+        },
+        {
+            "id": 3,
+            "name": "Xmas Contest 2025",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/xmascon25",
+            "startTime": 1766570400000,
+            "endTime": 1766584800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1071 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2179",
+            "startTime": 1766501100000,
+            "endTime": 1766510100000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 17",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY17",
+            "startTime": 1766406600000,
+            "endTime": 1766417400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Grand Contest 075",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc075",
+            "startTime": 1766318400000,
+            "endTime": 1766329200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 481",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-481",
+            "startTime": 1766284200000,
+            "endTime": 1766289600000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 172",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-172",
+            "startTime": 1766241000000,
+            "endTime": 1766246400000
+        },
+        {
+            "id": 3,
+            "name": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc437",
+            "startTime": 1766232000000,
+            "endTime": 1766238000000
+        },
+        {
+            "id": 6,
+            "name": "Meta Hacker Cup 2025",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/fhc/2025",
+            "startTime": 1766188800000,
+            "endTime": 1766188800000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 29: SQL Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND29",
+            "startTime": 1766169000000,
+            "endTime": 1766341800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2180",
+            "startTime": 1766154900000,
+            "endTime": 1766163900000
+        },
+        {
+            "id": 2,
+            "name": "Starters 217 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START217",
+            "startTime": 1765981800000,
+            "endTime": 1765989000000
+        },
+        {
+            "id": 1,
+            "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2181",
+            "startTime": 1765958700000,
+            "endTime": 1765976700000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 16",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY16",
+            "startTime": 1765801800000,
+            "endTime": 1765812600000
+        },
+        {
+            "id": 3,
+            "name": "ALGO ARTIS Programming Contest 2025 December\uff08AtCoder Heuristic Contest 058\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc058",
+            "startTime": 1765692000000,
+            "endTime": 1765706400000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 480",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-480",
+            "startTime": 1765679400000,
+            "endTime": 1765684800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 436",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc436",
+            "startTime": 1765627200000,
+            "endTime": 1765633200000
+        },
+        {
+            "id": 3,
+            "name": "\u7b2c\u4e8c\u56de AtCoder Japan Open -\u6c7a\u52dd-",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ajo2025-final",
+            "startTime": 1765587600000,
+            "endTime": 1765602000000
+        },
+        {
+            "id": 3,
+            "name": "\u7b2c\u4e8c\u56de AtCoder Japan Open -\u6c7a\u52dd-\uff08\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ajo2025-final-open",
+            "startTime": 1765587600000,
+            "endTime": 1765602000000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 28: SQL Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND28",
+            "startTime": 1765564200000,
+            "endTime": 1765737000000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1070 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2176",
+            "startTime": 1765463700000,
+            "endTime": 1765470900000
+        },
+        {
+            "id": 2,
+            "name": "Starters 216 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START216",
+            "startTime": 1765377000000,
+            "endTime": 1765384200000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 15",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY15",
+            "startTime": 1765197000000,
+            "endTime": 1765207800000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2025/2026 \u4e8c\u6b21\u4e88\u9078 \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2026yo2",
+            "startTime": 1765080000000,
+            "endTime": 1765090800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 479",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-479",
+            "startTime": 1765074600000,
+            "endTime": 1765080000000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 171",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-171",
+            "startTime": 1765031400000,
+            "endTime": 1765036800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 435",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc435",
+            "startTime": 1765022400000,
+            "endTime": 1765028400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1069 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2174",
+            "startTime": 1765008900000,
+            "endTime": 1765016100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1069 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2175",
+            "startTime": 1765008900000,
+            "endTime": 1765016100000
+        },
+        {
+            "id": 6,
+            "name": "Yandex Cup 2025 Algorithm",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/ya_algo/2025",
+            "startTime": 1764979200000,
+            "endTime": 1764979200000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 27: SQL Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND27",
+            "startTime": 1764959400000,
+            "endTime": 1765132200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1068 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2173",
+            "startTime": 1764945300000,
+            "endTime": 1764952500000
+        },
+        {
+            "id": 2,
+            "name": "Starters 215 (Rated till 6 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START215",
+            "startTime": 1764772200000,
+            "endTime": 1764779400000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 14",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY14",
+            "startTime": 1764592200000,
+            "endTime": 1764603000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 211 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc211",
+            "startTime": 1764504000000,
+            "endTime": 1764511200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 478",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-478",
+            "startTime": 1764469800000,
+            "endTime": 1764475200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1067 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2158",
+            "startTime": 1764426900000,
+            "endTime": 1764434100000
+        },
+        {
+            "id": 3,
+            "name": "\uff33\uff4b\uff59 Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc434",
+            "startTime": 1764417600000,
+            "endTime": 1764423600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Heuristic Contest 057",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc057",
+            "startTime": 1764396000000,
+            "endTime": 1764410400000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 26: Frontend Essentials - HTML,CSS,JS",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND26",
+            "startTime": 1764354600000,
+            "endTime": 1764527400000
+        },
+        {
+            "id": 1,
+            "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2170",
+            "startTime": 1764340500000,
+            "endTime": 1764347700000
+        },
+        {
+            "id": 6,
+            "name": "Rayan 2025 World Finals",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/rayan/2025",
+            "startTime": 1764288000000,
+            "endTime": 1764288000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 214 (Unrated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START214",
+            "startTime": 1764168300000,
+            "endTime": 1764175500000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 13",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY13",
+            "startTime": 1763987400000,
+            "endTime": 1763998200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1066 (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2157",
+            "startTime": 1763890500000,
+            "endTime": 1763901300000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 477",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-477",
+            "startTime": 1763865000000,
+            "endTime": 1763870400000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 170",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-170",
+            "startTime": 1763821800000,
+            "endTime": 1763827200000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 433",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc433",
+            "startTime": 1763812800000,
+            "endTime": 1763818800000
+        },
+        {
+            "id": 6,
+            "name": "Topcoder Marathon Match Tournament 2025",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/tco_mar/2025",
+            "startTime": 1763769600000,
+            "endTime": 1763769600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 25: Frontend Essentials - HTML,CSS,JS",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND25",
+            "startTime": 1763749800000,
+            "endTime": 1763922600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1065 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2171",
+            "startTime": 1763649300000,
+            "endTime": 1763658300000
+        },
+        {
+            "id": 2,
+            "name": "Starters 213 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START213",
+            "startTime": 1763562600000,
+            "endTime": 1763569800000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 12",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY12",
+            "startTime": 1763382600000,
+            "endTime": 1763393400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1064 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2165",
+            "startTime": 1763303700000,
+            "endTime": 1763310900000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1064 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2166",
+            "startTime": 1763303700000,
+            "endTime": 1763310900000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 210",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc210",
+            "startTime": 1763294400000,
+            "endTime": 1763301600000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 476",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-476",
+            "startTime": 1763260200000,
+            "endTime": 1763265600000
+        },
+        {
+            "id": 1,
+            "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2172",
+            "startTime": 1763257800000,
+            "endTime": 1763275800000
+        },
+        {
+            "id": 3,
+            "name": "OMRON Corporation Programming Contest 2025 #2 (AtCoder Beginner Contest 432)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc432",
+            "startTime": 1763208000000,
+            "endTime": 1763214000000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2025/2026 \u4e00\u6b21\u4e88\u9078 (\u7b2c3\u56de) \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2026yo1c",
+            "startTime": 1763182800000,
+            "endTime": 1763187600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 24: Frontend Essentials - HTML,CSS,JS",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND24",
+            "startTime": 1763145000000,
+            "endTime": 1763317800000
+        },
+        {
+            "id": 1,
+            "name": "Educational Codeforces Round 184 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2169",
+            "startTime": 1763130900000,
+            "endTime": 1763138100000
+        },
+        {
+            "id": 2,
+            "name": "Starters 212 (Rated till 6 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START212",
+            "startTime": 1762957800000,
+            "endTime": 1762965000000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1063 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2163",
+            "startTime": 1762787100000,
+            "endTime": 1762794300000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 11",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY11",
+            "startTime": 1762777800000,
+            "endTime": 1762788600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 209 (Div. 1)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc209",
+            "startTime": 1762689600000,
+            "endTime": 1762698600000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 475",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-475",
+            "startTime": 1762655400000,
+            "endTime": 1762660800000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 169",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-169",
+            "startTime": 1762612200000,
+            "endTime": 1762617600000
+        },
+        {
+            "id": 3,
+            "name": "TOYOTA SYSTEMS Programming Contest 2025\uff08AtCoder Beginner Contest 431)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc431",
+            "startTime": 1762603200000,
+            "endTime": 1762609200000
+        },
+        {
+            "id": 3,
+            "name": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 1)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/stpc2025_1",
+            "startTime": 1762574400000,
+            "endTime": 1762592400000
+        },
+        {
+            "id": 3,
+            "name": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/stpc2025_2",
+            "startTime": 1762574400000,
+            "endTime": 1762592400000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 23: Frontend Essentials - HTML,CSS,JS",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND23",
+            "startTime": 1762540200000,
+            "endTime": 1762713000000
+        },
+        {
+            "id": 3,
+            "name": "HACK TO THE FUTURE 2026 \uff08AtCoder Heuristic Contest 056\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc056",
+            "startTime": 1762509600000,
+            "endTime": 1763373600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2164",
+            "startTime": 1762439700000,
+            "endTime": 1762450500000
+        },
+        {
+            "id": 2,
+            "name": "Starters 211 (Rated till 6 - star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START211",
+            "startTime": 1762353000000,
+            "endTime": 1762360200000
+        },
+        {
+            "id": 1,
+            "name": "Testing Round 20 (Unrated, Communication Problems)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2168",
+            "startTime": 1762180500000,
+            "endTime": 1762184100000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 10",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY10",
+            "startTime": 1762173000000,
+            "endTime": 1762183800000
+        },
+        {
+            "id": 3,
+            "name": "FPS 24: 24 Problems on Formal Power Series",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/fps-24",
+            "startTime": 1762142400000,
+            "endTime": 1762160400000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 474",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-474",
+            "startTime": 1762050600000,
+            "endTime": 1762056000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 430",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc430",
+            "startTime": 1761998400000,
+            "endTime": 1762004400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder \u00d7 Engineer Guild \u30aa\u30f3\u30b5\u30a4\u30c8\u30b3\u30f3\u30c6\u30b9\u30c8 \uff5e\u96c6\u7d50\uff01\u9ad8\u30ec\u30fc\u30c8\u4eba\u6750\uff5e",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/highrate2025",
+            "startTime": 1761970200000,
+            "endTime": 1761981000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder \u00d7 Engineer Guild \u30aa\u30f3\u30b5\u30a4\u30c8\u30b3\u30f3\u30c6\u30b9\u30c8 \uff5e\u96c6\u7d50\uff01\u9ad8\u30ec\u30fc\u30c8\u4eba\u6750\uff5e\uff08\u5fa9\u7fd2\u7528\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/highrate2025-parallel",
+            "startTime": 1761970200000,
+            "endTime": 1761981000000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 22: Frontend Essentials - HTML,CSS,JS",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND22",
+            "startTime": 1761935400000,
+            "endTime": 1762108200000
+        },
+        {
+            "id": 1,
+            "name": "Pinely Round 5 (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2161",
+            "startTime": 1761842100000,
+            "endTime": 1761852900000
+        },
+        {
+            "id": 2,
+            "name": "Starters 210 (Rated till 5-star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START210",
+            "startTime": 1761748200000,
+            "endTime": 1761755400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1062 (Div. 4)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2167",
+            "startTime": 1761662100000,
+            "endTime": 1761670200000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 09",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY09",
+            "startTime": 1761568200000,
+            "endTime": 1761579000000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Grand Contest 074",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc074",
+            "startTime": 1761480000000,
+            "endTime": 1761490800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 473",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-473",
+            "startTime": 1761445800000,
+            "endTime": 1761451200000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 168",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-168",
+            "startTime": 1761402600000,
+            "endTime": 1761408000000
+        },
+        {
+            "id": 3,
+            "name": "Polaris.AI Programming Contest 2025\uff08AtCoder Beginner Contest 429\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc429",
+            "startTime": 1761393600000,
+            "endTime": 1761399600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 21: Full Stack Projects using MERN",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND21",
+            "startTime": 1761330600000,
+            "endTime": 1761503400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1061 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2156",
+            "startTime": 1761316500000,
+            "endTime": 1761323700000
+        },
+        {
+            "id": 2,
+            "name": "Starters 209 (Rated till 5 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START209",
+            "startTime": 1761143400000,
+            "endTime": 1761150600000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 08",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY08",
+            "startTime": 1760963431000,
+            "endTime": 1760974231000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1060 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2154",
+            "startTime": 1760884500000,
+            "endTime": 1760891700000
+        },
+        {
+            "id": 3,
+            "name": "RECRUIT Nihonbashi Half Marathon 2025 Autumn \uff08AtCoder Heuristic Contest 055\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc055",
+            "startTime": 1760868000000,
+            "endTime": 1760882400000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 472",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-472",
+            "startTime": 1760841000000,
+            "endTime": 1760846400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 428",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc428",
+            "startTime": 1760790600000,
+            "endTime": 1760796600000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 20: Full Stack Projects using MERN",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND20",
+            "startTime": 1760725800000,
+            "endTime": 1760898600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1059 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2162",
+            "startTime": 1760711700000,
+            "endTime": 1760719800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 208 (Rated till 6 star)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START208",
+            "startTime": 1760538600000,
+            "endTime": 1760545800000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 07",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY07",
+            "startTime": 1760358600000,
+            "endTime": 1760369400000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1058 (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2159",
+            "startTime": 1760279700000,
+            "endTime": 1760288700000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1058 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2160",
+            "startTime": 1760279700000,
+            "endTime": 1760288700000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Regular Contest 208 (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc208",
+            "startTime": 1760270400000,
+            "endTime": 1760277600000
+        },
+        {
+            "id": 3,
+            "name": "JOI 2025/2026 \u4e00\u6b21\u4e88\u9078 (\u7b2c2\u56de) \u904e\u53bb\u554f",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/joi2026yo1b",
+            "startTime": 1760245200000,
+            "endTime": 1760250000000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 471",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-471",
+            "startTime": 1760236200000,
+            "endTime": 1760241600000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 167",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-167",
+            "startTime": 1760193000000,
+            "endTime": 1760198400000
         }
     ]
 }
