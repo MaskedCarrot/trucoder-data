@@ -34,6 +34,14 @@
         },
         {
             "id": 3,
+            "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2026 (AtCoder Beginner Contest 459)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc459",
+            "startTime": 1779537600000,
+            "endTime": 1779543600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest++ 220",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc220",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-471",
             "startTime": 1760236200000,
             "endTime": 1760241600000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 167",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-167",
-            "startTime": 1760193000000,
-            "endTime": 1760198400000
         }
     ]
 }
