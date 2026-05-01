@@ -217,12 +217,28 @@
             "endTime": 1777833000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round 1096 (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2227",
+            "startTime": 1777559700000,
+            "endTime": 1777568700000
+        },
+        {
             "id": 2,
             "name": "Starters 236 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START236",
             "startTime": 1777473000000,
             "endTime": 1777480200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1095 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2226",
+            "startTime": 1777386900000,
+            "endTime": 1777395000000
         },
         {
             "id": 2,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc428",
             "startTime": 1760790600000,
             "endTime": 1760796600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 20: Full Stack Projects using MERN",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND20",
-            "startTime": 1760725800000,
-            "endTime": 1760898600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1059 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2162",
-            "startTime": 1760711700000,
-            "endTime": 1760719800000
         }
     ]
 }
