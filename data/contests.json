@@ -209,6 +209,14 @@
             "endTime": 1777780800000
         },
         {
+            "id": 6,
+            "name": "M(IT)^2 2026 Spring Invitational",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/mitit_spring/2026",
+            "startTime": 1777766400000,
+            "endTime": 1777766400000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 456",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc055",
             "startTime": 1760868000000,
             "endTime": 1760882400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 472",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-472",
-            "startTime": 1760841000000,
-            "endTime": 1760846400000
         }
     ]
 }
