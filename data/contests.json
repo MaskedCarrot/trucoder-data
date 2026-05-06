@@ -154,27 +154,19 @@
         },
         {
             "id": 2,
-            "name": "Starters 237",
+            "name": "Weekend Dev Challenge 49: Golang Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND49",
+            "startTime": 1778265000000,
+            "endTime": 1778437800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 237 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START237",
             "startTime": 1778077800000,
             "endTime": 1778085000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1097 (Div. 1, Based on Zhili Cup 2026)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2223",
-            "startTime": 1778047500000,
-            "endTime": 1778056500000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1097 (Div. 2, Based on Zhili Cup 2026)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2224",
-            "startTime": 1778047500000,
-            "endTime": 1778056500000
         },
         {
             "id": 3,
@@ -2399,6 +2391,14 @@
             "link": "https://atcoder.jp/contests/ahc055",
             "startTime": 1760868000000,
             "endTime": 1760882400000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 472",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-472",
+            "startTime": 1760841000000,
+            "endTime": 1760846400000
         }
     ]
 }
