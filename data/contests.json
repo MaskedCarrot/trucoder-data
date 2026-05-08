@@ -193,6 +193,22 @@
             "endTime": 1778085000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round 1097 (Div. 1, Based on Zhili Cup 2026)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2223",
+            "startTime": 1778047500000,
+            "endTime": 1778056500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1097 (Div. 2, Based on Zhili Cup 2026)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2224",
+            "startTime": 1778047500000,
+            "endTime": 1778056500000
+        },
+        {
             "id": 3,
             "name": "Next DP Contest",
             "platform": "Atcoder",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2156",
             "startTime": 1761316500000,
             "endTime": 1761323700000
-        },
-        {
-            "id": 2,
-            "name": "Starters 209 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START209",
-            "startTime": 1761143400000,
-            "endTime": 1761150600000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 08",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY08",
-            "startTime": 1760963431000,
-            "endTime": 1760974231000
         }
     ]
 }
