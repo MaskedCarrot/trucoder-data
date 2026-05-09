@@ -81,6 +81,14 @@
             "endTime": 1779557700000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 183",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-183",
+            "startTime": 1779546600000,
+            "endTime": 1779552000000
+        },
+        {
             "id": 3,
             "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2026 (AtCoder Beginner Contest 459)",
             "platform": "Atcoder",
@@ -111,6 +119,14 @@
             "link": "https://atcoder.jp/contests/arc220",
             "startTime": 1779019200000,
             "endTime": 1779028200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 502",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-502",
+            "startTime": 1778985000000,
+            "endTime": 1778990400000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc429",
             "startTime": 1761393600000,
             "endTime": 1761399600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 21: Full Stack Projects using MERN",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND21",
-            "startTime": 1761330600000,
-            "endTime": 1761503400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1061 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2156",
-            "startTime": 1761316500000,
-            "endTime": 1761323700000
         }
     ]
 }
