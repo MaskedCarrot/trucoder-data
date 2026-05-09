@@ -161,6 +161,14 @@
             "endTime": 1778689800000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 002 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY002",
+            "startTime": 1778502600000,
+            "endTime": 1778513400000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest-- 219",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-168",
             "startTime": 1761402600000,
             "endTime": 1761408000000
-        },
-        {
-            "id": 3,
-            "name": "Polaris.AI Programming Contest 2025\uff08AtCoder Beginner Contest 429\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc429",
-            "startTime": 1761393600000,
-            "endTime": 1761399600000
         }
     ]
 }
