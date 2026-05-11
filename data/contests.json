@@ -73,6 +73,14 @@
             "endTime": 1779899400000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 503",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-503",
+            "startTime": 1779589800000,
+            "endTime": 1779595200000
+        },
+        {
             "id": 1,
             "name": "Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-473",
             "startTime": 1761445800000,
             "endTime": 1761451200000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 168",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-168",
-            "startTime": 1761402600000,
-            "endTime": 1761408000000
         }
     ]
 }
