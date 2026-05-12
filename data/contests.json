@@ -185,6 +185,14 @@
             "endTime": 1778385600000
         },
         {
+            "id": 6,
+            "name": "Universal Cup 2026",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/ucup/2026",
+            "startTime": 1778371200000,
+            "endTime": 1778371200000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 182",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-473",
             "startTime": 1761445800000,
             "endTime": 1761451200000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 168",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-168",
-            "startTime": 1761402600000,
-            "endTime": 1761408000000
         }
     ]
 }
