@@ -105,6 +105,14 @@
             "endTime": 1779543600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2231",
+            "startTime": 1779374100000,
+            "endTime": 1779381300000
+        },
+        {
             "id": 2,
             "name": "Starters 239",
             "platform": "Codechef",
@@ -138,7 +146,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1098 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2228",
             "startTime": 1778942100000,
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2167",
             "startTime": 1761662100000,
             "endTime": 1761670200000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 09",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY09",
-            "startTime": 1761568200000,
-            "endTime": 1761579000000
         }
     ]
 }
