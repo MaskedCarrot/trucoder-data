@@ -49,6 +49,14 @@
             "endTime": 1780237800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2232",
+            "startTime": 1780151700000,
+            "endTime": 1780158900000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 460",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START210",
             "startTime": 1761748200000,
             "endTime": 1761755400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1062 (Div. 4)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2167",
-            "startTime": 1761662100000,
-            "endTime": 1761670200000
         }
     ]
 }
