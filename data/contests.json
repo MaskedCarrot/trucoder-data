@@ -113,6 +113,14 @@
             "endTime": 1779543600000
         },
         {
+            "id": 3,
+            "name": "AtCoder \u4f01\u696d\u5bfe\u6297\u30ea\u30fc\u30b0 2026 \u7b2c1\u6226",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/c-league2026-1",
+            "startTime": 1779447600000,
+            "endTime": 1779454800000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2161",
             "startTime": 1761842100000,
             "endTime": 1761852900000
-        },
-        {
-            "id": 2,
-            "name": "Starters 210 (Rated till 5-star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START210",
-            "startTime": 1761748200000,
-            "endTime": 1761755400000
         }
     ]
 }
