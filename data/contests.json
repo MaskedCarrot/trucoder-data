@@ -153,6 +153,14 @@
             "endTime": 1779122100000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 003 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY003",
+            "startTime": 1779107400000,
+            "endTime": 1779118200000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest++ 220",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/highrate2025-parallel",
             "startTime": 1761970200000,
             "endTime": 1761981000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 22: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND22",
-            "startTime": 1761935400000,
-            "endTime": 1762108200000
         }
     ]
 }
