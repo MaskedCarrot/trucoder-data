@@ -201,6 +201,30 @@
             "endTime": 1778925600000
         },
         {
+            "id": 3,
+            "name": "SCPC 2026 Div.3",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/scpc2026-div3",
+            "startTime": 1778905800000,
+            "endTime": 1778916600000
+        },
+        {
+            "id": 3,
+            "name": "SCPC 2026 Div.1",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/scpc2026-div1",
+            "startTime": 1778904000000,
+            "endTime": 1778920200000
+        },
+        {
+            "id": 3,
+            "name": "SCPC 2026 Div.2",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/scpc2026-div2",
+            "startTime": 1778904000000,
+            "endTime": 1778918400000
+        },
+        {
             "id": 2,
             "name": "Weekend Dev Challenge 50: Golang Projects",
             "platform": "Codechef",
@@ -2375,30 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-474",
             "startTime": 1762050600000,
             "endTime": 1762056000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 430",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc430",
-            "startTime": 1761998400000,
-            "endTime": 1762004400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder \u00d7 Engineer Guild \u30aa\u30f3\u30b5\u30a4\u30c8\u30b3\u30f3\u30c6\u30b9\u30c8 \uff5e\u96c6\u7d50\uff01\u9ad8\u30ec\u30fc\u30c8\u4eba\u6750\uff5e",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/highrate2025",
-            "startTime": 1761970200000,
-            "endTime": 1761981000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder \u00d7 Engineer Guild \u30aa\u30f3\u30b5\u30a4\u30c8\u30b3\u30f3\u30c6\u30b9\u30c8 \uff5e\u96c6\u7d50\uff01\u9ad8\u30ec\u30fc\u30c8\u4eba\u6750\uff5e\uff08\u5fa9\u7fd2\u7528\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/highrate2025-parallel",
-            "startTime": 1761970200000,
-            "endTime": 1761981000000
         }
     ]
 }
