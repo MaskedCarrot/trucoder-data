@@ -1,6 +1,14 @@
 {
     "contests": [
         {
+            "id": 2,
+            "name": "Starters 245",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START245",
+            "startTime": 1782916200000,
+            "endTime": 1782923400000
+        },
+        {
             "id": 3,
             "name": "\u7b2c\u4e03\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29\uff5eAdvance\uff5e -\u4e88\u9078- \uff08AtCoder Beginner Contest 464\uff09",
             "platform": "Atcoder",
@@ -9,12 +17,28 @@
             "endTime": 1782567600000
         },
         {
+            "id": 2,
+            "name": "Starters 244",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START244",
+            "startTime": 1782311400000,
+            "endTime": 1782318600000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 463",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc463",
             "startTime": 1781956800000,
             "endTime": 1781962800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 243",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START243",
+            "startTime": 1781706600000,
+            "endTime": 1781713800000
         },
         {
             "id": 3,
@@ -31,6 +55,14 @@
             "link": "https://atcoder.jp/contests/abc462",
             "startTime": 1781352000000,
             "endTime": 1781358000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 242",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START242",
+            "startTime": 1781101800000,
+            "endTime": 1781109000000
         },
         {
             "id": 3,
@@ -146,7 +178,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 239",
+            "name": "Starters 239 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START239",
             "startTime": 1779287400000,
@@ -2367,38 +2399,6 @@
             "link": "https://codeforces.com/contests/2164",
             "startTime": 1762439700000,
             "endTime": 1762450500000
-        },
-        {
-            "id": 2,
-            "name": "Starters 211 (Rated till 6 - star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START211",
-            "startTime": 1762353000000,
-            "endTime": 1762360200000
-        },
-        {
-            "id": 1,
-            "name": "Testing Round 20 (Unrated, Communication Problems)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2168",
-            "startTime": 1762180500000,
-            "endTime": 1762184100000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 10",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY10",
-            "startTime": 1762173000000,
-            "endTime": 1762183800000
-        },
-        {
-            "id": 3,
-            "name": "FPS 24: 24 Problems on Formal Power Series",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/fps-24",
-            "startTime": 1762142400000,
-            "endTime": 1762160400000
         }
     ]
 }
