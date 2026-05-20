@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 463",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc463",
+            "startTime": 1781956800000,
+            "endTime": 1781962800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest 222",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc222",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/fps-24",
             "startTime": 1762142400000,
             "endTime": 1762160400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 474",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-474",
-            "startTime": 1762050600000,
-            "endTime": 1762056000000
         }
     ]
 }
