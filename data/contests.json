@@ -65,6 +65,14 @@
             "endTime": 1781109000000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 184",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-184",
+            "startTime": 1780756200000,
+            "endTime": 1780761600000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 461",
             "platform": "Atcoder",
@@ -87,6 +95,14 @@
             "link": "https://atcoder.jp/contests/arc221",
             "startTime": 1780228800000,
             "endTime": 1780237800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 504",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-504",
+            "startTime": 1780194600000,
+            "endTime": 1780200000000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/stpc2025_2",
             "startTime": 1762574400000,
             "endTime": 1762592400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 23: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND23",
-            "startTime": 1762540200000,
-            "endTime": 1762713000000
-        },
-        {
-            "id": 3,
-            "name": "HACK TO THE FUTURE 2026 \uff08AtCoder Heuristic Contest 056\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc056",
-            "startTime": 1762509600000,
-            "endTime": 1763373600000
         }
     ]
 }
