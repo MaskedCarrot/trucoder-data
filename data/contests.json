@@ -137,6 +137,14 @@
             "endTime": 1779899400000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 004 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY004",
+            "startTime": 1779712200000,
+            "endTime": 1779723000000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 503",
             "platform": "Leetcode",
@@ -2389,14 +2397,6 @@
             "name": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 1)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/stpc2025_1",
-            "startTime": 1762574400000,
-            "endTime": 1762592400000
-        },
-        {
-            "id": 3,
-            "name": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/stpc2025_2",
             "startTime": 1762574400000,
             "endTime": 1762592400000
         }
