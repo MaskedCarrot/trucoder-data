@@ -65,6 +65,14 @@
             "endTime": 1781109000000
         },
         {
+            "id": 1,
+            "name": "Educational Codeforces Round 191 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2233",
+            "startTime": 1781015700000,
+            "endTime": 1781022900000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 505",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-169",
             "startTime": 1762612200000,
             "endTime": 1762617600000
-        },
-        {
-            "id": 3,
-            "name": "TOYOTA SYSTEMS Programming Contest 2025\uff08AtCoder Beginner Contest 431)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc431",
-            "startTime": 1762603200000,
-            "endTime": 1762609200000
         }
     ]
 }
