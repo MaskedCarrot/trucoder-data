@@ -137,6 +137,14 @@
             "endTime": 1780148400000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 52: Golang Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND52",
+            "startTime": 1780079400000,
+            "endTime": 1780252200000
+        },
+        {
             "id": 3,
             "name": "AtCoder Heuristic Contest 066",
             "platform": "Atcoder",
@@ -146,7 +154,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 240",
+            "name": "Starters 240 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START240",
             "startTime": 1779892200000,
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-475",
             "startTime": 1762655400000,
             "endTime": 1762660800000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 169",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-169",
-            "startTime": 1762612200000,
-            "endTime": 1762617600000
         }
     ]
 }
