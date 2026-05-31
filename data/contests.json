@@ -113,6 +113,14 @@
             "endTime": 1780504200000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 004 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY005",
+            "startTime": 1780317000000,
+            "endTime": 1780327800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest++ 221",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY11",
             "startTime": 1762777800000,
             "endTime": 1762788600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 209 (Div. 1)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc209",
-            "startTime": 1762689600000,
-            "endTime": 1762698600000
         }
     ]
 }
