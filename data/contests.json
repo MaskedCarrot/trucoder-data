@@ -138,7 +138,15 @@
         },
         {
             "id": 2,
-            "name": "Starters 241",
+            "name": "Weekend Dev Challenge 53: .NET projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND53",
+            "startTime": 1780684200000,
+            "endTime": 1780857000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 241 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START241",
             "startTime": 1780497000000,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/joi2026yo1c",
             "startTime": 1763182800000,
             "endTime": 1763187600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 24: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND24",
-            "startTime": 1763145000000,
-            "endTime": 1763317800000
         }
     ]
 }
