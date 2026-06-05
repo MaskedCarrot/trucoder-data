@@ -18,6 +18,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 223",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc223",
+            "startTime": 1782648000000,
+            "endTime": 1782655200000
+        },
+        {
+            "id": 3,
             "name": "\u7b2c\u4e03\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29\uff5eAdvance\uff5e -\u4e88\u9078- \uff08AtCoder Beginner Contest 464\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc464",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc432",
             "startTime": 1763208000000,
             "endTime": 1763214000000
-        },
-        {
-            "id": 3,
-            "name": "JOI 2025/2026 \u4e00\u6b21\u4e88\u9078 (\u7b2c3\u56de) \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joi2026yo1c",
-            "startTime": 1763182800000,
-            "endTime": 1763187600000
         }
     ]
 }
