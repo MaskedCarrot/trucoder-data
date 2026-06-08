@@ -50,6 +50,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 507",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-507",
+            "startTime": 1782009000000,
+            "endTime": 1782014400000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 185",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-185",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-476",
             "startTime": 1763260200000,
             "endTime": 1763265600000
-        },
-        {
-            "id": 1,
-            "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2172",
-            "startTime": 1763257800000,
-            "endTime": 1763275800000
         }
     ]
 }
