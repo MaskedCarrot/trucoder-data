@@ -81,6 +81,14 @@
             "endTime": 1781962800000
         },
         {
+            "id": 1,
+            "name": "Order Capital Round 2 (Codeforces Round, Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2237",
+            "startTime": 1781793300000,
+            "endTime": 1781804100000
+        },
+        {
             "id": 2,
             "name": "Starters 243",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY12",
             "startTime": 1763382600000,
             "endTime": 1763393400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1064 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2165",
-            "startTime": 1763303700000,
-            "endTime": 1763310900000
         }
     ]
 }
