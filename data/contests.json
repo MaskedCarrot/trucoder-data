@@ -10,6 +10,30 @@
         },
         {
             "id": 3,
+            "name": "World Tour Finals 2026 Algorithm\uff08Open Contest\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2026algo-open",
+            "startTime": 1783569600000,
+            "endTime": 1783587600000
+        },
+        {
+            "id": 3,
+            "name": "World Tour Finals 2026 Algorithm",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2026algo",
+            "startTime": 1783562400000,
+            "endTime": 1783587600000
+        },
+        {
+            "id": 3,
+            "name": "World Tour Finals 2026 Heuristic",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2026heuristic",
+            "startTime": 1783382400000,
+            "endTime": 1783504800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 465",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc465",
@@ -2375,30 +2399,6 @@
             "link": "https://cphof.org/standings/tco_mar/2025",
             "startTime": 1763769600000,
             "endTime": 1763769600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 25: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND25",
-            "startTime": 1763749800000,
-            "endTime": 1763922600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1065 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2171",
-            "startTime": 1763649300000,
-            "endTime": 1763658300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 213 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START213",
-            "startTime": 1763562600000,
-            "endTime": 1763569800000
         }
     ]
 }
