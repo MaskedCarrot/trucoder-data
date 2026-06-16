@@ -2,11 +2,27 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 467",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc467",
+            "startTime": 1784376000000,
+            "endTime": 1784382000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 466",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc466",
             "startTime": 1783771200000,
             "endTime": 1783777200000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 186",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-186",
+            "startTime": 1783175400000,
+            "endTime": 1783180800000
         },
         {
             "id": 3,
@@ -31,6 +47,14 @@
             "link": "https://atcoder.jp/contests/arc223",
             "startTime": 1782648000000,
             "endTime": 1782655200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 508",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-508",
+            "startTime": 1782613800000,
+            "endTime": 1782619200000
         },
         {
             "id": 3,
@@ -82,7 +106,7 @@
         },
         {
             "id": 1,
-            "name": "Order Capital Round 2 (Codeforces Round, Div. 1 + Div. 2)",
+            "name": "Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2237",
             "startTime": 1781793300000,
@@ -2375,30 +2399,6 @@
             "link": "https://cphof.org/standings/tco_mar/2025",
             "startTime": 1763769600000,
             "endTime": 1763769600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 25: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND25",
-            "startTime": 1763749800000,
-            "endTime": 1763922600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1065 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2171",
-            "startTime": 1763649300000,
-            "endTime": 1763658300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 213 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START213",
-            "startTime": 1763562600000,
-            "endTime": 1763569800000
         }
     ]
 }
