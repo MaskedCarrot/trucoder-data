@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc068",
+            "startTime": 1784354400000,
+            "endTime": 1784368800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 466",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc466",
@@ -114,7 +122,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 243",
+            "name": "Starters 243 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START243",
             "startTime": 1781706600000,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc433",
             "startTime": 1763812800000,
             "endTime": 1763818800000
-        },
-        {
-            "id": 6,
-            "name": "Topcoder Marathon Match Tournament 2025",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/tco_mar/2025",
-            "startTime": 1763769600000,
-            "endTime": 1763769600000
         }
     ]
 }
