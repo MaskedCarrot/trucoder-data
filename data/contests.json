@@ -113,6 +113,14 @@
             "endTime": 1781962800000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 55: .NET projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND55",
+            "startTime": 1781893800000,
+            "endTime": 1782066600000
+        },
+        {
             "id": 1,
             "name": "Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-170",
             "startTime": 1763821800000,
             "endTime": 1763827200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 433",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc433",
-            "startTime": 1763812800000,
-            "endTime": 1763818800000
         }
     ]
 }
