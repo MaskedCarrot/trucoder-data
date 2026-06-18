@@ -1,6 +1,126 @@
 {
     "contests": [
         {
+            "id": 2,
+            "name": "Starters 250",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START250D",
+            "startTime": 1785940200000,
+            "endTime": 1785947400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 250",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START250C",
+            "startTime": 1785940200000,
+            "endTime": 1785947400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 250",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START250B",
+            "startTime": 1785940200000,
+            "endTime": 1785947400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 250",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START250A",
+            "startTime": 1785940200000,
+            "endTime": 1785947400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 250",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START250",
+            "startTime": 1785940200000,
+            "endTime": 1785947400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 249",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START249D",
+            "startTime": 1785335400000,
+            "endTime": 1785342600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 249",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START249C",
+            "startTime": 1785335400000,
+            "endTime": 1785342600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 249",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START249B",
+            "startTime": 1785335400000,
+            "endTime": 1785342600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 249",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START249A",
+            "startTime": 1785335400000,
+            "endTime": 1785342600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 249",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START249",
+            "startTime": 1785335400000,
+            "endTime": 1785342600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 248",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START248D",
+            "startTime": 1784730600000,
+            "endTime": 1784737800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 248",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START248C",
+            "startTime": 1784730600000,
+            "endTime": 1784737800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 248",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START248B",
+            "startTime": 1784730600000,
+            "endTime": 1784737800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 248",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START248A",
+            "startTime": 1784730600000,
+            "endTime": 1784737800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 248",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START248",
+            "startTime": 1784730600000,
+            "endTime": 1784737800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 467",
             "platform": "Atcoder",
@@ -17,12 +137,60 @@
             "endTime": 1784368800000
         },
         {
+            "id": 2,
+            "name": "Starters 247",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START247",
+            "startTime": 1784125800000,
+            "endTime": 1784133000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 247",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START247A",
+            "startTime": 1784125800000,
+            "endTime": 1784133000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 247",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START247B",
+            "startTime": 1784125800000,
+            "endTime": 1784133000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 247",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START247C",
+            "startTime": 1784125800000,
+            "endTime": 1784133000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 247",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START247D",
+            "startTime": 1784125800000,
+            "endTime": 1784133000000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 466",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc466",
             "startTime": 1783771200000,
             "endTime": 1783777200000
+        },
+        {
+            "id": 2,
+            "name": "Starters 246",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START246",
+            "startTime": 1783521000000,
+            "endTime": 1783528200000
         },
         {
             "id": 4,
@@ -2231,174 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-171",
             "startTime": 1765031400000,
             "endTime": 1765036800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 435",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc435",
-            "startTime": 1765022400000,
-            "endTime": 1765028400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1069 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2174",
-            "startTime": 1765008900000,
-            "endTime": 1765016100000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1069 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2175",
-            "startTime": 1765008900000,
-            "endTime": 1765016100000
-        },
-        {
-            "id": 6,
-            "name": "Yandex Cup 2025 Algorithm",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/ya_algo/2025",
-            "startTime": 1764979200000,
-            "endTime": 1764979200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 27: SQL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND27",
-            "startTime": 1764959400000,
-            "endTime": 1765132200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1068 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2173",
-            "startTime": 1764945300000,
-            "endTime": 1764952500000
-        },
-        {
-            "id": 2,
-            "name": "Starters 215 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START215",
-            "startTime": 1764772200000,
-            "endTime": 1764779400000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 14",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY14",
-            "startTime": 1764592200000,
-            "endTime": 1764603000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 211 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc211",
-            "startTime": 1764504000000,
-            "endTime": 1764511200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 478",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-478",
-            "startTime": 1764469800000,
-            "endTime": 1764475200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1067 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2158",
-            "startTime": 1764426900000,
-            "endTime": 1764434100000
-        },
-        {
-            "id": 3,
-            "name": "\uff33\uff4b\uff59 Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc434",
-            "startTime": 1764417600000,
-            "endTime": 1764423600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Heuristic Contest 057",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc057",
-            "startTime": 1764396000000,
-            "endTime": 1764410400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 26: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND26",
-            "startTime": 1764354600000,
-            "endTime": 1764527400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2170",
-            "startTime": 1764340500000,
-            "endTime": 1764347700000
-        },
-        {
-            "id": 6,
-            "name": "Rayan 2025 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/rayan/2025",
-            "startTime": 1764288000000,
-            "endTime": 1764288000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 214 (Unrated)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START214",
-            "startTime": 1764168300000,
-            "endTime": 1764175500000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 13",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY13",
-            "startTime": 1763987400000,
-            "endTime": 1763998200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1066 (Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2157",
-            "startTime": 1763890500000,
-            "endTime": 1763901300000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 477",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-477",
-            "startTime": 1763865000000,
-            "endTime": 1763870400000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 170",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-170",
-            "startTime": 1763821800000,
-            "endTime": 1763827200000
         }
     ]
 }
