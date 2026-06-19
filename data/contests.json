@@ -89,6 +89,14 @@
             "endTime": 1782923400000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2238",
+            "startTime": 1782657300000,
+            "endTime": 1782664500000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest 223",
             "platform": "Atcoder",
@@ -103,6 +111,22 @@
             "link": "https://leetcode.com/contest/weekly-contest-508",
             "startTime": 1782613800000,
             "endTime": 1782619200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2239",
+            "startTime": 1782570900000,
+            "endTime": 1782579900000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2240",
+            "startTime": 1782570900000,
+            "endTime": 1782579900000
         },
         {
             "id": 3,
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc057",
             "startTime": 1764396000000,
             "endTime": 1764410400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 26: Frontend Essentials - HTML,CSS,JS",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND26",
-            "startTime": 1764354600000,
-            "endTime": 1764527400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2170",
-            "startTime": 1764340500000,
-            "endTime": 1764347700000
-        },
-        {
-            "id": 6,
-            "name": "Rayan 2025 World Finals",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/rayan/2025",
-            "startTime": 1764288000000,
-            "endTime": 1764288000000
         }
     ]
 }
