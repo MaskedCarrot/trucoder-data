@@ -57,12 +57,36 @@
             "endTime": 1783777200000
         },
         {
+            "id": 3,
+            "name": "World Tour Finals 2026 Algorithm",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2026algo",
+            "startTime": 1783562400000,
+            "endTime": 1783587600000
+        },
+        {
+            "id": 3,
+            "name": "World Tour Finals 2026 Algorithm\uff08Open Contest\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2026algo-open",
+            "startTime": 1783562400000,
+            "endTime": 1783587600000
+        },
+        {
             "id": 2,
             "name": "Starters 246",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START246",
             "startTime": 1783521000000,
             "endTime": 1783528200000
+        },
+        {
+            "id": 3,
+            "name": "World Tour Finals 2026 Heuristic",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/awtf2026heuristic",
+            "startTime": 1783382400000,
+            "endTime": 1783504800000
         },
         {
             "id": 4,
@@ -2375,30 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc211",
             "startTime": 1764504000000,
             "endTime": 1764511200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 478",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-478",
-            "startTime": 1764469800000,
-            "endTime": 1764475200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1067 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2158",
-            "startTime": 1764426900000,
-            "endTime": 1764434100000
-        },
-        {
-            "id": 3,
-            "name": "\uff33\uff4b\uff59 Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc434",
-            "startTime": 1764417600000,
-            "endTime": 1764423600000
         }
     ]
 }
