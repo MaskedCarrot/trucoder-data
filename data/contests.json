@@ -114,6 +114,14 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2241",
+            "startTime": 1782830100000,
+            "endTime": 1782838200000
+        },
+        {
+            "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2238",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY14",
             "startTime": 1764592200000,
             "endTime": 1764603000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 211 (Div. 2)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc211",
-            "startTime": 1764504000000,
-            "endTime": 1764511200000
         }
     ]
 }
