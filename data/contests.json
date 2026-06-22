@@ -17,6 +17,14 @@
             "endTime": 1785342600000
         },
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 468",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc468",
+            "startTime": 1784980800000,
+            "endTime": 1784986800000
+        },
+        {
             "id": 2,
             "name": "Starters 248",
             "platform": "Codechef",
@@ -162,7 +170,7 @@
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e03\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29\uff5eAdvance\uff5e -\u4e88\u9078- \uff08AtCoder Beginner Contest 464\uff09",
+            "name": "Japanese Student Championship 2026 -Advance- Qualification (AtCoder Beginner Contest 464)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc464",
             "startTime": 1782561600000,
@@ -250,7 +258,7 @@
         },
         {
             "id": 3,
-            "name": "AtCoder Regular Contest 222",
+            "name": "Japanese Student Championship 2026 Qualification (AtCoder Regular Contest 222)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc222",
             "startTime": 1781438400000,
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START215",
             "startTime": 1764772200000,
             "endTime": 1764779400000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 14",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY14",
-            "startTime": 1764592200000,
-            "endTime": 1764603000000
         }
     ]
 }
