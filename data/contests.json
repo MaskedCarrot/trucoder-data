@@ -105,14 +105,6 @@
             "endTime": 1783355700000
         },
         {
-            "id": 1,
-            "name": "Educational Codeforces Round 192 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2243",
-            "startTime": 1783348500000,
-            "endTime": 1783355700000
-        },
-        {
             "id": 4,
             "name": "Biweekly Contest 186",
             "platform": "Leetcode",
@@ -2399,6 +2391,14 @@
             "link": "https://www.codechef.com/DEVWEEKEND27",
             "startTime": 1764959400000,
             "endTime": 1765132200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 1068 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2173",
+            "startTime": 1764945300000,
+            "endTime": 1764952500000
         }
     ]
 }
