@@ -186,7 +186,15 @@
         },
         {
             "id": 2,
-            "name": "Starters 244",
+            "name": "Weekend Dev Challenge 56: .NET projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND56",
+            "startTime": 1782498600000,
+            "endTime": 1782671400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 244 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START244",
             "startTime": 1782311400000,
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND27",
             "startTime": 1764959400000,
             "endTime": 1765132200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1068 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2173",
-            "startTime": 1764945300000,
-            "endTime": 1764952500000
         }
     ]
 }
