@@ -153,6 +153,14 @@
             "endTime": 1783355700000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 010 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY010",
+            "startTime": 1783344600000,
+            "endTime": 1783355400000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 509",
             "platform": "Leetcode",
@@ -175,6 +183,14 @@
             "link": "https://atcoder.jp/contests/abc465",
             "startTime": 1783166400000,
             "endTime": 1783172400000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 57: .NET projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND57",
+            "startTime": 1783103400000,
+            "endTime": 1783276200000
         },
         {
             "id": 2,
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2176",
             "startTime": 1765463700000,
             "endTime": 1765470900000
-        },
-        {
-            "id": 2,
-            "name": "Starters 216 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START216",
-            "startTime": 1765377000000,
-            "endTime": 1765384200000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 15",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY15",
-            "startTime": 1765197000000,
-            "endTime": 1765207800000
         }
     ]
 }
