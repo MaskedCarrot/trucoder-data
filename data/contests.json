@@ -49,6 +49,14 @@
             "endTime": 1784469600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2247",
+            "startTime": 1784385300000,
+            "endTime": 1784392500000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 187",
             "platform": "Leetcode",
@@ -79,6 +87,14 @@
             "link": "https://www.codechef.com/START247",
             "startTime": 1784125800000,
             "endTime": 1784133000000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2246",
+            "startTime": 1783866900000,
+            "endTime": 1783875000000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/ajo2025-final-open",
             "startTime": 1765587600000,
             "endTime": 1765602000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 28: SQL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND28",
-            "startTime": 1765564200000,
-            "endTime": 1765737000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1070 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2176",
-            "startTime": 1765463700000,
-            "endTime": 1765470900000
         }
     ]
 }
