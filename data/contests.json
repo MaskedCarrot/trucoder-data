@@ -114,6 +114,14 @@
         },
         {
             "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2244",
+            "startTime": 1784039700000,
+            "endTime": 1784047800000
+        },
+        {
+            "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2246",
@@ -143,14 +151,6 @@
             "link": "https://atcoder.jp/contests/abc466",
             "startTime": 1783771200000,
             "endTime": 1783777200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2244",
-            "startTime": 1783694100000,
-            "endTime": 1783702200000
         },
         {
             "id": 3,
