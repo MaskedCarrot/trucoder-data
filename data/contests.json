@@ -65,6 +65,14 @@
             "endTime": 1784469600000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 511",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-511",
+            "startTime": 1784428200000,
+            "endTime": 1784433600000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc058",
             "startTime": 1765692000000,
             "endTime": 1765706400000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 480",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-480",
-            "startTime": 1765679400000,
-            "endTime": 1765684800000
         }
     ]
 }
