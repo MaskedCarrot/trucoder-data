@@ -153,6 +153,14 @@
             "endTime": 1783777200000
         },
         {
+            "id": 2,
+            "name": "Weekend Dev Challenge 58: LLD Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND58",
+            "startTime": 1783708200000,
+            "endTime": 1783881000000
+        },
+        {
             "id": 3,
             "name": "World Tour Finals 2026 Algorithm",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY16",
             "startTime": 1765801800000,
             "endTime": 1765812600000
-        },
-        {
-            "id": 3,
-            "name": "ALGO ARTIS Programming Contest 2025 December\uff08AtCoder Heuristic Contest 058\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc058",
-            "startTime": 1765692000000,
-            "endTime": 1765706400000
         }
     ]
 }
