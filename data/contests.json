@@ -2,7 +2,7 @@
     "contests": [
         {
             "id": 3,
-            "name": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Beginner Contest 226)",
+            "name": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc226",
             "startTime": 1786276800000,
