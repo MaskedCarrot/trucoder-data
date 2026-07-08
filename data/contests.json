@@ -137,6 +137,14 @@
             "endTime": 1784047800000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 011 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY011",
+            "startTime": 1783949400000,
+            "endTime": 1783960200000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2180",
             "startTime": 1766154900000,
             "endTime": 1766163900000
-        },
-        {
-            "id": 2,
-            "name": "Starters 217 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START217",
-            "startTime": 1765981800000,
-            "endTime": 1765989000000
         }
     ]
 }
