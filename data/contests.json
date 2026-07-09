@@ -130,7 +130,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1109 (Div. 3)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2244",
             "startTime": 1784039700000,
@@ -146,7 +146,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1108 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2246",
             "startTime": 1783866900000,
@@ -201,6 +201,14 @@
             "endTime": 1783587600000
         },
         {
+            "id": 6,
+            "name": "AtCoder World Tour Finals 2026 Algorithm",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/atcoder_wt/2026",
+            "startTime": 1783555200000,
+            "endTime": 1783555200000
+        },
+        {
             "id": 2,
             "name": "Starters 246 (Rated till 4 Star)",
             "platform": "Codechef",
@@ -215,6 +223,14 @@
             "link": "https://atcoder.jp/contests/awtf2026heuristic",
             "startTime": 1783382400000,
             "endTime": 1783504800000
+        },
+        {
+            "id": 6,
+            "name": "AtCoder World Tour Finals 2026 Heuristic",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/atcoder_wth/2026",
+            "startTime": 1783382400000,
+            "endTime": 1783382400000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://cphof.org/standings/fhc/2025",
             "startTime": 1766188800000,
             "endTime": 1766188800000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 29: SQL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND29",
-            "startTime": 1766169000000,
-            "endTime": 1766341800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2180",
-            "startTime": 1766154900000,
-            "endTime": 1766163900000
         }
     ]
 }
