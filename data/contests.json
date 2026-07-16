@@ -41,6 +41,14 @@
             "endTime": 1785591300000
         },
         {
+            "id": 3,
+            "name": "CodeQUEEN 2026 \u6c7a\u52dd",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/codequeen2026-final-Public",
+            "startTime": 1785556800000,
+            "endTime": 1785564000000
+        },
+        {
             "id": 2,
             "name": "Placement Prep Weekends - 01",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY17",
             "startTime": 1766406600000,
             "endTime": 1766417400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Grand Contest 075",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/agc075",
-            "startTime": 1766318400000,
-            "endTime": 1766329200000
         }
     ]
 }
