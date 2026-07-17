@@ -25,6 +25,14 @@
             "endTime": 1785947400000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 188",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-188",
+            "startTime": 1785594600000,
+            "endTime": 1785600000000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 469",
             "platform": "Atcoder",
@@ -71,6 +79,14 @@
             "link": "https://www.codechef.com/START249",
             "startTime": 1785335400000,
             "endTime": 1785342600000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 512",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-512",
+            "startTime": 1785033000000,
+            "endTime": 1785038400000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/xmascon25",
             "startTime": 1766570400000,
             "endTime": 1766584800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1071 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2179",
-            "startTime": 1766501100000,
-            "endTime": 1766510100000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 17",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY17",
-            "startTime": 1766406600000,
-            "endTime": 1766417400000
         }
     ]
 }
