@@ -81,6 +81,22 @@
             "endTime": 1785342600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2249",
+            "startTime": 1785076500000,
+            "endTime": 1785085500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2250",
+            "startTime": 1785076500000,
+            "endTime": 1785085500000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 512",
             "platform": "Leetcode",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2177",
             "startTime": 1766746800000,
             "endTime": 1768129200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 218 (Rated till 5 stars)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START218",
-            "startTime": 1766586600000,
-            "endTime": 1766593800000
-        },
-        {
-            "id": 3,
-            "name": "Xmas Contest 2025",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/xmascon25",
-            "startTime": 1766570400000,
-            "endTime": 1766584800000
         }
     ]
 }
