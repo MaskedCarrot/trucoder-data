@@ -26,6 +26,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 513",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-513",
+            "startTime": 1785637800000,
+            "endTime": 1785643200000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 188",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-188",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND30",
             "startTime": 1766773800000,
             "endTime": 1766946600000
-        },
-        {
-            "id": 1,
-            "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2177",
-            "startTime": 1766746800000,
-            "endTime": 1768129200000
         }
     ]
 }
