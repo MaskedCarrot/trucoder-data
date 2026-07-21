@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 227",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc227",
+            "startTime": 1786881600000,
+            "endTime": 1786888800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 471",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc471",
@@ -135,6 +143,14 @@
             "link": "https://atcoder.jp/contests/abc468",
             "startTime": 1784980800000,
             "endTime": 1784986800000
+        },
+        {
+            "id": 2,
+            "name": "Weekend Dev Challenge 60: LLD Projects",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEVWEEKEND60",
+            "startTime": 1784917800000,
+            "endTime": 1785090600000
         },
         {
             "id": 2,
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-482",
             "startTime": 1766889000000,
             "endTime": 1766894400000
-        },
-        {
-            "id": 1,
-            "name": "Good Bye 2025",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2178",
-            "startTime": 1766846100000,
-            "endTime": 1766856900000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 438",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc438",
-            "startTime": 1766836800000,
-            "endTime": 1766842800000
         }
     ]
 }
