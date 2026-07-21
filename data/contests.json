@@ -1,6 +1,22 @@
 {
     "contests": [
         {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 474",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc474",
+            "startTime": 1788667800000,
+            "endTime": 1788673800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 471",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc471",
+            "startTime": 1786795200000,
+            "endTime": 1786801200000
+        },
+        {
             "id": 2,
             "name": "Starters 251",
             "platform": "Codechef",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc438",
             "startTime": 1766836800000,
             "endTime": 1766842800000
-        },
-        {
-            "id": 2,
-            "name": "ICPC Kanpur 2025 Onsite - Replay Round",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/ICPCKANRP25",
-            "startTime": 1766809800000,
-            "endTime": 1766827800000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 30: SQL Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND30",
-            "startTime": 1766773800000,
-            "endTime": 1766946600000
         }
     ]
 }
