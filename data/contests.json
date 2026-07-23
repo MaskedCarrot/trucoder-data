@@ -41,6 +41,14 @@
             "endTime": 1786284000000
         },
         {
+            "id": 3,
+            "name": "JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc470",
+            "startTime": 1786190400000,
+            "endTime": 1786196400000
+        },
+        {
             "id": 2,
             "name": "Starters 250",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY18",
             "startTime": 1767011400000,
             "endTime": 1767022200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Grand Contest 076",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/agc076",
-            "startTime": 1766923200000,
-            "endTime": 1766934000000
         }
     ]
 }
