@@ -82,17 +82,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2252",
-            "startTime": 1786026900000,
-            "endTime": 1786034100000
-        },
-        {
-            "id": 1,
             "name": "Educational Codeforces Round 193 (Rated for Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2253",
+            "startTime": 1786113300000,
+            "endTime": 1786120500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2252",
             "startTime": 1786026900000,
             "endTime": 1786034100000
         },
