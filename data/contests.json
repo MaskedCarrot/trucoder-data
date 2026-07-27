@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 473",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc473",
+            "startTime": 1788004800000,
+            "endTime": 1788010800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest 227",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc227",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/ICPCCHNRP25",
             "startTime": 1767155400000,
             "endTime": 1767173400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2182",
-            "startTime": 1767018900000,
-            "endTime": 1767026100000
         }
     ]
 }
