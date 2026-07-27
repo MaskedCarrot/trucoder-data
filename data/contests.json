@@ -18,11 +18,27 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 472",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc472",
+            "startTime": 1787400000000,
+            "endTime": 1787406000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest 227",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc227",
             "startTime": 1786881600000,
             "endTime": 1786888800000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 189",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-189",
+            "startTime": 1786804200000,
+            "endTime": 1786809600000
         },
         {
             "id": 3,
@@ -49,6 +65,14 @@
             "endTime": 1786284000000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 514",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-514",
+            "startTime": 1786242600000,
+            "endTime": 1786248000000
+        },
+        {
             "id": 3,
             "name": "JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
             "platform": "Atcoder",
@@ -61,6 +85,14 @@
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2252",
+            "startTime": 1786026900000,
+            "endTime": 1786034100000
+        },
+        {
+            "id": 1,
+            "name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2253",
             "startTime": 1786026900000,
             "endTime": 1786034100000
         },
@@ -98,7 +130,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1113 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2248",
             "startTime": 1785584100000,
@@ -2367,38 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc439",
             "startTime": 1767441600000,
             "endTime": 1767447600000
-        },
-        {
-            "id": 2,
-            "name": "ICPC Amritapuri 2025 - Onsite Round Replay",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/ICPCAMRRP25",
-            "startTime": 1767414600000,
-            "endTime": 1767432600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 31: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND31",
-            "startTime": 1767378600000,
-            "endTime": 1767551400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 219 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START219",
-            "startTime": 1767191400000,
-            "endTime": 1767198600000
-        },
-        {
-            "id": 2,
-            "name": "ICPC Chennai 2025 Onsite - Replay Round",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/ICPCCHNRP25",
-            "startTime": 1767155400000,
-            "endTime": 1767173400000
         }
     ]
 }
