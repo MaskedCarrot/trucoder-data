@@ -18,6 +18,14 @@
         },
         {
             "id": 3,
+            "name": "13th Asprova Programming Contest\uff08AtCoder Heuristic Contest 070\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc070",
+            "startTime": 1787983200000,
+            "endTime": 1787997600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 472",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc472",
@@ -105,6 +113,14 @@
             "endTime": 1785947400000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 014 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY014",
+            "startTime": 1785763800000,
+            "endTime": 1785774600000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 513",
             "platform": "Leetcode",
@@ -162,11 +178,11 @@
         },
         {
             "id": 2,
-            "name": "Starters 249",
+            "name": "Starters 249 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START249",
             "startTime": 1785335400000,
-            "endTime": 1785342600000
+            "endTime": 1785344400000
         },
         {
             "id": 2,
@@ -2383,22 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-483",
             "startTime": 1767493800000,
             "endTime": 1767502200000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 173",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-173",
-            "startTime": 1767450600000,
-            "endTime": 1767456000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 439",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc439",
-            "startTime": 1767441600000,
-            "endTime": 1767447600000
         }
     ]
 }
