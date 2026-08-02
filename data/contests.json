@@ -73,6 +73,22 @@
             "endTime": 1786552200000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2255",
+            "startTime": 1786286100000,
+            "endTime": 1786293300000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2256",
+            "startTime": 1786286100000,
+            "endTime": 1786293300000
+        },
+        {
             "id": 3,
             "name": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
             "platform": "Atcoder",
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND32",
             "startTime": 1767983400000,
             "endTime": 1768156200000
-        },
-        {
-            "id": 1,
-            "name": "Hello 2026",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2183",
-            "startTime": 1767796500000,
-            "endTime": 1767807300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 220 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START220",
-            "startTime": 1767796200000,
-            "endTime": 1767803400000
         }
     ]
 }
