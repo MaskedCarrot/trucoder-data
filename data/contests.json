@@ -78,7 +78,7 @@
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2255",
             "startTime": 1786286100000,
-            "endTime": 1786293300000
+            "endTime": 1786295100000
         },
         {
             "id": 1,
@@ -86,7 +86,7 @@
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2256",
             "startTime": 1786286100000,
-            "endTime": 1786293300000
+            "endTime": 1786295100000
         },
         {
             "id": 3,
@@ -111,6 +111,14 @@
             "link": "https://atcoder.jp/contests/abc470",
             "startTime": 1786190400000,
             "endTime": 1786196400000
+        },
+        {
+            "id": 2,
+            "name": "Placement Prep Weekends - 02",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP02",
+            "startTime": 1786127400000,
+            "endTime": 1786307340000
         },
         {
             "id": 1,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc059",
             "startTime": 1768024800000,
             "endTime": 1768039200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 32: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND32",
-            "startTime": 1767983400000,
-            "endTime": 1768156200000
         }
     ]
 }
