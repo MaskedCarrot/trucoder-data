@@ -81,6 +81,14 @@
             "endTime": 1786552200000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 015 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY015",
+            "startTime": 1786368600000,
+            "endTime": 1786379400000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1116 (Div. 1)",
             "platform": "Codeforces",
@@ -126,7 +134,7 @@
             "platform": "Codechef",
             "link": "https://www.codechef.com/PLACEPREP02",
             "startTime": 1786127400000,
-            "endTime": 1786307340000
+            "endTime": 1786310940000
         },
         {
             "id": 1,
@@ -146,7 +154,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 250",
+            "name": "Starters 250 (Rated till 5 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START250",
             "startTime": 1785940200000,
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-484",
             "startTime": 1768098600000,
             "endTime": 1768104000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 440",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc440",
-            "startTime": 1768046400000,
-            "endTime": 1768052400000
         }
     ]
 }
