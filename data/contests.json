@@ -81,6 +81,14 @@
             "endTime": 1786801200000
         },
         {
+            "id": 2,
+            "name": "Placement Prep Weekends - 03",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP03",
+            "startTime": 1786732200000,
+            "endTime": 1786912140000
+        },
+        {
             "id": 1,
             "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2184",
             "startTime": 1768228500000,
             "endTime": 1768236600000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 20",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY20",
-            "startTime": 1768221000000,
-            "endTime": 1768231800000
         }
     ]
 }
