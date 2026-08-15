@@ -105,6 +105,14 @@
             "endTime": 1787914800000
         },
         {
+            "id": 6,
+            "name": "IOI 2026",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/ioi/2026",
+            "startTime": 1786579200000,
+            "endTime": 1786579200000
+        },
+        {
             "id": 2,
             "name": "Starters 251 (Rated till 6 stars)",
             "platform": "Codechef",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND33",
             "startTime": 1768588200000,
             "endTime": 1768761000000
-        },
-        {
-            "id": 2,
-            "name": "Starters 221 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START221",
-            "startTime": 1768401000000,
-            "endTime": 1768408200000
         }
     ]
 }
