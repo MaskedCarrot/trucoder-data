@@ -9,6 +9,14 @@
             "endTime": 1788673800000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 190",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-190",
+            "startTime": 1788013800000,
+            "endTime": 1788019200000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 473",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc441",
             "startTime": 1768651200000,
             "endTime": 1768657200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 33: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND33",
-            "startTime": 1768588200000,
-            "endTime": 1768761000000
         }
     ]
 }
