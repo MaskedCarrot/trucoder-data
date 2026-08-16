@@ -41,6 +41,14 @@
             "endTime": 1787472600000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 516",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-516",
+            "startTime": 1787452200000,
+            "endTime": 1787457600000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 472",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/biweekly-contest-174",
             "startTime": 1768660200000,
             "endTime": 1768665600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc441",
-            "startTime": 1768651200000,
-            "endTime": 1768657200000
         }
     ]
 }
