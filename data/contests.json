@@ -66,6 +66,14 @@
         },
         {
             "id": 2,
+            "name": "Placement Prep Weekends - 04",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP04",
+            "startTime": 1787337042000,
+            "endTime": 1787516940000
+        },
+        {
+            "id": 2,
             "name": "Starters 252",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START252",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/guildfes-2026-qual",
             "startTime": 1768698000000,
             "endTime": 1768701600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1073 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2190",
-            "startTime": 1768660500000,
-            "endTime": 1768671300000
         }
     ]
 }
