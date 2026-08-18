@@ -57,6 +57,14 @@
             "endTime": 1787406000000
         },
         {
+            "id": 2,
+            "name": "Starters 252",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START252",
+            "startTime": 1787149800000,
+            "endTime": 1787157000000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1117 (Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2191",
             "startTime": 1768660500000,
             "endTime": 1768671300000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 174",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-174",
-            "startTime": 1768660200000,
-            "endTime": 1768665600000
         }
     ]
 }
