@@ -9,6 +9,14 @@
             "endTime": 1788673800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2258",
+            "startTime": 1788014100000,
+            "endTime": 1788021300000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 190",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/guildfes-2026-final",
             "startTime": 1768718700000,
             "endTime": 1768723200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 485",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-485",
-            "startTime": 1768703400000,
-            "endTime": 1768708800000
         }
     ]
 }
