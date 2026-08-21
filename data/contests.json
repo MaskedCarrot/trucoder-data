@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Heuristic Contest 071",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc071",
+            "startTime": 1789293600000,
+            "endTime": 1789308000000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 475",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc475",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY21",
             "startTime": 1768825800000,
             "endTime": 1768836600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1074 (Div. 4)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2185",
-            "startTime": 1768746900000,
-            "endTime": 1768755000000
         }
     ]
 }
