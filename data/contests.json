@@ -5,8 +5,8 @@
             "name": "\u7d44\u5408\u305b\u30b2\u30fc\u30e0 24 \u984c",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/game-24",
-            "startTime": 1790395200000,
-            "endTime": 1790413200000
+            "startTime": 1791086400000,
+            "endTime": 1791104400000
         },
         {
             "id": 3,
@@ -55,6 +55,14 @@
             "link": "https://atcoder.jp/contests/arc228",
             "startTime": 1788091200000,
             "endTime": 1788100200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 517",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-517",
+            "startTime": 1788057000000,
+            "endTime": 1788062400000
         },
         {
             "id": 1,
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-486",
             "startTime": 1769308200000,
             "endTime": 1769313600000
-        },
-        {
-            "id": 3,
-            "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc442",
-            "startTime": 1769256000000,
-            "endTime": 1769262000000
         }
     ]
 }
