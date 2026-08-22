@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest++ 230",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc230",
+            "startTime": 1789905600000,
+            "endTime": 1789914600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Heuristic Contest 071",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc071",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc442",
             "startTime": 1769256000000,
             "endTime": 1769262000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 34: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND34",
-            "startTime": 1769193000000,
-            "endTime": 1769365800000
         }
     ]
 }
