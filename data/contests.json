@@ -89,6 +89,14 @@
             "endTime": 1788366600000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 018 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY018",
+            "startTime": 1788183000000,
+            "endTime": 1788193800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest++ 228",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND35",
             "startTime": 1769797800000,
             "endTime": 1769970600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1077 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2187",
-            "startTime": 1769697300000,
-            "endTime": 1769708100000
         }
     ]
 }
