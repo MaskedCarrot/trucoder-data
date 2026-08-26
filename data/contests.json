@@ -138,7 +138,15 @@
         },
         {
             "id": 2,
-            "name": "Starters 253",
+            "name": "Placement Prep Weekends - 05",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP05",
+            "startTime": 1787941826000,
+            "endTime": 1788123540000
+        },
+        {
+            "id": 2,
+            "name": "Starters 253 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START253",
             "startTime": 1787754600000,
@@ -2389,14 +2397,6 @@
             "name": "Codeforces Round 1077 (Div. 1)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2187",
-            "startTime": 1769697300000,
-            "endTime": 1769708100000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1077 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2188",
             "startTime": 1769697300000,
             "endTime": 1769708100000
         }
