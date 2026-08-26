@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "ALGO ARTIS Programming Contest 2026 September\uff08AtCoder Heuristic Contest 072\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc072",
+            "startTime": 1790330400000,
+            "endTime": 1791194400000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest++ 230",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc230",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2188",
             "startTime": 1769697300000,
             "endTime": 1769708100000
-        },
-        {
-            "id": 2,
-            "name": "Starters 223 (Unrated)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START223",
-            "startTime": 1769610600000,
-            "endTime": 1769617800000
         }
     ]
 }
