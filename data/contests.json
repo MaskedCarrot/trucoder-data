@@ -1,6 +1,22 @@
 {
     "contests": [
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2261",
+            "startTime": 1792247700000,
+            "endTime": 1792258500000
+        },
+        {
+            "id": 3,
+            "name": "",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/aalc001\">AAL Contest 001: Let",
+            "startTime": 1791777600000,
+            "endTime": 1791795600000
+        },
+        {
             "id": 3,
             "name": "\u7d44\u5408\u305b\u30b2\u30fc\u30e0 24 \u984c",
             "platform": "Atcoder",
@@ -9,12 +25,28 @@
             "endTime": 1791104400000
         },
         {
+            "id": 2,
+            "name": "Starters 255",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START258",
+            "startTime": 1790778600000,
+            "endTime": 1790785800000
+        },
+        {
             "id": 3,
             "name": "ALGO ARTIS Programming Contest 2026 September\uff08AtCoder Heuristic Contest 072\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc072",
             "startTime": 1790330400000,
             "endTime": 1791194400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 255",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START257",
+            "startTime": 1790173800000,
+            "endTime": 1790181000000
         },
         {
             "id": 3,
@@ -41,6 +73,14 @@
             "endTime": 1789736400000
         },
         {
+            "id": 2,
+            "name": "Starters 256",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START256",
+            "startTime": 1789569000000,
+            "endTime": 1789576200000
+        },
+        {
             "id": 3,
             "name": "AtCoder Heuristic Contest 071",
             "platform": "Atcoder",
@@ -55,6 +95,14 @@
             "link": "https://atcoder.jp/contests/abc475",
             "startTime": 1789214400000,
             "endTime": 1789220400000
+        },
+        {
+            "id": 2,
+            "name": "Starters 255",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START255",
+            "startTime": 1788964200000,
+            "endTime": 1788971400000
         },
         {
             "id": 1,
@@ -2351,54 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND3A",
             "startTime": 1770194135000,
             "endTime": 1770197735000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 23",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY23",
-            "startTime": 1770035400000,
-            "endTime": 1770046200000
-        },
-        {
-            "id": 3,
-            "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc060",
-            "startTime": 1769940000000,
-            "endTime": 1769954400000
-        },
-        {
-            "id": 3,
-            "name": "JOI 2025/2026 \u30bb\u30df\u30d5\u30a1\u30a4\u30ca\u30eb\u30b9\u30c6\u30fc\u30b8 \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joi2026sf",
-            "startTime": 1769918400000,
-            "endTime": 1769932800000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 487",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-487",
-            "startTime": 1769913000000,
-            "endTime": 1769918400000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 175",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-175",
-            "startTime": 1769869800000,
-            "endTime": 1769875200000
-        },
-        {
-            "id": 3,
-            "name": "Denso Create Programming Contest 2026\uff08AtCoder Beginner Contest 443\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc443",
-            "startTime": 1769860800000,
-            "endTime": 1769866800000
         }
     ]
 }
