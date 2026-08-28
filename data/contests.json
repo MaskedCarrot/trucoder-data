@@ -34,6 +34,14 @@
         },
         {
             "id": 3,
+            "name": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc477",
+            "startTime": 1790424000000,
+            "endTime": 1790430000000
+        },
+        {
+            "id": 3,
             "name": "ALGO ARTIS Programming Contest 2026 September\uff08AtCoder Heuristic Contest 072\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc072",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START224",
             "startTime": 1770215400000,
             "endTime": 1770222600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 35: Data Analysis & Visualization Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND3A",
-            "startTime": 1770194135000,
-            "endTime": 1770197735000
         }
     ]
 }
