@@ -97,6 +97,14 @@
             "endTime": 1789308000000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 191",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-191",
+            "startTime": 1789223400000,
+            "endTime": 1789228800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 475",
             "platform": "Atcoder",
@@ -127,6 +135,14 @@
             "link": "https://atcoder.jp/contests/abc474",
             "startTime": 1788667800000,
             "endTime": 1788673800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 518",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-518",
+            "startTime": 1788661800000,
+            "endTime": 1788667200000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc444",
             "startTime": 1770465600000,
             "endTime": 1770471600000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 36: Spring Boot Projects",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND36",
-            "startTime": 1770402600000,
-            "endTime": 1770575400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 224 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START224",
-            "startTime": 1770215400000,
-            "endTime": 1770222600000
         }
     ]
 }
