@@ -162,6 +162,14 @@
         },
         {
             "id": 2,
+            "name": "Placement Prep Weekends - 06",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP06",
+            "startTime": 1788546615000,
+            "endTime": 1788728340000
+        },
+        {
+            "id": 2,
             "name": "Starters 254",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START254",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-488",
             "startTime": 1770517800000,
             "endTime": 1770523200000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 444",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc444",
-            "startTime": 1770465600000,
-            "endTime": 1770471600000
         }
     ]
 }
