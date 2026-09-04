@@ -113,6 +113,22 @@
             "endTime": 1789308000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2262",
+            "startTime": 1789223700000,
+            "endTime": 1789234500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2263",
+            "startTime": 1789223700000,
+            "endTime": 1789234500000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 191",
             "platform": "Leetcode",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2196",
             "startTime": 1770820500000,
             "endTime": 1770831300000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1079 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2197",
-            "startTime": 1770820500000,
-            "endTime": 1770831300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 225 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START225",
-            "startTime": 1770820200000,
-            "endTime": 1770827400000
         }
     ]
 }
