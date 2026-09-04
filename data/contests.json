@@ -145,6 +145,14 @@
             "endTime": 1788673800000
         },
         {
+            "id": 3,
+            "name": "\u7b2c\u4e03\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29\uff5eAdvance\uff5e",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/jsc2026advance-final",
+            "startTime": 1788667800000,
+            "endTime": 1788673800000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 518",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/arc214",
             "startTime": 1770552000000,
             "endTime": 1770559200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1078 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2194",
-            "startTime": 1770541500000,
-            "endTime": 1770548700000
         }
     ]
 }
