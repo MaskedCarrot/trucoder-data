@@ -34,6 +34,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Grand Contest 078",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc078",
+            "startTime": 1790510400000,
+            "endTime": 1790523000000
+        },
+        {
+            "id": 3,
             "name": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc477",
@@ -63,6 +71,14 @@
             "link": "https://atcoder.jp/contests/arc230",
             "startTime": 1789905600000,
             "endTime": 1789914600000
+        },
+        {
+            "id": 3,
+            "name": "JIJ Programming Contest 2026\uff08AtCoder Beginner Contest 476\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc476",
+            "startTime": 1789819200000,
+            "endTime": 1789825200000
         },
         {
             "id": 3,
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/START225",
             "startTime": 1770820200000,
             "endTime": 1770827400000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 24",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY24",
-            "startTime": 1770640200000,
-            "endTime": 1770651000000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 214",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc214",
-            "startTime": 1770552000000,
-            "endTime": 1770559200000
         }
     ]
 }
