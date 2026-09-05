@@ -18,6 +18,22 @@
         },
         {
             "id": 3,
+            "name": "bogosort Programming Contest (Div. 1)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/bogosortcontest_div1",
+            "startTime": 1791691200000,
+            "endTime": 1791709200000
+        },
+        {
+            "id": 3,
+            "name": "bogosort Programming Contest (Div. 2)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/bogosortcontest_div2",
+            "startTime": 1791691200000,
+            "endTime": 1791709200000
+        },
+        {
+            "id": 3,
             "name": "\u7d44\u5408\u305b\u30b2\u30fc\u30e0 24 \u984c",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/game-24",
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc061",
             "startTime": 1770976800000,
             "endTime": 1771840800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Blitz Cup 2026",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/blog/entry/150813",
-            "startTime": 1770940800000,
-            "endTime": 1772409600000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1079 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2196",
-            "startTime": 1770820500000,
-            "endTime": 1770831300000
         }
     ]
 }
