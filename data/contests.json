@@ -89,6 +89,14 @@
             "endTime": 1789914600000
         },
         {
+            "id": 4,
+            "name": "Weekly Contest 520",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-520",
+            "startTime": 1789871400000,
+            "endTime": 1789876800000
+        },
+        {
             "id": 3,
             "name": "JIJ Programming Contest 2026\uff08AtCoder Beginner Contest 476\uff09",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc445",
             "startTime": 1771070400000,
             "endTime": 1771076400000
-        },
-        {
-            "id": 3,
-            "name": "UTPC 2025",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/utpc2025",
-            "startTime": 1771041600000,
-            "endTime": 1771059600000
         }
     ]
 }
