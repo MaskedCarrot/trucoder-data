@@ -34,6 +34,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 232 (Div.1)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc232",
+            "startTime": 1791633600000,
+            "endTime": 1791642600000
+        },
+        {
+            "id": 3,
             "name": "\u7d44\u5408\u305b\u30b2\u30fc\u30e0 24 \u984c",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/game-24",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-489",
             "startTime": 1771122600000,
             "endTime": 1771128000000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 176",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-176",
-            "startTime": 1771079400000,
-            "endTime": 1771084800000
         }
     ]
 }
