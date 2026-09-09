@@ -202,7 +202,15 @@
         },
         {
             "id": 2,
-            "name": "Starters 255",
+            "name": "Placement Prep Weekends - 07",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP07",
+            "startTime": 1789151425000,
+            "endTime": 1789333140000
+        },
+        {
+            "id": 2,
+            "name": "Starters 255 (Rated still 6 stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START255",
             "startTime": 1788964200000,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/KeioPC2025",
             "startTime": 1771128000000,
             "endTime": 1771146000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 489",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-489",
-            "startTime": 1771122600000,
-            "endTime": 1771128000000
         }
     ]
 }
