@@ -58,7 +58,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 255",
+            "name": "Starters 258",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START258",
             "startTime": 1790778600000,
@@ -90,7 +90,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 255",
+            "name": "Starters 257",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START257",
             "startTime": 1790173800000,
@@ -143,6 +143,14 @@
             "link": "https://www.codechef.com/START256",
             "startTime": 1789569000000,
             "endTime": 1789576200000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 020 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY020",
+            "startTime": 1789392600000,
+            "endTime": 1789403400000
         },
         {
             "id": 1,
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2195",
             "startTime": 1771166700000,
             "endTime": 1771175700000
-        },
-        {
-            "id": 3,
-            "name": "\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c8 2025",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/KeioPC2025",
-            "startTime": 1771128000000,
-            "endTime": 1771146000000
         }
     ]
 }
