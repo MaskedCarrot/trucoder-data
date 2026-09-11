@@ -73,6 +73,14 @@
             "endTime": 1790523000000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 192",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-192",
+            "startTime": 1790433000000,
+            "endTime": 1790438400000
+        },
+        {
             "id": 3,
             "name": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY25",
             "startTime": 1771245000000,
             "endTime": 1771255800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1080 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2195",
-            "startTime": 1771166700000,
-            "endTime": 1771175700000
         }
     ]
 }
