@@ -42,6 +42,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Regular Contest 231",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc231",
+            "startTime": 1791115200000,
+            "endTime": 1791122400000
+        },
+        {
+            "id": 3,
             "name": "\u7d44\u5408\u305b\u30b2\u30fc\u30e0 24 \u984c",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/game-24",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START226",
             "startTime": 1771425000000,
             "endTime": 1771432200000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 25",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY25",
-            "startTime": 1771245000000,
-            "endTime": 1771255800000
         }
     ]
 }
