@@ -105,6 +105,14 @@
             "endTime": 1790430000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2267",
+            "startTime": 1790346900000,
+            "endTime": 1790354100000
+        },
+        {
             "id": 3,
             "name": "ALGO ARTIS Programming Contest 2026 September\uff08AtCoder Heuristic Contest 072\uff09",
             "platform": "Atcoder",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2192",
             "startTime": 1771684500000,
             "endTime": 1771691700000
-        },
-        {
-            "id": 1,
-            "name": "Kotlin Heroes: Practice 14",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2198",
-            "startTime": 1771684200000,
-            "endTime": 1772461800000
         }
     ]
 }
