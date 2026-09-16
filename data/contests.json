@@ -17,6 +17,14 @@
             "endTime": 1791795600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2270",
+            "startTime": 1791743700000,
+            "endTime": 1791752700000
+        },
+        {
             "id": 3,
             "name": "bogosort Programming Contest (Div. 1)",
             "platform": "Atcoder",
@@ -31,6 +39,22 @@
             "link": "https://atcoder.jp/contests/bogosortcontest_div2",
             "startTime": 1791691200000,
             "endTime": 1791709200000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2271",
+            "startTime": 1791644700000,
+            "endTime": 1791655500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2272",
+            "startTime": 1791644700000,
+            "endTime": 1791655500000
         },
         {
             "id": 3,
@@ -87,6 +111,22 @@
             "link": "https://leetcode.com/contest/weekly-contest-521",
             "startTime": 1790476200000,
             "endTime": 1790481600000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2268",
+            "startTime": 1790433300000,
+            "endTime": 1790442300000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2269",
+            "startTime": 1790433300000,
+            "endTime": 1790442300000
         },
         {
             "id": 4,
@@ -2359,46 +2399,6 @@
             "link": "https://codeforces.com/contests/2203",
             "startTime": 1772030100000,
             "endTime": 1772037300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 227 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START227",
-            "startTime": 1772029800000,
-            "endTime": 1772037000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1082 (Div. 1)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2201",
-            "startTime": 1771857300000,
-            "endTime": 1771866300000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1082 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2202",
-            "startTime": 1771857300000,
-            "endTime": 1771866300000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 26",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY26",
-            "startTime": 1771849800000,
-            "endTime": 1771860600000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 215",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc215",
-            "startTime": 1771761600000,
-            "endTime": 1771768800000
         }
     ]
 }
