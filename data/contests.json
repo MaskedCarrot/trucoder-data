@@ -25,6 +25,22 @@
             "endTime": 1791752700000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2273",
+            "startTime": 1791743700000,
+            "endTime": 1791752700000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2274",
+            "startTime": 1791743700000,
+            "endTime": 1791752700000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 479",
             "platform": "Atcoder",
@@ -2383,22 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND39",
             "startTime": 1772217000000,
             "endTime": 1772389800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1084 (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2200",
-            "startTime": 1772202900000,
-            "endTime": 1772211000000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1083 (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2205",
-            "startTime": 1772116500000,
-            "endTime": 1772125500000
         }
     ]
 }
