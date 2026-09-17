@@ -26,6 +26,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 479",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc479",
+            "startTime": 1791720000000,
+            "endTime": 1791726000000
+        },
+        {
+            "id": 3,
             "name": "bogosort Programming Contest (Div. 1)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/bogosortcontest_div1",
@@ -170,7 +178,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1122 (Div. 3)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2266",
             "startTime": 1790001300000,
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2205",
             "startTime": 1772116500000,
             "endTime": 1772125500000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2203",
-            "startTime": 1772030100000,
-            "endTime": 1772037300000
         }
     ]
 }
