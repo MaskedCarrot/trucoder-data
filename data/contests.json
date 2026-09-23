@@ -177,6 +177,14 @@
             "endTime": 1790430000000
         },
         {
+            "id": 2,
+            "name": "Placement Prep Weekends - 09",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP09",
+            "startTime": 1790361031000,
+            "endTime": 1790542740000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1123 (Div. 2)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://leetcode.com/contest/weekly-contest-491",
             "startTime": 1772332200000,
             "endTime": 1772337600000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 177",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-177",
-            "startTime": 1772289000000,
-            "endTime": 1772294400000
         }
     ]
 }
