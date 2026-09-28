@@ -10,6 +10,22 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 480",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc480",
+            "startTime": 1792238400000,
+            "endTime": 1792244400000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Heuristic Contest 073",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc073",
+            "startTime": 1792216800000,
+            "endTime": 1792231200000
+        },
+        {
+            "id": 3,
             "name": "",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/aalc001\">AAL Contest 001: Let",
@@ -55,6 +71,14 @@
             "link": "https://atcoder.jp/contests/bogosortcontest_div2",
             "startTime": 1791691200000,
             "endTime": 1791709200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 523",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-523",
+            "startTime": 1791685800000,
+            "endTime": 1791691200000
         },
         {
             "id": 1,
@@ -2375,30 +2399,6 @@
             "link": "https://codeforces.com/contests/2199",
             "startTime": 1772462100000,
             "endTime": 1772471100000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 27",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY27",
-            "startTime": 1772454600000,
-            "endTime": 1772465400000
-        },
-        {
-            "id": 3,
-            "name": "The 3rd Masters Championship-qual-",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/masters2026-qual",
-            "startTime": 1772337600000,
-            "endTime": 1772359200000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 491",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-491",
-            "startTime": 1772332200000,
-            "endTime": 1772337600000
         }
     ]
 }
