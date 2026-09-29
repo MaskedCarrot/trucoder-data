@@ -138,6 +138,14 @@
         },
         {
             "id": 2,
+            "name": "Placement Prep Weekends - 10",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP10",
+            "startTime": 1790965832000,
+            "endTime": 1791145740000
+        },
+        {
+            "id": 2,
             "name": "Starters 258",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START258",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START228",
             "startTime": 1772634600000,
             "endTime": 1772641800000
-        },
-        {
-            "id": 1,
-            "name": "Kotlin Heroes: Episode 14",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2199",
-            "startTime": 1772462100000,
-            "endTime": 1772471100000
         }
     ]
 }
