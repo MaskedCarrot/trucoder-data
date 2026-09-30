@@ -105,6 +105,22 @@
             "endTime": 1791642600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2275",
+            "startTime": 1791383700000,
+            "endTime": 1791392700000
+        },
+        {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 023 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY023",
+            "startTime": 1791207000000,
+            "endTime": 1791217800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Regular Contest 231",
             "platform": "Atcoder",
@@ -146,7 +162,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 258",
+            "name": "Starters 258 (Rated till 5 Star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START258",
             "startTime": 1790778600000,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc448",
             "startTime": 1772884800000,
             "endTime": 1772890800000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 40: Linux & Shell Scripting Challenges",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND40",
-            "startTime": 1772821800000,
-            "endTime": 1772994600000
-        },
-        {
-            "id": 2,
-            "name": "Starters 228 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START228",
-            "startTime": 1772634600000,
-            "endTime": 1772641800000
         }
     ]
 }
