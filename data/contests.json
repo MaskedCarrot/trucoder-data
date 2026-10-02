@@ -34,9 +34,9 @@
         },
         {
             "id": 3,
-            "name": "",
+            "name": "AAL Contest 001: Let's use segtree!",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/aalc001\">AAL Contest 001: Let",
+            "link": "https://atcoder.jp/contests/aalc001",
             "startTime": 1791777600000,
             "endTime": 1791795600000
         },
