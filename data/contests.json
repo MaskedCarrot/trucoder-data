@@ -9,6 +9,22 @@
             "endTime": 1794218400000
         },
         {
+            "id": 2,
+            "name": "Starters 262",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START262",
+            "startTime": 1793197800000,
+            "endTime": 1793205000000
+        },
+        {
+            "id": 2,
+            "name": "Starters 261",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START261",
+            "startTime": 1792593000000,
+            "endTime": 1792600200000
+        },
+        {
             "id": 1,
             "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
             "platform": "Codeforces",
@@ -31,6 +47,14 @@
             "link": "https://atcoder.jp/contests/ahc073",
             "startTime": 1792216800000,
             "endTime": 1792231200000
+        },
+        {
+            "id": 2,
+            "name": "Starters 260",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START260",
+            "startTime": 1791988200000,
+            "endTime": 1791995400000
         },
         {
             "id": 3,
@@ -119,6 +143,14 @@
             "link": "https://codeforces.com/contests/2275",
             "startTime": 1791383700000,
             "endTime": 1791392700000
+        },
+        {
+            "id": 2,
+            "name": "Starters 259",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START259",
+            "startTime": 1791383400000,
+            "endTime": 1791390600000
         },
         {
             "id": 2,
@@ -2367,38 +2399,6 @@
             "link": "https://www.codechef.com/START229",
             "startTime": 1773239400000,
             "endTime": 1773246600000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 28",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY28",
-            "startTime": 1773059400000,
-            "endTime": 1773070200000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1085 (Div. 1 + Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2207",
-            "startTime": 1772980500000,
-            "endTime": 1772991300000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 492",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-492",
-            "startTime": 1772937000000,
-            "endTime": 1772942400000
-        },
-        {
-            "id": 1,
-            "name": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2206",
-            "startTime": 1772934300000,
-            "endTime": 1772952300000
         }
     ]
 }
