@@ -57,6 +57,14 @@
             "endTime": 1791995400000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 024 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY024",
+            "startTime": 1791811800000,
+            "endTime": 1791822600000
+        },
+        {
             "id": 3,
             "name": "AAL Contest 001: Let's use segtree!",
             "platform": "Atcoder",
@@ -149,12 +157,12 @@
             "name": "Codeforces Round 1125 (Div. 3)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2275",
-            "startTime": 1791383700000,
-            "endTime": 1791392700000
+            "startTime": 1791384300000,
+            "endTime": 1791393300000
         },
         {
             "id": 2,
-            "name": "Starters 259",
+            "name": "Starters 259 (Rated till 6 star)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START259",
             "startTime": 1791383400000,
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc062",
             "startTime": 1773468000000,
             "endTime": 1773482400000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 41: DevOps",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND41",
-            "startTime": 1773426600000,
-            "endTime": 1773599400000
         }
     ]
 }
