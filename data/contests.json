@@ -137,6 +137,14 @@
             "endTime": 1791642600000
         },
         {
+            "id": 2,
+            "name": "Placement Prep Weekends - 11",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP11",
+            "startTime": 1791570608000,
+            "endTime": 1791750540000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round 1125 (Div. 3)",
             "platform": "Codeforces",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND41",
             "startTime": 1773426600000,
             "endTime": 1773599400000
-        },
-        {
-            "id": 2,
-            "name": "Starters 229 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START229",
-            "startTime": 1773239400000,
-            "endTime": 1773246600000
         }
     ]
 }
