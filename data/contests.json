@@ -25,6 +25,14 @@
             "endTime": 1793205000000
         },
         {
+            "id": 3,
+            "name": "AtCoder Regular Contest++ 233",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc233",
+            "startTime": 1792929600000,
+            "endTime": 1792938600000
+        },
+        {
             "id": 4,
             "name": "Biweekly Contest 194",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/waipc-qual",
             "startTime": 1773543600000,
             "endTime": 1773558000000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 493",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-493",
-            "startTime": 1773541800000,
-            "endTime": 1773547200000
         }
     ]
 }
