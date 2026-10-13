@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 482",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc482",
+            "startTime": 1793448000000,
+            "endTime": 1793454000000
+        },
+        {
+            "id": 3,
             "name": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/ahc074",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/START230",
             "startTime": 1773844200000,
             "endTime": 1773851400000
-        },
-        {
-            "id": 1,
-            "name": "Educational Codeforces Round 188 (Rated for Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2204",
-            "startTime": 1773671700000,
-            "endTime": 1773679800000
         }
     ]
 }
