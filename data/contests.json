@@ -10,6 +10,14 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 483",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc483",
+            "startTime": 1794052800000,
+            "endTime": 1794058800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 482",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc482",
@@ -82,7 +90,7 @@
         },
         {
             "id": 1,
-            "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
+            "name": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2261",
             "startTime": 1792247700000,
@@ -103,6 +111,14 @@
             "link": "https://atcoder.jp/contests/ahc073",
             "startTime": 1792216800000,
             "endTime": 1792231200000
+        },
+        {
+            "id": 2,
+            "name": "Placement Prep Weekends - 12",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP12",
+            "startTime": 1792175428000,
+            "endTime": 1792355340000
         },
         {
             "id": 1,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/joi2026final",
             "startTime": 1774051200000,
             "endTime": 1774069200000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 42: DevOps",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND42",
-            "startTime": 1774031400000,
-            "endTime": 1774204200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 230 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START230",
-            "startTime": 1773844200000,
-            "endTime": 1773851400000
         }
     ]
 }
