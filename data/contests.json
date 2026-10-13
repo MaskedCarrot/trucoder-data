@@ -81,6 +81,14 @@
             "endTime": 1792600200000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 025 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY025",
+            "startTime": 1792416600000,
+            "endTime": 1792427400000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 524",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc450",
             "startTime": 1774094400000,
             "endTime": 1774100400000
-        },
-        {
-            "id": 3,
-            "name": "JOI 2025/2026 \u30d5\u30a1\u30a4\u30ca\u30eb\u30b9\u30c6\u30fc\u30b8 \u904e\u53bb\u554f",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/joi2026final",
-            "startTime": 1774051200000,
-            "endTime": 1774069200000
         }
     ]
 }
