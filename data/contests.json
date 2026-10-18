@@ -17,6 +17,14 @@
             "endTime": 1794058800000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 3)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2278",
+            "startTime": 1793457300000,
+            "endTime": 1793465400000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 482",
             "platform": "Atcoder",
@@ -31,14 +39,6 @@
             "link": "https://atcoder.jp/contests/ahc074",
             "startTime": 1793354400000,
             "endTime": 1794218400000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round (Div. 3)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2278",
-            "startTime": 1793284500000,
-            "endTime": 1793292600000
         },
         {
             "id": 2,
