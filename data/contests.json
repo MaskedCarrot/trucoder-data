@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 484",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc484",
+            "startTime": 1794657600000,
+            "endTime": 1794663600000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Grand Contest 079",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/agc079",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DSAMONDAY30",
             "startTime": 1774269000000,
             "endTime": 1774279800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest++ 216",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc216",
-            "startTime": 1774180800000,
-            "endTime": 1774189800000
         }
     ]
 }
