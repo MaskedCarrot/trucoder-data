@@ -17,12 +17,44 @@
             "endTime": 1794150000000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2279",
+            "startTime": 1794062100000,
+            "endTime": 1794071100000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2280",
+            "startTime": 1794062100000,
+            "endTime": 1794071100000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 195",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-195",
+            "startTime": 1794061800000,
+            "endTime": 1794067200000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 483",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc483",
             "startTime": 1794052800000,
             "endTime": 1794058800000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 526",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-526",
+            "startTime": 1793500200000,
+            "endTime": 1793505600000
         },
         {
             "id": 1,
@@ -103,6 +135,14 @@
             "link": "https://codeforces.com/contests/2277",
             "startTime": 1792839900000,
             "endTime": 1792847100000
+        },
+        {
+            "id": 2,
+            "name": "Placement Prep Weekends - 12",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/PLACEPREP13",
+            "startTime": 1792780217000,
+            "endTime": 1793125740000
         },
         {
             "id": 2,
@@ -2359,46 +2399,6 @@
             "link": "https://atcoder.jp/contests/pakencamp-2025-day3",
             "startTime": 1774674000000,
             "endTime": 1774692000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 43: DevOps",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND43",
-            "startTime": 1774636200000,
-            "endTime": 1774809000000
-        },
-        {
-            "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2025 \u7b2c2\u65e5\u300c\u30d1\u7814\u676f\u300d",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2025-day2",
-            "startTime": 1774589400000,
-            "endTime": 1774605600000
-        },
-        {
-            "id": 3,
-            "name": "\u30d1\u7814\u5408\u5bbf2025 \u7b2c1\u65e5\u300cSpeedRun\u300d",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/pakencamp-2025-day1",
-            "startTime": 1774501200000,
-            "endTime": 1774510200000
-        },
-        {
-            "id": 2,
-            "name": "Starters 231 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START231",
-            "startTime": 1774449000000,
-            "endTime": 1774456200000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 30",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY30",
-            "startTime": 1774269000000,
-            "endTime": 1774279800000
         }
     ]
 }
