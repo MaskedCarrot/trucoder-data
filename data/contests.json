@@ -2,6 +2,14 @@
     "contests": [
         {
             "id": 3,
+            "name": "AtCoder Regular Contest++ 234",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/arc234",
+            "startTime": 1795348800000,
+            "endTime": 1795357800000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Beginner Contest 484",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc484",
@@ -2391,14 +2399,6 @@
             "link": "https://codeforces.com/contests/2211",
             "startTime": 1774709100000,
             "endTime": 1774718100000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 179",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-179",
-            "startTime": 1774708200000,
-            "endTime": 1774713600000
         }
     ]
 }
