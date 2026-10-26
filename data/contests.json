@@ -25,6 +25,14 @@
             "endTime": 1795268400000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2285",
+            "startTime": 1794753300000,
+            "endTime": 1794760500000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 484",
             "platform": "Atcoder",
@@ -79,6 +87,14 @@
             "link": "https://atcoder.jp/contests/abc483",
             "startTime": 1794052800000,
             "endTime": 1794058800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2284",
+            "startTime": 1793975700000,
+            "endTime": 1793983800000
         },
         {
             "id": 1,
@@ -206,7 +222,7 @@
             "platform": "Codechef",
             "link": "https://www.codechef.com/PLACEPREP13",
             "startTime": 1792780217000,
-            "endTime": 1793125740000
+            "endTime": 1792960140000
         },
         {
             "id": 2,
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/ahc063",
             "startTime": 1775210400000,
             "endTime": 1776074400000
-        },
-        {
-            "id": 1,
-            "name": "April Fools Day Contest 2026",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2214",
-            "startTime": 1775054100000,
-            "endTime": 1775061300000
-        },
-        {
-            "id": 2,
-            "name": "Starters 232 (Rated till 5 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START232",
-            "startTime": 1775053800000,
-            "endTime": 1775061000000
         }
     ]
 }
