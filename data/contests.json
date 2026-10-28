@@ -113,6 +113,14 @@
             "endTime": 1793810100000
         },
         {
+            "id": 2,
+            "name": "Monday Munch - DSA Challenge 027 (Rated)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DSAMONDAY027",
+            "startTime": 1793626200000,
+            "endTime": 1793637000000
+        },
+        {
             "id": 4,
             "name": "Weekly Contest 526",
             "platform": "Leetcode",
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND44",
             "startTime": 1775241000000,
             "endTime": 1775413800000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Heuristic Contest 063",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/ahc063",
-            "startTime": 1775210400000,
-            "endTime": 1776074400000
         }
     ]
 }
