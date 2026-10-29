@@ -25,6 +25,22 @@
             "endTime": 1795268400000
         },
         {
+            "id": 3,
+            "name": "AtCoder \u4f01\u696d\u5bfe\u6297\u30ea\u30fc\u30b0 2026 \u7b2c3\u6226",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/c-league2026-3",
+            "startTime": 1795172400000,
+            "endTime": 1795179600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder \u4f01\u696d\u5bfe\u6297\u30ea\u30fc\u30b0 2026 \u7b2c3\u6226(\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/c-league2026-3-open",
+            "startTime": 1795172400000,
+            "endTime": 1795179600000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -2383,22 +2399,6 @@
             "link": "https://codeforces.com/contests/2218",
             "startTime": 1775313300000,
             "endTime": 1775321400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 452",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc452",
-            "startTime": 1775304000000,
-            "endTime": 1775310000000
-        },
-        {
-            "id": 2,
-            "name": "Weekend Dev Challenge 44: Cybersecurity",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEVWEEKEND44",
-            "startTime": 1775241000000,
-            "endTime": 1775413800000
         }
     ]
 }
