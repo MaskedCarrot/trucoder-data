@@ -49,6 +49,14 @@
             "endTime": 1795179600000
         },
         {
+            "id": 2,
+            "name": "Starters 265",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START265",
+            "startTime": 1795012200000,
+            "endTime": 1795019400000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
@@ -63,6 +71,14 @@
             "link": "https://atcoder.jp/contests/abc484",
             "startTime": 1794657600000,
             "endTime": 1794663600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 264",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START264",
+            "startTime": 1794407400000,
+            "endTime": 1794414600000
         },
         {
             "id": 3,
@@ -135,6 +151,14 @@
             "link": "https://codeforces.com/contests/2283",
             "startTime": 1793802900000,
             "endTime": 1793810100000
+        },
+        {
+            "id": 2,
+            "name": "Starters 263",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START263",
+            "startTime": 1793802600000,
+            "endTime": 1793809800000
         },
         {
             "id": 2,
@@ -2375,30 +2399,6 @@
             "link": "https://codeforces.com/contests/2217",
             "startTime": 1775572500000,
             "endTime": 1775580600000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 32",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY32",
-            "startTime": 1775478600000,
-            "endTime": 1775489400000
-        },
-        {
-            "id": 3,
-            "name": "AtCoder Regular Contest 217",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/arc217",
-            "startTime": 1775390400000,
-            "endTime": 1775397600000
-        },
-        {
-            "id": 4,
-            "name": "Weekly Contest 496",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/weekly-contest-496",
-            "startTime": 1775356200000,
-            "endTime": 1775361600000
         }
     ]
 }
