@@ -5,8 +5,16 @@
             "name": "Kotlin Heroes: Episode 15",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/2282",
-            "startTime": 1795790100000,
-            "endTime": 1795799100000
+            "startTime": 1796740500000,
+            "endTime": 1796749500000
+        },
+        {
+            "id": 1,
+            "name": "Kotlin Heroes: Practice 15",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/2286",
+            "startTime": 1796135400000,
+            "endTime": 1796740200000
         },
         {
             "id": 3,
@@ -23,14 +31,6 @@
             "link": "https://atcoder.jp/contests/abc485",
             "startTime": 1795262400000,
             "endTime": 1795268400000
-        },
-        {
-            "id": 1,
-            "name": "Kotlin Heroes: Practice 15",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2286",
-            "startTime": 1795185000000,
-            "endTime": 1795789800000
         },
         {
             "id": 3,
