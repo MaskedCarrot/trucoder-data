@@ -18,11 +18,27 @@
         },
         {
             "id": 3,
+            "name": "AtCoder Beginner Contest 486",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc486",
+            "startTime": 1795867200000,
+            "endTime": 1795873200000
+        },
+        {
+            "id": 3,
             "name": "AtCoder Regular Contest++ 234",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/arc234",
             "startTime": 1795348800000,
             "endTime": 1795357800000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 196",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-196",
+            "startTime": 1795271400000,
+            "endTime": 1795276800000
         },
         {
             "id": 3,
@@ -63,6 +79,14 @@
             "link": "https://codeforces.com/contests/2285",
             "startTime": 1794753300000,
             "endTime": 1794760500000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 528",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-528",
+            "startTime": 1794709800000,
+            "endTime": 1794715200000
         },
         {
             "id": 3,
@@ -2375,30 +2399,6 @@
             "link": "https://www.codechef.com/DEVWEEKEND45",
             "startTime": 1775845800000,
             "endTime": 1776018600000
-        },
-        {
-            "id": 2,
-            "name": "Starters 233 (Rated till 6 star)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START233",
-            "startTime": 1775658600000,
-            "endTime": 1775665800000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/2217",
-            "startTime": 1775572500000,
-            "endTime": 1775580600000
-        },
-        {
-            "id": 2,
-            "name": "Monday Munch - DSA Challenge 32",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DSAMONDAY32",
-            "startTime": 1775478600000,
-            "endTime": 1775489400000
         }
     ]
 }
